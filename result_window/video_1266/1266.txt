@@ -1,0 +1,3189 @@
+Skipping ProxyFetcher due to No module named 'ballyregan'.
+{'subscription': {'isActive': True, 'planType': 'yearly', 'id': 'U3Vic2NyaXB0aW9uOjA=', 'purchaseType': 'web', 'isComplimentary': False, 'expiresTime': 1769173621000000, 'willCancelAtPeriodEnd': False, 'isFreeTrial': False, 'purchaseRevocationReason': None}, 'messagePointInfo': {'messagePointResetTime': 1740182518000000, 'messagePointBalance': 319138, 'totalMessagePointAllotment': 1000000, 'id': 'TWVzc2FnZVBvaW50SW5mbzow'}}
+num of gtscore: 188
+Processing video_1266
+Video Title: Gastón - La Bella y la Bestia - Keunam cover
+Categories: ['Comedy']
+Tags: ['bella y bestia', 'gaston', 'lefoy', 'la bella y la bestia', 'bella', 'bestia', 'disney', 'fandub', 'doblaje', 'keunam', 'canto', 'cantar', 'cantante', 'taberna', 'cuento', 'clasico', 'canciones disney', 'cancion disney']
+
+0 ['./dataset/youtube/video_1266/frames/0.png', './dataset/youtube/video_1266/frames/1.png', './dataset/youtube/video_1266/frames/2.png', './dataset/youtube/video_1266/frames/3.png', './dataset/youtube/video_1266/frames/4.png']
+### Keywords and Context Analysis
+Based on the video's information, keywords that might attract viewers include:
+- **Disney**, **Beauty and the Beast**, **Gaston**, **cover**, **Keunam**, **fandub**, **classic**, **song**, **comedy**, **dubbing**, **musical**, **animated**, **taberna**, **fairy tale**, **classic Disney**, **singing**, **Disney songs**.
+
+### JSON Rating of Frames
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 1, "rating": 75},
+    {"frame": 2, "rating": 75},
+    {"frame": 3, "rating": 75},
+    {"frame": 4, "rating": 75}
+]
+```
+
+### Explanation of Ratings
+
+#### **Frame 0**
+- **Content**: Depicts the castle in a dark and snowy setting. This sets an ominous and mysterious tone, which is relevant to the Beauty and the Beast theme but lacks dynamic or engaging action.
+- **Analysis**: While it aligns with the fairy tale and Disney theme, it lacks vibrancy or a focal element to captivate viewers.
+- **Rating**: 60 (decent thematic value but less engaging visually).
+
+#### **Frame 1**
+- **Content**: A bird's-eye view of a village with lighted windows and a central fountain. The environment is more inviting and relevant to the Disney aesthetic.
+- **Analysis**: The warm lighting and architectural details evoke a feeling of nostalgia and familiarity, fitting for the classic Disney setting. This frame is visually richer than Frame 0.
+- **Rating**: 75 (better aesthetic and thematic alignment).
+
+#### **Frame 2**
+- **Content**: Similar to Frame 1, showing the same village scene with no significant changes.
+- **Analysis**: The continuity of the village scene maintains the same level of interest. No new elements are introduced to alter the rating.
+- **Rating**: 75 (consistent quality with Frame 1).
+
+#### **Frame 3**
+- **Content**: Again, the same village scene, maintaining the same atmosphere and details.
+- **Analysis**: The frame does not deviate from the previous ones, ensuring consistency in visual appeal and thematic relevance.
+- **Rating**: 75 (consistent quality).
+
+#### **Frame 4**
+- **Content**: Still the same village scene with no noticeable changes.
+- **Analysis**: While the repetition does not enhance the frame's interest, it still retains the same visual and thematic appeal as the earlier frames.
+- **Rating**: 75 (consistent quality).
+
+### Summary
+The village scenes (Frames 1-4) have a higher rating due to their nostalgic and visually appealing representation of the classic Disney setting. Frame 0, while thematic, is less engaging, resulting in a lower score.
+
+###################################################
+###################################################
+
+1 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/1.png', './dataset/youtube/video_1266/tmp/2.png', './dataset/youtube/video_1266/tmp/3.png', './dataset/youtube/video_1266/tmp/4.png', './dataset/youtube/video_1266/frames/5.png', './dataset/youtube/video_1266/frames/6.png', './dataset/youtube/video_1266/frames/7.png', './dataset/youtube/video_1266/frames/8.png', './dataset/youtube/video_1266/frames/9.png']
+### Step 1: Keywords That May Attract Viewers
+Based on the video information provided, the following keywords are likely to attract viewers:
+- **Disney**  
+- **La Bella y la Bestia**  
+- **Gastón**  
+- **Fandub**  
+- **Keunam**  
+- **Comedy**  
+- **Classic songs**  
+- **Cultural nostalgia**  
+- **Disney covers**  
+
+These keywords appeal to fans of Disney, nostalgic audiences, comedy lovers, and those interested in creative musical reinterpretations.
+
+---
+
+### Step 2: JSON Output of Ratings
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 1, "rating": 75},
+    {"frame": 2, "rating": 75},
+    {"frame": 3, "rating": 75},
+    {"frame": 4, "rating": 75},
+    {"frame": 5, "rating": 75},
+    {"frame": 6, "rating": 75},
+    {"frame": 7, "rating": 85},
+    {"frame": 8, "rating": 85},
+    {"frame": 9, "rating": 85}
+]
+```
+
+---
+
+### Analysis of Frames and Ratings
+
+1. **Frame 0**:  
+   - Content: A dark, ominous castle shrouded in mist and snow.  
+   - Analysis: While visually engaging, it primarily sets the tone for the video and isn't highly dynamic. It aligns with the "classic Disney" theme but lacks immediate humor or musical elements.  
+   - **Rating: 60**
+
+2. **Frame 1**:  
+   - Content: A bird's-eye view of a small village with warm lighting and visible architectural details.  
+   - Analysis: This frame introduces a classic Disney setting, evoking nostalgia and charm. The warmth of the lighting contrasts with the cold exterior, creating a stronger visual appeal.  
+   - **Rating: 75**
+
+3. **Frame 2**:  
+   - Content: Similar to Frame 1, showing the same village scene from a slightly different angle.  
+   - Analysis: The village scene continues to be visually appealing but lacks significant variation from the previous frame.  
+   - **Rating: 75**
+
+4. **Frame 3**:  
+   - Content: Another slight variation of the village view.  
+   - Analysis: Still consistent with the nostalgic Disney theme, but with no new elements added.  
+   - **Rating: 75**
+
+5. **Frame 4**:  
+   - Content: Continuation of the same village shot.  
+   - Analysis: The frame is visually pleasing but becomes repetitive. No new points of interest are introduced.  
+   - **Rating: 75**
+
+6. **Frame 5**:  
+   - Content: A closer view of the village, slightly zoomed in on the fountain.  
+   - Analysis: While it provides subtle details, it remains part of the same repetitive sequence and doesn't add much new intrigue.  
+   - **Rating: 75**
+
+7. **Frame 6**:  
+   - Content: Another closer view of the village, focusing on the fountain and surrounding buildings.  
+   - Analysis: The frame still maintains the nostalgic Disney charm, but it lacks dynamic action or humor.  
+   - **Rating: 75**
+
+8. **Frame 7**:  
+   - Content: Interior of a cozy, lively tavern with characters interacting.  
+   - Analysis: This frame is highly engaging, showing detailed character interactions and warm lighting. It aligns closely with the comedic and musical themes of the video, making it more interesting.  
+   - **Rating: 85**
+
+9. **Frame 8**:  
+   - Content: A continuation of the tavern interior, showing more character activity.  
+   - Analysis: The lively atmosphere and detailed scene composition continue to captivate the viewer, with a stronger focus on humor and interaction.  
+   - **Rating: 85**
+
+10. **Frame 9**:  
+    - Content: Another view of the tavern interior with characters actively interacting.  
+    - Analysis: Similar to Frames 7 and 8, this frame emphasizes humor, character dynamics, and the cozy setting, which are central to the video's appeal.  
+    - **Rating: 85**
+
+---
+
+### Summary
+The earlier frames (0–6) establish the setting and atmosphere, which are nostalgic but less dynamic. The later frames (7–9) introduce more engaging and entertaining elements (character interactions, humor, and warmth), earning higher scores.
+
+###################################################
+###################################################
+
+2 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/1.png', './dataset/youtube/video_1266/tmp/2.png', './dataset/youtube/video_1266/tmp/7.png', './dataset/youtube/video_1266/tmp/9.png', './dataset/youtube/video_1266/frames/10.png', './dataset/youtube/video_1266/frames/11.png', './dataset/youtube/video_1266/frames/12.png', './dataset/youtube/video_1266/frames/13.png', './dataset/youtube/video_1266/frames/14.png']
+### Step 1: Extracting Keywords
+Based on the video information, the following keywords can attract viewers:
+- **Disney**, **La Bella y la Bestia**, **Gaston**, **Comedy**, **Fandub**, **Keunam**, **Classic Disney Songs**, **Covers**, **Canto**, **Taberna Scene**.
+
+These keywords emphasize the Disney theme, humor, musical performance, and familiarity with iconic characters/scenes.
+
+---
+
+### Step 2: JSON Ratings for Frames
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 1, "rating": 75},
+    {"frame": 2, "rating": 75},
+    {"frame": 7, "rating": 85},
+    {"frame": 9, "rating": 85},
+    {"frame": 10, "rating": 90},
+    {"frame": 11, "rating": 88},
+    {"frame": 12, "rating": 92},
+    {"frame": 13, "rating": 95},
+    {"frame": 14, "rating": 95}
+]
+```
+
+---
+
+### Step 3: Analysis and Explanation of Ratings
+
+#### **Frame 0:**
+- **Content:** A distant view of a castle in a snowy environment.
+- **Analysis:** This frame sets the tone for the video, referencing the iconic setting of "La Bella y la Bestia." While atmospheric, it lacks dynamic action or characters.
+- **Rating:** 60 (Good for setting but not highly engaging).
+
+#### **Frame 1 and Frame 2:**
+- **Content:** A closer view of a snowy village courtyard.
+- **Analysis:** These frames bring us closer to the setting and hint at storytelling elements. The lighting and details add interest, but no notable character interaction.
+- **Rating:** 75 (Visually engaging but lacks action).
+
+#### **Frame 7 and Frame 9:**
+- **Content:** Interior of Gaston’s tavern, featuring patrons and warm lighting.
+- **Analysis:** These frames capture the lively and iconic tavern atmosphere, recognizable from Disney’s "La Bella y la Bestia." However, the focus remains on the background rather than main characters.
+- **Rating:** 85 (Nostalgic and visually rich).
+
+#### **Frame 10:**
+- **Content:** Gaston seated in his chair, looking frustrated.
+- **Analysis:** This frame introduces Gaston, a key character, making it more engaging. His expression adds humor and personality.
+- **Rating:** 90 (Character-focused and engaging).
+
+#### **Frame 11:**
+- **Content:** Gaston reacting with animated gestures, accompanied by LeFou.
+- **Analysis:** The dynamic interaction between Gaston and LeFou adds humor and vibrancy, making it more engaging than Frame 10.
+- **Rating:** 88 (Humorous and animated).
+
+#### **Frame 12:**
+- **Content:** Gaston holding beer mugs, animated interaction with LeFou.
+- **Analysis:** The scene becomes more dynamic with the addition of props (beer mugs) and interaction. This aligns with the tavern's comedic and lively theme.
+- **Rating:** 92 (Dynamic and humorous).
+
+#### **Frame 13 and Frame 14:**
+- **Content:** Gaston and LeFou in a comedic moment, spilling beer.
+- **Analysis:** These frames capture peak humor, with exaggerated expressions and physical comedy. This is likely the highlight of the tavern sequence.
+- **Rating:** 95 (Highly engaging, comedic peak).
+
+---
+
+### Summary
+Frames showing characters (especially Gaston and LeFou) in dynamic or humorous situations scored higher due to their entertainment value. Setting-focused frames scored lower as they lacked character interaction.
+
+###################################################
+###################################################
+
+3 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/1.png', './dataset/youtube/video_1266/tmp/11.png', './dataset/youtube/video_1266/tmp/12.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/frames/15.png', './dataset/youtube/video_1266/frames/16.png', './dataset/youtube/video_1266/frames/17.png', './dataset/youtube/video_1266/frames/18.png', './dataset/youtube/video_1266/frames/19.png']
+### Keywords Summary and Analysis
+
+**Keywords to Attract Viewers**:  
+Based on the video information (`Comedy`, `La Bella y la Bestia`, `Disney`, `Gaston`, `Keunam`, `cover`, `canción Disney`, `clásico`), viewers may be attracted by the following keywords:  
+- Disney Classics  
+- Beauty and the Beast  
+- Gaston  
+- Comedy  
+- Dubbing (Fandub)  
+- Keunam (specific creator name)  
+- Music and Singing Covers  
+
+Analyzing the frames, I will assess each one based on its visual appeal, relevance to the theme (Disney, humor, singing), and emotional impact.
+
+---
+
+### JSON Ratings  
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 1, "rating": 75},
+    {"frame": 11, "rating": 88},
+    {"frame": 12, "rating": 92},
+    {"frame": 13, "rating": 95},
+    {"frame": 15, "rating": 85},
+    {"frame": 16, "rating": 80},
+    {"frame": 17, "rating": 78},
+    {"frame": 18, "rating": 83},
+    {"frame": 19, "rating": 84}
+]
+```
+
+---
+
+### Analysis and Explanation  
+
+1. **Frame 0 (Rating: 60)**  
+   - **Content**: A dark and misty castle scene, likely the Beast's castle.  
+   - **Appeal**: While it sets a mysterious and atmospheric tone, it lacks vibrant or comedic elements to attract strong engagement.  
+   - **Relevance**: Relevant to "Beauty and the Beast", but not visually dynamic.  
+
+2. **Frame 1 (Rating: 75)**  
+   - **Content**: A top-down view of a lively village scene at night.  
+   - **Appeal**: More engaging than Frame 0, as it evokes the classic Disney village setting.  
+   - **Relevance**: Strong connection to the story's iconic village setting.  
+
+3. **Frame 11 (Rating: 88)**  
+   - **Content**: Gaston and LeFou in an animated, expressive moment inside the tavern.  
+   - **Appeal**: Very engaging due to Gaston's dramatic expression and the rich tavern background.  
+   - **Relevance**: Strong tie to the comedic and musical aspects of the video.  
+
+4. **Frame 12 (Rating: 92)**  
+   - **Content**: Gaston and LeFou raising mugs, suggesting a celebratory or comedic moment.  
+   - **Appeal**: High emotional and thematic engagement due to humor and energy.  
+   - **Relevance**: Perfectly aligns with the "Gaston" song and humor.  
+
+5. **Frame 13 (Rating: 95)**  
+   - **Content**: Gaston and LeFou in an exaggerated, action-filled pose.  
+   - **Appeal**: The most dynamic frame so far, combining humor, action, and character interaction.  
+   - **Relevance**: Core to the comedic and musical theme of the video.  
+
+6. **Frame 15 (Rating: 85)**  
+   - **Content**: Gaston aggressively interacting with LeFou, spilling drinks.  
+   - **Appeal**: High humor and action appeal, though slightly less impactful than Frame 13.  
+   - **Relevance**: Strong connection to the comedic elements.  
+
+7. **Frame 16 (Rating: 80)**  
+   - **Content**: Gaston seated, looking contemplative or annoyed, with LeFou nearby.  
+   - **Appeal**: Less dynamic, but still engaging due to Gaston's expression and the fiery background.  
+   - **Relevance**: Relevant but not as visually or emotionally striking.  
+
+8. **Frame 17 (Rating: 78)**  
+   - **Content**: Close-up of LeFou gesturing with a humorous expression.  
+   - **Appeal**: Focus on LeFou's comedic personality, but less dynamic compared to group scenes.  
+   - **Relevance**: Adds humor but lacks action or strong visual appeal.  
+
+9. **Frame 18 (Rating: 83)**  
+   - **Content**: Gaston and LeFou in an action moment, likely during a comedic mishap.  
+   - **Appeal**: Combines humor and movement, keeping the viewer engaged.  
+   - **Relevance**: Core to the scene's theme of humor and action.  
+
+10. **Frame 19 (Rating: 84)**  
+    - **Content**: Gaston and LeFou in another action-comedy moment.  
+    - **Appeal**: Similar to Frame 18, but slightly more engaging due to Gaston's exaggerated pose.  
+    - **Relevance**: Strong alignment with the comedic and musical themes.  
+
+--- 
+
+**Overall Insights**:  
+Frames 12 and 13 are the most engaging due to their humor, action, and strong connection to the video's theme. Frames 0 and 1, while atmospheric, lack the dynamic appeal of later scenes. The interplay between Gaston and LeFou drives the higher ratings.
+
+###################################################
+###################################################
+
+4 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/4.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/18.png', './dataset/youtube/video_1266/tmp/19.png', './dataset/youtube/video_1266/frames/20.png', './dataset/youtube/video_1266/frames/21.png', './dataset/youtube/video_1266/frames/22.png', './dataset/youtube/video_1266/frames/23.png', './dataset/youtube/video_1266/frames/24.png']
+### Analysis and JSON Response
+
+#### Keywords
+Based on the video title, categories, and tags, the following keywords might attract viewers:
+- Disney
+- La Bella y la Bestia
+- Gastón
+- Keunam
+- Comedy
+- Doblaje (fandub)
+- Canciones Disney
+- Classic storytelling
+- Humor
+- Taberna
+
+These keywords suggest a mix of nostalgia, humor, and music, appealing to both Disney fans and those interested in comedic covers or dubbing.
+
+---
+
+### JSON Output
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 4, "rating": 75},
+    {"frame": 13, "rating": 95},
+    {"frame": 18, "rating": 83},
+    {"frame": 19, "rating": 84},
+    {"frame": 20, "rating": 82},
+    {"frame": 21, "rating": 81},
+    {"frame": 22, "rating": 80},
+    {"frame": 23, "rating": 78},
+    {"frame": 24, "rating": 77}
+]
+```
+
+---
+
+### Frame Analysis and Ratings
+
+1. **Frame 0**:
+   - **Content**: A dark, snowy castle in a mysterious setting.
+   - **Analysis**: While atmospheric and setting the tone of the story, it lacks action or character presence. The mood is significant but not inherently engaging.
+   - **Rating**: 60 (Moderate interest).
+
+2. **Frame 4**:
+   - **Content**: A scenic village view with a central fountain and warm lighting.
+   - **Analysis**: The village evokes nostalgia and warmth, connecting with the Disney theme. The aesthetic appeal gives it a higher score.
+   - **Rating**: 75 (Good interest).
+
+3. **Frame 13**:
+   - **Content**: Gastón and LeFou in an expressive, comedic pose with beer mugs.
+   - **Analysis**: Strong character interaction, humor, and energy make this frame highly engaging. This is a standout moment tied to the comedic and musical aspects of the video.
+   - **Rating**: 95 (Very high interest).
+
+4. **Frame 18**:
+   - **Content**: Gastón and LeFou in a humorous moment involving a large animal pelt.
+   - **Analysis**: The comedic dynamic continues, though slightly less impactful than Frame 13 due to reduced expressiveness.
+   - **Rating**: 83 (High interest).
+
+5. **Frame 19**:
+   - **Content**: Similar to Frame 18, with Gastón interacting with the animal pelt and LeFou reacting.
+   - **Analysis**: The humor remains consistent, with slight variation in positioning.
+   - **Rating**: 84 (Slightly higher due to clearer action).
+
+6. **Frame 20**:
+   - **Content**: LeFou gesturing animatedly towards Gastón.
+   - **Analysis**: The humor persists, but the frame focuses more on LeFou, reducing the overall visual dynamism.
+   - **Rating**: 82.
+
+7. **Frame 21**:
+   - **Content**: LeFou's continued gestures and Gastón's stoic positioning.
+   - **Analysis**: The humor is still present but slightly repetitive, making it less engaging.
+   - **Rating**: 81.
+
+8. **Frame 22**:
+   - **Content**: LeFou and Gastón in a playful moment with exaggerated expressions.
+   - **Analysis**: The humor is consistent, though less impactful than earlier frames.
+   - **Rating**: 80.
+
+9. **Frame 23**:
+   - **Content**: LeFou animatedly reacting, with Gastón in the background.
+   - **Analysis**: The comedic tone continues, but the focus shifts more to LeFou, making it slightly less dynamic.
+   - **Rating**: 78.
+
+10. **Frame 24**:
+    - **Content**: LeFou in an exaggerated motion mid-reaction.
+    - **Analysis**: The humor is still present, but the repetitive nature of the scene lowers its overall impact.
+    - **Rating**: 77.
+
+---
+
+### Summary
+Frames with strong character interaction and humor (e.g., Frame 13) score the highest, while scenic or less dynamic frames score lower. The ratings reflect a balance of visual appeal, humor, and connection to the keywords.
+
+###################################################
+###################################################
+
+5 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/1.png', './dataset/youtube/video_1266/tmp/11.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/21.png', './dataset/youtube/video_1266/frames/25.png', './dataset/youtube/video_1266/frames/26.png', './dataset/youtube/video_1266/frames/27.png', './dataset/youtube/video_1266/frames/28.png', './dataset/youtube/video_1266/frames/29.png']
+### Keywords to Attract Viewers:
+From the video information, the following keywords are likely to attract viewers:
+- **Disney**: Recognizable brand, universal appeal.
+- **La Bella y la Bestia**: Nostalgia and familiarity with the classic story.
+- **Gaston and LeFou**: Iconic characters with comedic and memorable traits.
+- **Comedy and Fandub**: Indicates humor and creative reinterpretation.
+- **Canto and Canciones Disney**: Appeals to music lovers and Disney song fans.
+
+---
+
+### JSON Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 1, "rating": 75},
+    {"frame": 11, "rating": 88},
+    {"frame": 13, "rating": 95},
+    {"frame": 21, "rating": 81},
+    {"frame": 25, "rating": 85},
+    {"frame": 26, "rating": 83},
+    {"frame": 27, "rating": 84},
+    {"frame": 28, "rating": 80},
+    {"frame": 29, "rating": 79}
+]
+```
+
+---
+
+### Analysis and Explanation of Ratings:
+
+1. **Frame 0**:  
+   - **Content**: A castle in a snowy and mysterious setting.  
+   - **Analysis**: While visually appealing and atmospheric, it lacks dynamic action or comedic elements.  
+   - **Rating**: 60 (moderate interest due to subtle beauty).
+
+2. **Frame 1**:  
+   - **Content**: A closer view of the village with some activity visible.  
+   - **Analysis**: More engaging than the previous frame due to the presence of people and a richer setting.  
+   - **Rating**: 75 (interesting but not highly dynamic).
+
+3. **Frame 11**:  
+   - **Content**: Gaston and LeFou in an animated discussion inside the tavern.  
+   - **Analysis**: Strongly connected to the comedic and character-focused appeal of the video.  
+   - **Rating**: 88 (high interest due to character interaction).
+
+4. **Frame 13**:  
+   - **Content**: Gaston and LeFou in a lively moment, emphasizing energy and humor.  
+   - **Analysis**: Captures peak comedic and animated storytelling, appealing strongly to viewers.  
+   - **Rating**: 95 (highest interest due to action and humor).
+
+5. **Frame 21**:  
+   - **Content**: LeFou animatedly interacting with Gaston.  
+   - **Analysis**: Adds humor but slightly less energy than Frame 13.  
+   - **Rating**: 81 (lighthearted and engaging).
+
+6. **Frame 25**:  
+   - **Content**: LeFou hugging Gaston in an exaggerated comedic manner.  
+   - **Analysis**: Strong comedic tone, indicative of classic Disney humor.  
+   - **Rating**: 85 (fun and visually entertaining).
+
+7. **Frame 26**:  
+   - **Content**: Continuation of the comedic interaction between LeFou and Gaston.  
+   - **Analysis**: Slightly less dynamic than Frame 25 but still engaging.  
+   - **Rating**: 83 (consistent humor).
+
+8. **Frame 27**:  
+   - **Content**: Gaston reacting to LeFou's antics with dramatic gestures.  
+   - **Analysis**: Adds character depth and humor with Gaston's animation.  
+   - **Rating**: 84 (humorous and character-driven).
+
+9. **Frame 28**:  
+   - **Content**: Gaston brooding, with LeFou continuing to interact.  
+   - **Analysis**: Less dynamic but adds to character development and humor.  
+   - **Rating**: 80 (slightly less engaging).
+
+10. **Frame 29**:  
+    - **Content**: Gaston and LeFou in a quieter moment with subtle humor.  
+    - **Analysis**: Less action-packed but maintains character charm.  
+    - **Rating**: 79 (mildly interesting).
+
+###################################################
+###################################################
+
+6 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/1.png', './dataset/youtube/video_1266/tmp/7.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/18.png', './dataset/youtube/video_1266/frames/30.png', './dataset/youtube/video_1266/frames/31.png', './dataset/youtube/video_1266/frames/32.png', './dataset/youtube/video_1266/frames/33.png', './dataset/youtube/video_1266/frames/34.png']
+### Keywords Summary:
+**Keywords to attract viewers based on the video information:**
+- Disney
+- Gastón
+- La Bella y la Bestia
+- Comedy
+- Musical
+- Classic
+- Fandub
+- Doblaje
+- Iconic scenes
+- Nostalgia
+- Songs from Disney
+
+These keywords focus on the appeal of Disney classics and the comedic, musical nature of the video.
+
+---
+
+### JSON Response:
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 1, "rating": 75},
+    {"frame": 7, "rating": 85},
+    {"frame": 13, "rating": 95},
+    {"frame": 18, "rating": 83},
+    {"frame": 30, "rating": 80},
+    {"frame": 31, "rating": 82},
+    {"frame": 32, "rating": 79},
+    {"frame": 33, "rating": 78},
+    {"frame": 34, "rating": 87}
+]
+```
+
+---
+
+### Frame Analysis and Rating Explanation:
+
+1. **Frame 0 (Rating: 60):**
+   - **Content:** A mysterious castle in the snow with dark tones.
+   - **Analysis:** While it sets an intriguing and dramatic mood, it is less dynamic compared to other scenes. It appeals to nostalgia but lacks vibrant activity.
+
+2. **Frame 1 (Rating: 75):**
+   - **Content:** A bird's-eye view of the village with some animated activity.
+   - **Analysis:** This frame is more visually engaging, showcasing the setting. It introduces the viewer to the context of the story, which holds more interest.
+
+3. **Frame 7 (Rating: 85):**
+   - **Content:** Inside the tavern, showing characters interacting and enjoying themselves.
+   - **Analysis:** This is a lively and warm scene, rich in detail. The tavern setting is iconic in Gastón's song, making it memorable and appealing.
+
+4. **Frame 13 (Rating: 95):**
+   - **Content:** Gastón and LeFou in an animated and intense moment.
+   - **Analysis:** A highly expressive frame showing strong character dynamics. Gastón's commanding presence makes this a highlight moment.
+
+5. **Frame 18 (Rating: 83):**
+   - **Content:** Gastón in action, interacting with his environment.
+   - **Analysis:** While dynamic, it is slightly less dramatic than frame 13. It still holds strong interest due to character animation.
+
+6. **Frame 30 (Rating: 80):**
+   - **Content:** Gastón and LeFou in a close-up interaction.
+   - **Analysis:** A humorous and expressive frame that highlights their relationship. While engaging, it lacks the broader activity of other frames.
+
+7. **Frame 31 (Rating: 82):**
+   - **Content:** Gastón gesturing animatedly at LeFou.
+   - **Analysis:** Slightly more engaging than frame 30, with more character expression and movement.
+
+8. **Frame 32 (Rating: 79):**
+   - **Content:** LeFou reacting dramatically to Gastón.
+   - **Analysis:** This frame emphasizes humor and character interaction but is slightly less visually interesting than others.
+
+9. **Frame 33 (Rating: 78):**
+   - **Content:** Gastón in a strong pose, showcasing his strength.
+   - **Analysis:** A moment of Gastón asserting his character, but it lacks the humor or iconic appeal of other frames.
+
+10. **Frame 34 (Rating: 87):**
+    - **Content:** A lively tavern scene with multiple characters celebrating.
+    - **Analysis:** Energetic and iconic, this frame captures the joy and camaraderie of the tavern, making it very engaging.
+
+---
+
+### Conclusion:
+Frames with dynamic character interactions, iconic settings, and expressive actions received higher ratings. Frames focused on mood-setting or less dynamic moments received lower scores.
+
+###################################################
+###################################################
+
+7 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/20.png', './dataset/youtube/video_1266/tmp/21.png', './dataset/youtube/video_1266/tmp/29.png', './dataset/youtube/video_1266/frames/35.png', './dataset/youtube/video_1266/frames/36.png', './dataset/youtube/video_1266/frames/37.png', './dataset/youtube/video_1266/frames/38.png', './dataset/youtube/video_1266/frames/39.png']
+### Keywords Summary:
+Based on the video background, some keywords that might attract viewers are:
+- **Iconic Characters**: Gastón, Lefou, Bella, Bestia
+- **Disney and Classic Themes**: Disney, classic, fairy tale
+- **Music and Performance**: cover, singing, songs, Disney songs
+- **Comedy and Entertainment**: humor, parody, tavern, fandub
+
+---
+
+### JSON Response with Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 13, "rating": 95},
+    {"frame": 20, "rating": 82},
+    {"frame": 21, "rating": 81},
+    {"frame": 29, "rating": 79},
+    {"frame": 35, "rating": 90},
+    {"frame": 36, "rating": 90},
+    {"frame": 37, "rating": 85},
+    {"frame": 38, "rating": 86},
+    {"frame": 39, "rating": 84}
+]
+```
+
+---
+
+### Image Content Analysis and Rating Explanation:
+
+1. **Frame 0 (Rating: 60)**  
+   - **Content**: A dark, atmospheric shot of a mysterious castle obscured by mist and snow.  
+   - **Analysis**: While visually intriguing, it lacks direct engagement and humor, which are key attractions for the comedic and musical theme of the video.  
+   - **Reason for Rating**: The frame sets the mood but doesn't strongly align with the comedic or musical appeal.
+
+2. **Frame 13 (Rating: 95)**  
+   - **Content**: Gastón and Lefou in a dynamic and humorous moment in the tavern, with drinks spilling over.  
+   - **Analysis**: This frame encapsulates the vibrant energy and comedy associated with Gastón's character, making it very engaging.  
+   - **Reason for Rating**: High humor, dynamic action, and relevance to the iconic scene.
+
+3. **Frame 20 (Rating: 82)**  
+   - **Content**: Lefou gesturing animatedly while Gastón sits in the unique chair shaped like a beast.  
+   - **Analysis**: The humor and setting are evident, though the frame is less dynamic than Frame 13.  
+   - **Reason for Rating**: Strong comedic appeal, but slightly less impactful compared to Frame 13.
+
+4. **Frame 21 (Rating: 81)**  
+   - **Content**: Similar to Frame 20 but with Lefou in a slightly different posture.  
+   - **Analysis**: The humor is present, though the frame feels repetitive compared to Frame 20.  
+   - **Reason for Rating**: Slightly lower interest due to less variation.
+
+5. **Frame 29 (Rating: 79)**  
+   - **Content**: Gastón looks bored while Lefou is mid-action.  
+   - **Analysis**: The humor is situational, with Gastón's expression standing out, but it is less energetic compared to other frames.  
+   - **Reason for Rating**: Good character expression but lacks dynamic action.
+
+6. **Frame 35 (Rating: 90)**  
+   - **Content**: A lively group scene in the tavern with multiple characters celebrating.  
+   - **Analysis**: This frame captures the essence of the song's festive and comedic atmosphere.  
+   - **Reason for Rating**: High energy and humor, with a focus on multiple characters.
+
+7. **Frame 36 (Rating: 90)**  
+   - **Content**: Similar to Frame 35, with minor variations in character movements.  
+   - **Analysis**: Equally engaging and energetic as Frame 35.  
+   - **Reason for Rating**: Retains the same appeal as Frame 35.
+
+8. **Frame 37 (Rating: 85)**  
+   - **Content**: Gastón seated in the beast-shaped chair with a contemplative expression and a cozy fireplace in the background.  
+   - **Analysis**: The frame is visually appealing and showcases Gastón's personality, though it lacks the humor of other frames.  
+   - **Reason for Rating**: Strong character focus but less dynamic.
+
+9. **Frame 38 (Rating: 86)**  
+   - **Content**: Gastón begins to move, adding subtle action to the contemplative scene.  
+   - **Analysis**: Adds a slight dynamic element to the previous frame, making it more engaging.  
+   - **Reason for Rating**: A minor improvement in engagement due to the added action.
+
+10. **Frame 39 (Rating: 84)**  
+    - **Content**: Gastón in mid-motion, exiting the frame.  
+    - **Analysis**: The humor and character focus are reduced as the action transitions.  
+    - **Reason for Rating**: Slightly less engaging than Frame 38.
+
+---
+
+### Final Notes:
+Frames that capture humor, iconic moments, or dynamic interactions (e.g., Frame 13, Frame 35) scored highest because they align closely with the video's comedic and musical appeal. Static or transitional frames received slightly lower scores.
+
+###################################################
+###################################################
+
+8 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/7.png', './dataset/youtube/video_1266/tmp/10.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/21.png', './dataset/youtube/video_1266/frames/40.png', './dataset/youtube/video_1266/frames/41.png', './dataset/youtube/video_1266/frames/42.png', './dataset/youtube/video_1266/frames/43.png', './dataset/youtube/video_1266/frames/44.png']
+### Keywords Summary
+Based on the video description, keywords that attract viewers include:  
+**Disney, Gastón, La Bella y la Bestia, Comedy, Fandub, Doblaje, Canciones Disney, Clásico, Taberna, Cuento, Keunam, Canto.**
+
+These keywords emphasize the comedic, nostalgic, and musical elements of the video, which appeal to fans of Disney classics and humorous reinterpretations.
+
+---
+
+### JSON Ratings
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 7, "rating": 85},
+    {"frame": 10, "rating": 90},
+    {"frame": 13, "rating": 95},
+    {"frame": 21, "rating": 81},
+    {"frame": 40, "rating": 65},
+    {"frame": 41, "rating": 88},
+    {"frame": 42, "rating": 87},
+    {"frame": 43, "rating": 86},
+    {"frame": 44, "rating": 84}
+]
+```
+
+---
+
+### Frame Analysis and Ratings Explanation
+
+#### **Frame 0**  
+- **Content:** A dark and atmospheric view of a castle with snow.  
+- **Analysis:** The setting evokes mystery and nostalgia (ties to the original "Beauty and the Beast"), but it lacks action or characters to enhance interest.  
+- **Rating:** 60 (Moderate interest due to aesthetic appeal).
+
+#### **Frame 7**  
+- **Content:** A lively tavern scene with background details and characters interacting.  
+- **Analysis:** The warm atmosphere and engaging background activity align with the comedic and classic Disney tone, making it visually appealing.  
+- **Rating:** 85 (High interest due to the inviting and dynamic scene).
+
+#### **Frame 10**  
+- **Content:** Gastón sitting in his chair, visibly upset.  
+- **Analysis:** The focus on Gastón’s emotional state adds drama and humor, particularly for fans who recognize his over-the-top personality.  
+- **Rating:** 90 (Very engaging and character-centered).
+
+#### **Frame 13**  
+- **Content:** Gastón and LeFou interacting energetically with a toast.  
+- **Analysis:** The dynamic interaction and comedic undertone make this frame highly engaging, reflecting both the humor and musical vibe of the video.  
+- **Rating:** 95 (Most engaging frame due to its energy and humor).
+
+#### **Frame 21**  
+- **Content:** LeFou gesturing animatedly while Gastón remains seated.  
+- **Analysis:** The scene retains humor and character interaction but lacks the dynamism of Frame 13.  
+- **Rating:** 81 (Good, but less dramatic).
+
+#### **Frame 40**  
+- **Content:** Gastón in profile, facing a fireplace.  
+- **Analysis:** The solitary, reflective tone contrasts with earlier frames but lacks the comedic or dramatic impact.  
+- **Rating:** 65 (Moderate interest due to the subdued nature).
+
+#### **Frame 41**  
+- **Content:** Gastón looking annoyed while LeFou enthusiastically gestures.  
+- **Analysis:** The humor and character expressions make this an engaging frame, showcasing their dynamic.  
+- **Rating:** 88 (Strong comedic appeal).
+
+#### **Frame 42**  
+- **Content:** LeFou leaning on Gastón in a humorous way.  
+- **Analysis:** The physical comedy and exaggerated expressions are entertaining and align with the comedic tone of the video.  
+- **Rating:** 87 (Highly entertaining).
+
+#### **Frame 43**  
+- **Content:** LeFou continues to lean on Gastón, who looks increasingly irritated.  
+- **Analysis:** Similar to Frame 42 but slightly repetitive, retaining humor but with diminishing novelty.  
+- **Rating:** 86 (Still engaging but slightly less fresh).
+
+#### **Frame 44**  
+- **Content:** Gastón reacting to LeFou’s antics, maintaining his annoyed expression.  
+- **Analysis:** A continuation of the comedic dynamic, though it doesn’t add much new.  
+- **Rating:** 84 (Funny but less impactful than earlier frames).
+
+---
+
+### Summary
+The ratings reward frames that highlight dynamic interactions, humor, and character-driven content. Frames with subdued or repetitive elements are rated slightly lower.
+
+###################################################
+###################################################
+
+9 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/19.png', './dataset/youtube/video_1266/tmp/20.png', './dataset/youtube/video_1266/tmp/24.png', './dataset/youtube/video_1266/frames/45.png', './dataset/youtube/video_1266/frames/46.png', './dataset/youtube/video_1266/frames/47.png', './dataset/youtube/video_1266/frames/48.png', './dataset/youtube/video_1266/frames/49.png']
+### Step 1: Keywords Summary
+Based on the video information, potential keywords to attract viewers include:
+- **Disney**: The charm of Disney classics.
+- **Comedy**: Humor is a key attraction.
+- **Gastón**: A popular figure from *Beauty and the Beast*.
+- **Keunam**: Known for covers and parodies.
+- **Music/Cover**: The musical and singing aspect.
+- **Classic Disney Songs**: Nostalgia for iconic Disney music.
+
+### Step 2: JSON Ratings
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 13, "rating": 95},
+    {"frame": 19, "rating": 84},
+    {"frame": 20, "rating": 82},
+    {"frame": 24, "rating": 77},
+    {"frame": 45, "rating": 90},
+    {"frame": 46, "rating": 88},
+    {"frame": 47, "rating": 83},
+    {"frame": 48, "rating": 85},
+    {"frame": 49, "rating": 87}
+]
+```
+
+### Step 3: Analysis and Explanation of Ratings
+
+1. **Frame 0 (Rating: 60)**  
+   - The frame depicts a dark, snowy castle scene, evoking mystery and a classic Disney vibe. However, it lacks dynamic action or humor, making it less engaging compared to other frames.
+
+2. **Frame 13 (Rating: 95)**  
+   - Gastón and Lefou are center stage in a comedic and lively pose in the tavern. The humor, vibrant colors, and energetic expressions strongly appeal to the audience.
+
+3. **Frame 19 (Rating: 84)**  
+   - Gastón and Lefou are engaged in physical action. The dynamic movement is entertaining but less comedic than Frame 13.
+
+4. **Frame 20 (Rating: 82)**  
+   - Similar to Frame 19, but the action begins to settle, slightly reducing the engaging factor.
+
+5. **Frame 24 (Rating: 77)**  
+   - Lefou's exaggerated movement is humorous, but the blurry motion reduces its visual impact compared to sharper frames.
+
+6. **Frame 45 (Rating: 90)**  
+   - Gastón and Lefou are presented in a comedic pose, with exaggerated expressions. This frame effectively highlights their personalities, making it appealing.
+
+7. **Frame 46 (Rating: 88)**  
+   - Gastón's surprised expression and Lefou's comedic antics are engaging but slightly less impactful than Frame 45.
+
+8. **Frame 47 (Rating: 83)**  
+   - Gastón appears serious, which contrasts with Lefou's humor. While amusing, the frame lacks the synergy of earlier interactions.
+
+9. **Frame 48 (Rating: 85)**  
+   - Lefou’s expression and interaction regain comedic energy, making it more engaging than Frame 47.
+
+10. **Frame 49 (Rating: 87)**  
+    - This frame balances Gastón’s serious demeanor with Lefou’s humor, creating an appealing mix of comedy and character dynamics.
+
+### Summary
+Frames with strong comedic action (e.g., 13, 45) received the highest ratings, while static or less dynamic frames (e.g., 0, 24) scored lower. The analysis prioritizes humor, character interaction, and visual clarity.
+
+###################################################
+###################################################
+
+10 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/19.png', './dataset/youtube/video_1266/tmp/21.png', './dataset/youtube/video_1266/tmp/38.png', './dataset/youtube/video_1266/frames/50.png', './dataset/youtube/video_1266/frames/51.png', './dataset/youtube/video_1266/frames/52.png', './dataset/youtube/video_1266/frames/53.png', './dataset/youtube/video_1266/frames/54.png']
+### Keywords Summary Based on Video Information:
+- **Disney, Gastón, Comedy, Fan Cover, Keunam, La Bella y la Bestia, Song, Classic, Animation, Dubbing, Fun.**
+
+### JSON Ratings for the Frames:
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 13, "rating": 95},
+    {"frame": 19, "rating": 84},
+    {"frame": 21, "rating": 81},
+    {"frame": 38, "rating": 86},
+    {"frame": 50, "rating": 82},
+    {"frame": 51, "rating": 80},
+    {"frame": 52, "rating": 78},
+    {"frame": 53, "rating": 79},
+    {"frame": 54, "rating": 77}
+]
+```
+
+---
+
+### Analysis and Explanation of Ratings:
+
+1. **Frame 0 (Rating: 60)**  
+   - **Content:** A dark, mysterious castle in the snow with the logo visible.  
+   - **Analysis:** While visually captivating and setting a tone of mystery, it lacks action and humor. It's more atmospheric than engaging.  
+
+2. **Frame 13 (Rating: 95)**  
+   - **Content:** Gastón and LeFou in a lively scene, with Gastón holding a mug and showing expressive action.  
+   - **Analysis:** This frame is highly engaging due to Gastón's animated expression and the dynamic interaction. It captures the humor and energy of the characters, making it very appealing.  
+
+3. **Frame 19 (Rating: 84)**  
+   - **Content:** Gastón and LeFou interacting, with some physical comedy involving a large chair.  
+   - **Analysis:** The humor and physical comedy are present but less expressive than Frame 13. Still, it conveys a fun moment that fits the comedic theme.  
+
+4. **Frame 21 (Rating: 81)**  
+   - **Content:** LeFou gesturing dramatically while Gastón remains seated.  
+   - **Analysis:** Less dynamic than previous frames, but it still shows character interaction, which adds interest.  
+
+5. **Frame 38 (Rating: 86)**  
+   - **Content:** Gastón standing in a dramatic pose near a fireplace, with warm lighting and a cozy tavern vibe.  
+   - **Analysis:** The frame highlights Gastón's personality and the detailed background, creating a strong visual appeal.  
+
+6. **Frame 50 (Rating: 82)**  
+   - **Content:** LeFou enthusiastically interacting with Gastón near the fireplace.  
+   - **Analysis:** The frame is humorous and dynamic, though slightly repetitive compared to earlier frames.  
+
+7. **Frame 51 (Rating: 80)**  
+   - **Content:** LeFou smiling and gesturing while Gastón listens.  
+   - **Analysis:** The humor is subtler here, with less action. The visual composition is still engaging but not as strong as previous frames.  
+
+8. **Frame 52 (Rating: 78)**  
+   - **Content:** LeFou turning away while Gastón reacts.  
+   - **Analysis:** The frame is less visually or emotionally engaging, with subdued action and interaction.  
+
+9. **Frame 53 (Rating: 79)**  
+   - **Content:** LeFou appears to stumble toward Gastón, creating a comedic moment.  
+   - **Analysis:** The humor feels slightly forced and doesn't stand out as much as earlier scenes.  
+
+10. **Frame 54 (Rating: 77)**  
+    - **Content:** Gastón looking unimpressed while LeFou gestures.  
+    - **Analysis:** A lower-energy frame with less comedic impact compared to others. The interaction is present but lacks excitement.  
+
+---
+
+### Conclusion:
+Frames with strong character expressions, humor, and dynamic interactions (like Frame 13) scored higher, while static or less engaging frames (like Frame 0 and Frame 54) received lower scores.
+
+###################################################
+###################################################
+
+11 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/12.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/20.png', './dataset/youtube/video_1266/tmp/34.png', './dataset/youtube/video_1266/frames/55.png', './dataset/youtube/video_1266/frames/56.png', './dataset/youtube/video_1266/frames/57.png', './dataset/youtube/video_1266/frames/58.png', './dataset/youtube/video_1266/frames/59.png']
+### Step 1: Summarizing Keywords
+Based on the video information, attractive keywords include:
+- **Disney**: Recognizable and nostalgic for many viewers.
+- **Comedy**: Indicates humor and light-hearted content.
+- **Classic Songs**: Appeals to fans of Disney songs.
+- **Characters (Gastón, LeFou)**: Iconic and memorable from "Beauty and the Beast."
+- **Cover/Fandub**: Suggests a unique rendition with creativity.
+- **Taberna (Tavern)**: Scene-specific, adding thematic depth.
+
+These keywords will guide the analysis of each frame's relevance and interest.
+
+---
+
+### Step 2: JSON Ratings of Frames
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 12, "rating": 92},
+    {"frame": 13, "rating": 95},
+    {"frame": 20, "rating": 82},
+    {"frame": 34, "rating": 87},
+    {"frame": 55, "rating": 90},
+    {"frame": 56, "rating": 93},
+    {"frame": 57, "rating": 95},
+    {"frame": 58, "rating": 90},
+    {"frame": 59, "rating": 88}
+]
+```
+
+---
+
+### Step 3: Analysis and Explanation of Ratings
+
+#### **Frame 0**
+- **Content**: A dark, snowy castle scene sets a mysterious and atmospheric tone.
+- **Analysis**: While iconic to the "Beauty and the Beast" setting, it lacks dynamic action or characters, reducing its interest for comedy or cover themes.
+- **Rating**: 60 (moderately engaging).
+
+---
+
+#### **Frame 12**
+- **Content**: Gastón and LeFou in a lively tavern scene with expressive gestures.
+- **Analysis**: The character interaction and comedic potential align well with the theme of the video.
+- **Rating**: 92 (highly engaging).
+
+---
+
+#### **Frame 13**
+- **Content**: Gastón and LeFou in an even more animated pose, emphasizing action and humor.
+- **Analysis**: Builds on Frame 12 with intensified interaction and humor, increasing its appeal.
+- **Rating**: 95 (very engaging).
+
+---
+
+#### **Frame 20**
+- **Content**: LeFou appears startled, and Gastón is partially off-frame.
+- **Analysis**: While humorous, the lack of Gastón's full presence slightly diminishes the frame's impact.
+- **Rating**: 82 (engaging but less impactful than Frames 12 and 13).
+
+---
+
+#### **Frame 34**
+- **Content**: A group of characters in the tavern, laughing and drinking.
+- **Analysis**: The lively atmosphere and multiple characters contribute to the comedic tone.
+- **Rating**: 87 (engaging and thematic).
+
+---
+
+#### **Frame 55**
+- **Content**: Gastón seated with LeFou and three women around them, expressing admiration.
+- **Analysis**: Adds variety with female characters and a humorous dynamic, enhancing interest.
+- **Rating**: 90 (highly engaging).
+
+---
+
+#### **Frame 56**
+- **Content**: Similar to Frame 55 but with more exaggerated expressions and gestures.
+- **Analysis**: Enhanced humor and energy make this frame more captivating.
+- **Rating**: 93 (very engaging).
+
+---
+
+#### **Frame 57**
+- **Content**: The women are more animated, interacting with Gastón in a lively manner.
+- **Analysis**: The peak of humor and action in this sequence, perfectly aligned with the video theme.
+- **Rating**: 95 (very engaging).
+
+---
+
+#### **Frame 58**
+- **Content**: The women cling to Gastón, showcasing exaggerated admiration.
+- **Analysis**: Maintains the humor and charm but slightly less dynamic than Frame 57.
+- **Rating**: 90 (highly engaging).
+
+---
+
+#### **Frame 59**
+- **Content**: LeFou dancing alone in the tavern.
+- **Analysis**: Light-hearted and comedic, but less impactful without Gastón or other characters.
+- **Rating**: 88 (engaging).
+
+--- 
+
+### Summary
+Frames with Gastón and LeFou in dynamic or humorous contexts scored the highest, as they align with the video’s comedic, musical, and nostalgic appeal. Frames with less action or fewer key characters scored lower but still contributed to the overall engagement.
+
+###################################################
+###################################################
+
+12 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/1.png', './dataset/youtube/video_1266/tmp/12.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/19.png', './dataset/youtube/video_1266/frames/60.png', './dataset/youtube/video_1266/frames/61.png', './dataset/youtube/video_1266/frames/62.png', './dataset/youtube/video_1266/frames/63.png', './dataset/youtube/video_1266/frames/64.png']
+### Keywords Summary:
+The video is related to Disney's "Beauty and the Beast," with a cover of the song "Gastón" by Keunam. Keywords likely to attract viewers include:
+- **Disney Classics**
+- **Beauty and the Beast**
+- **Gastón**
+- **Comedy**
+- **Dubbing/Fandub**
+- **Animated Songs**
+- **Keunam Cover**
+- **Funny Disney Moments**
+
+### JSON Ratings:
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 1, "rating": 75},
+    {"frame": 12, "rating": 92},
+    {"frame": 13, "rating": 95},
+    {"frame": 19, "rating": 84},
+    {"frame": 60, "rating": 70},
+    {"frame": 61, "rating": 72},
+    {"frame": 62, "rating": 78},
+    {"frame": 63, "rating": 80},
+    {"frame": 64, "rating": 65}
+]
+```
+
+### Analysis and Rating Explanation:
+1. **Frame 0: Rating 60**  
+   - The frame shows a distant view of the castle in a dark, snowy atmosphere. While it sets a classic Disney ambiance, it lacks significant action or humor to draw higher interest. It serves as an establishing shot.
+
+2. **Frame 1: Rating 75**  
+   - A closer view of the village, with more visible details and lighting. This frame generates more intrigue as it begins setting the scene for Gastón's song, making it more engaging than Frame 0.
+
+3. **Frame 12: Rating 92**  
+   - Gastón and Lefou are featured in a lively pose, holding mugs in the tavern. This frame is dynamic and reflects the comedic and musical theme, which aligns well with the video’s keywords.
+
+4. **Frame 13: Rating 95**  
+   - Similar to Frame 12 but with more exaggerated expressions and movements from Gastón and Lefou, emphasizing humor and energy. It is the most engaging frame, capturing the essence of the song and comedy.
+
+5. **Frame 19: Rating 84**  
+   - Gastón is wrestling with a bear rug in a comedic moment, adding action and humor. It's entertaining but slightly less impactful compared to Frames 12 and 13.
+
+6. **Frame 60: Rating 70**  
+   - Lefou is dancing alone in the tavern. While humorous, it lacks the energy and interaction seen in earlier frames, making it less engaging.
+
+7. **Frame 61: Rating 72**  
+   - Lefou continues dancing, with more exaggerated movements. This adds slight improvement in humor and liveliness compared to Frame 60.
+
+8. **Frame 62: Rating 78**  
+   - Lefou is closer to the camera with a cheerful expression, and the background characters add context to the lively tavern scene. This frame is more engaging than the previous ones.
+
+9. **Frame 63: Rating 80**  
+   - Lefou’s exaggerated dance pose is entertaining and humorous, capturing the comedic tone of the video. Background characters enhance the scene further.
+
+10. **Frame 64: Rating 65**  
+    - A funny moment where a background character is shown in heart-patterned underwear. While amusing, it is less central to the song and overall theme, making it less impactful than other frames.
+
+###################################################
+###################################################
+
+13 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/16.png', './dataset/youtube/video_1266/tmp/17.png', './dataset/youtube/video_1266/tmp/61.png', './dataset/youtube/video_1266/frames/65.png', './dataset/youtube/video_1266/frames/66.png', './dataset/youtube/video_1266/frames/67.png', './dataset/youtube/video_1266/frames/68.png', './dataset/youtube/video_1266/frames/69.png']
+### Keywords Summary
+From the video information, the following keywords can attract viewers:
+- **Characters**: Gastón, Lefou, Bella, Bestia
+- **Theme**: Disney, La Bella y la Bestia, classic animation
+- **Genre**: Comedy, musical, cover, fandub, dubbing
+- **Atmosphere**: Tavern, storytelling, Disney songs, humor
+
+These keywords suggest a focus on humor, nostalgia, iconic Disney characters, and musical/comical elements.
+
+---
+
+### JSON Ratings for Frames
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 13, "rating": 95},
+    {"frame": 16, "rating": 80},
+    {"frame": 17, "rating": 78},
+    {"frame": 61, "rating": 72},
+    {"frame": 65, "rating": 85},
+    {"frame": 66, "rating": 90},
+    {"frame": 67, "rating": 92},
+    {"frame": 68, "rating": 88},
+    {"frame": 69, "rating": 89}
+]
+```
+
+---
+
+### Frame Analysis and Ratings Explanation
+
+1. **Frame 0 (Rating: 60)**  
+   - **Content**: A castle shrouded in mist and snow.  
+   - **Analysis**: This sets the atmosphere for the story but lacks action or a strong comedic element. It’s visually intriguing but not highly engaging.  
+
+2. **Frame 13 (Rating: 95)**  
+   - **Content**: Gastón and Lefou appear in an intense and humorous moment, with Gastón smashing mugs.  
+   - **Analysis**: This frame captures strong character expression and comedic action, aligning perfectly with the comedic and musical theme of the video.  
+
+3. **Frame 16 (Rating: 80)**  
+   - **Content**: Gastón looks annoyed while Lefou reacts dramatically with fire in the background.  
+   - **Analysis**: This frame has comedic tension and action but is less dynamic than Frame 13.  
+
+4. **Frame 17 (Rating: 78)**  
+   - **Content**: Lefou raising a finger, likely delivering a funny or exaggerated line.  
+   - **Analysis**: Lefou’s expression is humorous but lacks dynamic action.  
+
+5. **Frame 61 (Rating: 72)**  
+   - **Content**: Lefou dancing or moving animatedly in the tavern.  
+   - **Analysis**: The movement suggests humor, but it is less focused compared to other frames with Gastón and Lefou together.  
+
+6. **Frame 65 (Rating: 85)**  
+   - **Content**: Gastón sitting with an intense look.  
+   - **Analysis**: Gastón’s expression conveys strong character presence, appealing to fans of the character.  
+
+7. **Frame 66 (Rating: 90)**  
+   - **Content**: Lefou enthusiastically interacting with Gastón.  
+   - **Analysis**: The dynamic interaction and Lefou’s exaggerated expression enhance comedic appeal.  
+
+8. **Frame 67 (Rating: 92)**  
+   - **Content**: Lefou’s antics escalate as he physically interacts with Gastón.  
+   - **Analysis**: The physical comedy and Gastón’s reaction add to the humor, making this frame highly engaging.  
+
+9. **Frame 68 (Rating: 88)**  
+   - **Content**: Lefou continues his humorous interaction with Gastón.  
+   - **Analysis**: The comedic timing remains strong, but it slightly repeats the gag from Frame 67.  
+
+10. **Frame 69 (Rating: 89)**  
+    - **Content**: Gastón reacts strongly to Lefou’s antics.  
+    - **Analysis**: Gastón’s exaggerated expression enhances the humor, slightly increasing the frame’s appeal.  
+
+---
+
+Overall, the highest-rated frames capture dynamic interactions, comedic tension, and character expressions that align with the video’s comedic and musical theme.
+
+###################################################
+###################################################
+
+14 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/17.png', './dataset/youtube/video_1266/tmp/21.png', './dataset/youtube/video_1266/tmp/61.png', './dataset/youtube/video_1266/frames/70.png', './dataset/youtube/video_1266/frames/71.png', './dataset/youtube/video_1266/frames/72.png', './dataset/youtube/video_1266/frames/73.png', './dataset/youtube/video_1266/frames/74.png']
+### Keywords Summary
+Based on the video information, the keywords that may attract viewers are:  
+- **Disney**, **La Bella y la Bestia**, **Gaston**, **LeFou**, **Keunam**, **Comedy**, **Song**, **Dubbing**, **Classic**, **Disney Songs**, **Fandub**, **Humor**, **Bar Scene**, **Disney Villains**.  
+
+These keywords highlight the comedic and musical aspects of the video, drawing attention to the popular characters Gaston and LeFou, the Disney classic theme, and the humorous take on the original content.
+
+---
+
+### JSON Ratings  
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 13, "rating": 95},
+    {"frame": 17, "rating": 78},
+    {"frame": 21, "rating": 81},
+    {"frame": 61, "rating": 72},
+    {"frame": 70, "rating": 85},
+    {"frame": 71, "rating": 88},
+    {"frame": 72, "rating": 82},
+    {"frame": 73, "rating": 90},
+    {"frame": 74, "rating": 92}
+]
+```
+
+---
+
+### Analysis and Ratings
+
+1. **Frame 0**:  
+   - **Content**: A dark and atmospheric view of a castle in the snow.  
+   - **Analysis**: While visually appealing, this frame is less action-packed and doesn't showcase any characters or comedic elements. It sets the mood but lacks the humor or vibrancy of later frames.  
+   - **Rating**: 60  
+
+2. **Frame 13**:  
+   - **Content**: Gaston and LeFou are in a dynamic and humorous pose during a bar scene.  
+   - **Analysis**: This frame captures the energy and humor of the song, featuring two iconic characters. It is highly engaging and aligns with the comedic tone of the cover.  
+   - **Rating**: 95  
+
+3. **Frame 17**:  
+   - **Content**: LeFou appears animated and expressive, likely during a humorous moment.  
+   - **Analysis**: While LeFou's expression is funny, the lack of Gaston or additional context slightly decreases its impact.  
+   - **Rating**: 78  
+
+4. **Frame 21**:  
+   - **Content**: LeFou and Gaston interacting in the bar.  
+   - **Analysis**: The duo's interaction adds to the comedic value, but the pose is less dynamic compared to Frame 13.  
+   - **Rating**: 81  
+
+5. **Frame 61**:  
+   - **Content**: LeFou strikes a humorous pose, dancing or moving in the bar.  
+   - **Analysis**: While funny, this frame lacks Gaston and doesn't fully showcase the dynamic energy of their interactions.  
+   - **Rating**: 72  
+
+6. **Frame 70**:  
+   - **Content**: Gaston is shown in a close-up, flexing or making a dramatic gesture.  
+   - **Analysis**: This frame highlights Gaston's exaggerated personality, providing humor and focus on a central character.  
+   - **Rating**: 85  
+
+7. **Frame 71**:  
+   - **Content**: Gaston with an intense, comedic expression.  
+   - **Analysis**: The exaggerated expression adds humor and aligns well with the comedic tone of the video.  
+   - **Rating**: 88  
+
+8. **Frame 72**:  
+   - **Content**: Gaston is gesturing dramatically, possibly during dialogue or singing.  
+   - **Analysis**: The frame focuses on Gaston but lacks the interaction or dynamic humor seen in other frames.  
+   - **Rating**: 82  
+
+9. **Frame 73**:  
+   - **Content**: Gaston and LeFou interact in a playful and animated way.  
+   - **Analysis**: The dynamic interaction between the characters makes this frame highly engaging and funny.  
+   - **Rating**: 90  
+
+10. **Frame 74**:  
+   - **Content**: LeFou humorously gestures under a portrait of Gaston, adding visual humor.  
+   - **Analysis**: The comedic contrast between LeFou’s gesture and Gaston’s portrait adds a layer of humor, making it highly entertaining.  
+   - **Rating**: 92  
+
+---
+
+### Summary
+Frames featuring Gaston and LeFou together or in dynamic, humorous poses scored the highest, as they align with the comedic and interactive nature of the video. Frames with just scenery or less dynamic character moments scored lower due to lower engagement potential.
+
+###################################################
+###################################################
+
+15 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/20.png', './dataset/youtube/video_1266/tmp/24.png', './dataset/youtube/video_1266/tmp/29.png', './dataset/youtube/video_1266/frames/75.png', './dataset/youtube/video_1266/frames/76.png', './dataset/youtube/video_1266/frames/77.png', './dataset/youtube/video_1266/frames/78.png', './dataset/youtube/video_1266/frames/79.png']
+### Summary of Keywords
+Based on the video title, categories, and tags, the following keywords will likely attract viewers:
+- **Disney**: Popular among fans of animated classics.
+- **La Bella y la Bestia (Beauty and the Beast)**: A beloved tale with a strong fan base.
+- **Gastón and LeFou**: Iconic characters known for humor and charm.
+- **Comedy**: The comedic aspect of the cover.
+- **Keunam Cover**: Appeals to fans of the creator and covers in general.
+- **Classic Disney Songs**: Nostalgia for Disney music.
+- **Humor, Singing, and Animation**: Key entertaining elements.
+
+---
+
+### JSON Rating for Frames
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 13, "rating": 95},
+    {"frame": 20, "rating": 82},
+    {"frame": 24, "rating": 77},
+    {"frame": 29, "rating": 79},
+    {"frame": 75, "rating": 85},
+    {"frame": 76, "rating": 87},
+    {"frame": 77, "rating": 88},
+    {"frame": 78, "rating": 86},
+    {"frame": 79, "rating": 84}
+]
+```
+
+---
+
+### Frame Analysis and Ratings Explanation
+
+1. **Frame 0**  
+   - **Analysis**: A dark, atmospheric image of a castle in the snow. It sets the scene but doesn't have much action or humor.  
+   - **Rating**: 60. While visually appealing, it lacks dynamic or comedic appeal that aligns with the video's theme.
+
+2. **Frame 13**  
+   - **Analysis**: Gastón and LeFou in a lively, humorous interaction, with detailed expressions. This frame captures the comedy and character charm.  
+   - **Rating**: 95. The comedic and engaging depiction of iconic characters makes this highly interesting.
+
+3. **Frame 20**  
+   - **Analysis**: LeFou is animatedly interacting with Gastón in a tavern setting. The humor and setting match the video's theme.  
+   - **Rating**: 82. A fun and thematic frame but slightly less impactful than Frame 13.
+
+4. **Frame 24**  
+   - **Analysis**: LeFou is in mid-motion, showing humor and chaos. However, the slight motion blur reduces clarity.  
+   - **Rating**: 77. While comedic, the motion blur detracts from its visual appeal.
+
+5. **Frame 29**  
+   - **Analysis**: Gastón looks contemplative while LeFou appears animated. The contrast in expressions adds humor.  
+   - **Rating**: 79. A good balance of humor and character interaction, though not as dynamic as others.
+
+6. **Frame 75**  
+   - **Analysis**: LeFou is running energetically in the tavern, with other characters reacting. The frame is lively and comedic.  
+   - **Rating**: 85. The motion and humor make it engaging, though less iconic than Frame 13.
+
+7. **Frame 76**  
+   - **Analysis**: LeFou is mid-air in a comedic leap, with exaggerated expressions from the tavern patrons.  
+   - **Rating**: 87. A highly humorous and dynamic frame.
+
+8. **Frame 77**  
+   - **Analysis**: LeFou remains mid-air, with more reactions from the tavern patrons, heightening the humor.  
+   - **Rating**: 88. Slightly more engaging than Frame 76 due to added reactions.
+
+9. **Frame 78**  
+   - **Analysis**: The leap continues, but the humor begins to plateau with less new action compared to previous frames.  
+   - **Rating**: 86. Still entertaining but less fresh.
+
+10. **Frame 79**  
+    - **Analysis**: A close-up of a tavern patron reacting humorously to LeFou's antics. While funny, it lacks the dynamism of previous frames.  
+    - **Rating**: 84. Good humor but less action-packed compared to earlier frames.
+
+---
+
+### Overall Analysis
+The highest-rated frames (13, 76, 77) excel due to their humor, iconic character interactions, and dynamic action. Lower-rated frames (0, 24) lack either clarity or thematic engagement.
+
+###################################################
+###################################################
+
+16 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/1.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/21.png', './dataset/youtube/video_1266/tmp/69.png', './dataset/youtube/video_1266/frames/80.png', './dataset/youtube/video_1266/frames/81.png', './dataset/youtube/video_1266/frames/82.png', './dataset/youtube/video_1266/frames/83.png', './dataset/youtube/video_1266/frames/84.png']
+### Step 1: Summarizing Keywords
+The video is a cover of "Gastón" from *La Bella y la Bestia*, performed by Keunam. The keywords likely to attract viewers are:
+- **Disney**, **La Bella y la Bestia**, **Gastón**, **Comedy**, **Classic**, **Musical**, **Fandub**, **Keunam**, **Canto**, **Taberna**, and **Songs**.  
+
+These keywords highlight the nostalgic, comedic, and musical aspects of the video, appealing to fans of Disney classics and humorous reinterpretations.
+
+---
+
+### Step 2: JSON Ratings
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 1, "rating": 75},
+    {"frame": 13, "rating": 95},
+    {"frame": 21, "rating": 81},
+    {"frame": 69, "rating": 89},
+    {"frame": 80, "rating": 85},
+    {"frame": 81, "rating": 83},
+    {"frame": 82, "rating": 78},
+    {"frame": 83, "rating": 76},
+    {"frame": 84, "rating": 88}
+]
+```
+
+---
+
+### Step 3: Frame Analysis and Ratings Explanation
+
+#### **Frame 0** - **Rating: 60**
+- **Content:** A dark, foggy castle in the background.
+- **Analysis:** While the imagery is atmospheric and reminiscent of *La Bella y la Bestia*, it lacks action or significant details to make it engaging. It serves primarily as a scene-setting frame.
+
+#### **Frame 1** - **Rating: 75**
+- **Content:** A zoomed-out view of a lively village with clear architectural details.
+- **Analysis:** This frame adds more visual interest with its richness in detail and is more engaging than the previous one. It hints at the story's setting.
+
+#### **Frame 13** - **Rating: 95**
+- **Content:** Gastón and LeFou in the tavern, with expressive poses and dynamic movement.
+- **Analysis:** This frame captures the essence of the song and its comedic tone perfectly. The strong character expressions and action make it highly engaging.
+
+#### **Frame 21** - **Rating: 81**
+- **Content:** LeFou gesturing animatedly toward Gastón, who is seated.
+- **Analysis:** This frame features lively interaction and character dynamics, though it’s slightly less intense than Frame 13.
+
+#### **Frame 69** - **Rating: 89**
+- **Content:** Gastón showing a frustrated or intense facial expression while LeFou is animated in the background.
+- **Analysis:** The vivid emotions and interaction between the characters make this frame captivating and humorous.
+
+#### **Frame 80** - **Rating: 85**
+- **Content:** A comedic moment where LeFou appears to be precariously balancing, creating humor.
+- **Analysis:** The physical comedy in this frame aligns well with the humorous tone of the video, making it engaging.
+
+#### **Frame 81** - **Rating: 83**
+- **Content:** LeFou mid-air in a comedic movement, with Gastón and others in the background.
+- **Analysis:** The humor in this frame is still evident but slightly repetitive compared to Frame 80, hence the slightly lower score.
+
+#### **Frame 82** - **Rating: 78**
+- **Content:** Gastón and LeFou in a closer interaction, with less dramatic movement.
+- **Analysis:** This frame is less dynamic but still contributes to the storytelling. It’s visually engaging but not as exciting as others.
+
+#### **Frame 83** - **Rating: 76**
+- **Content:** Gastón and LeFou continuing their interaction, with LeFou in a humorous pose.
+- **Analysis:** While humorous, this frame is somewhat static and doesn’t stand out compared to other comedic moments.
+
+#### **Frame 84** - **Rating: 88**
+- **Content:** The tavern scene with multiple characters in a synchronized action, creating a lively atmosphere.
+- **Analysis:** The collective action and energy in this frame make it visually appealing and a strong representation of the song's mood.
+
+--- 
+
+### Summary
+Frames with strong character dynamics, humor, or lively group interactions received higher ratings, while static or atmosphere-setting frames were rated lower. The analysis reflects the video's comedic and musical theme, aiming to highlight the most engaging moments.
+
+###################################################
+###################################################
+
+17 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/10.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/18.png', './dataset/youtube/video_1266/tmp/56.png', './dataset/youtube/video_1266/frames/85.png', './dataset/youtube/video_1266/frames/86.png', './dataset/youtube/video_1266/frames/87.png', './dataset/youtube/video_1266/frames/88.png', './dataset/youtube/video_1266/frames/89.png']
+### Summary of Keywords
+Based on the video title, categories, and tags, keywords that might attract viewers include:
+- **Disney**  
+- **Gastón**  
+- **La Bella y la Bestia**  
+- **Comedy**  
+- **Keunam**  
+- **Fandub**  
+- **Classic songs**  
+- **Covers**  
+
+These keywords emphasize the nostalgic and entertaining aspects of the content, which is a comedic cover of a classic Disney song.
+
+---
+
+### JSON Ratings Output
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 10, "rating": 90},
+    {"frame": 13, "rating": 95},
+    {"frame": 18, "rating": 83},
+    {"frame": 56, "rating": 93},
+    {"frame": 85, "rating": 88},
+    {"frame": 86, "rating": 89},
+    {"frame": 87, "rating": 91},
+    {"frame": 88, "rating": 89},
+    {"frame": 89, "rating": 92}
+]
+```
+
+---
+
+### Analysis and Explanation of Ratings
+
+1. **Frame 0 (Rating: 60)**  
+   - **Content**: A castle in a foggy, snowy setting.  
+   - **Analysis**: While atmospheric and tied to the iconic "La Bella y la Bestia" theme, it lacks dynamic action or character engagement. It serves as an introductory frame, so its interestingness is moderate.
+
+2. **Frame 10 (Rating: 90)**  
+   - **Content**: Gastón sits in a characteristic pose, looking annoyed, while LeFou is seen in the background.  
+   - **Analysis**: A key character moment for Gastón, with comedic potential stemming from his expression. The setting reinforces the tavern's lively atmosphere.
+
+3. **Frame 13 (Rating: 95)**  
+   - **Content**: Gastón raises his mug dramatically, with LeFou animatedly gesturing.  
+   - **Analysis**: High-energy frame with significant action and character interaction. This dynamic moment captures Gastón's bold personality and adds humor.
+
+4. **Frame 18 (Rating: 83)**  
+   - **Content**: Gastón moves aggressively, with LeFou reacting in a humorous way.  
+   - **Analysis**: The action is engaging, but it feels slightly transitional compared to other frames. The humor is present but less pronounced.
+
+5. **Frame 56 (Rating: 93)**  
+   - **Content**: Gastón is surrounded by admiring women and LeFou gesturing enthusiastically.  
+   - **Analysis**: A highly comedic and lively frame. The exaggerated adoration of Gastón adds humor and reflects the song's playful tone.
+
+6. **Frame 85 (Rating: 88)**  
+   - **Content**: LeFou is being tossed in the air by a group of villagers, mid-action.  
+   - **Analysis**: The humor and energy level are strong, but LeFou's central position isn't as visually striking compared to Gastón-centered frames.
+
+7. **Frame 86 (Rating: 89)**  
+   - **Content**: Similar to Frame 85 but with slightly more focus on LeFou's expression.  
+   - **Analysis**: The increased emphasis on LeFou's facial humor boosts the frame's appeal slightly.
+
+8. **Frame 87 (Rating: 91)**  
+   - **Content**: A close-up of LeFou with a comically exaggerated expression.  
+   - **Analysis**: The zoomed-in perspective adds humor and emphasizes the character's exaggerated features, making it more engaging.
+
+9. **Frame 88 (Rating: 89)**  
+   - **Content**: LeFou is tossed higher, with villagers in the background.  
+   - **Analysis**: Similar to Frames 85 and 86, but the repeated action slightly diminishes its novelty.
+
+10. **Frame 89 (Rating: 92)**  
+    - **Content**: A close-up of LeFou with a big, expressive smile.  
+    - **Analysis**: The comedic close-up is visually engaging, with LeFou's expression capturing the playful tone of the song.
+
+--- 
+
+### Summary
+Frames with dynamic character interaction, comedic expressions, and high energy (e.g., 13, 56, 87) scored the highest, while introductory or transitional frames (e.g., 0, 18) scored lower.
+
+###################################################
+###################################################
+
+18 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/18.png', './dataset/youtube/video_1266/tmp/19.png', './dataset/youtube/video_1266/tmp/61.png', './dataset/youtube/video_1266/frames/90.png', './dataset/youtube/video_1266/frames/91.png', './dataset/youtube/video_1266/frames/92.png', './dataset/youtube/video_1266/frames/93.png', './dataset/youtube/video_1266/frames/94.png']
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 13, "rating": 95},
+    {"frame": 18, "rating": 83},
+    {"frame": 19, "rating": 84},
+    {"frame": 61, "rating": 72},
+    {"frame": 90, "rating": 78},
+    {"frame": 91, "rating": 80},
+    {"frame": 92, "rating": 88},
+    {"frame": 93, "rating": 85},
+    {"frame": 94, "rating": 87}
+]
+```
+
+### Analysis and Rating Explanation:
+
+1. **Frame 0**:
+   - **Content**: A mysterious castle shrouded in mist and snow. The atmosphere sets an eerie and dark tone, aligning with classic Disney themes of mystery and magic.
+   - **Rating**: 60 – While atmospheric, it lacks dynamic action or character presence to make it more engaging.
+
+2. **Frame 13**:
+   - **Content**: Gastón and LeFou are in a lively, comedic moment at the tavern, with visible exaggerated expressions and action.
+   - **Rating**: 95 – Highly engaging due to the vibrant action and strong character presence, aligning with the humor and energy of the video.
+
+3. **Frame 18**:
+   - **Content**: Gastón interacting with the tavern's decor, adding an element of physical comedy. LeFou's expression complements the humor.
+   - **Rating**: 83 – Amusing and comedic, but slightly less impactful compared to Frame 13.
+
+4. **Frame 19**:
+   - **Content**: Continuation of Gastón's comedic antics. The positioning and expressions maintain humor and energy.
+   - **Rating**: 84 – Slightly improved framing and action compared to Frame 18, making it a bit more engaging.
+
+5. **Frame 61**:
+   - **Content**: LeFou appears in a jovial or exaggerated movement near the bar, with background characters adding to the tavern's lively atmosphere.
+   - **Rating**: 72 – Fun and light-hearted but lacks the main character Gastón's presence, reducing its impact.
+
+6. **Frame 90**:
+   - **Content**: A chaotic yet humorous scene with multiple characters interacting in a tavern brawl or playful moment.
+   - **Rating**: 78 – The group dynamic adds interest, but individual characters and details aren't as prominent.
+
+7. **Frame 91**:
+   - **Content**: LeFou is in a humorous pose, adding to the playful tavern atmosphere.
+   - **Rating**: 80 – A fun and comedic frame, slightly more engaging than Frame 90 due to clearer character expressions.
+
+8. **Frame 92**:
+   - **Content**: Gastón's intense interaction with LeFou. The close-up dynamic adds drama and humor.
+   - **Rating**: 88 – The focus on Gastón enhances the frame's impact, as he is central to the video.
+
+9. **Frame 93**:
+   - **Content**: Gastón shows a comical or exaggerated reaction, maintaining the humorous tone.
+   - **Rating**: 85 – Less dramatic than Frame 92 but still strongly engaging due to Gastón's expression.
+
+10. **Frame 94**:
+    - **Content**: Gastón's smug or victorious expression. The close-up and character focus enhance the moment.
+    - **Rating**: 87 – A well-framed and engaging shot that highlights Gastón's personality, though less dynamic than Frame 13.
+
+###################################################
+###################################################
+
+19 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/21.png', './dataset/youtube/video_1266/tmp/29.png', './dataset/youtube/video_1266/tmp/34.png', './dataset/youtube/video_1266/frames/95.png', './dataset/youtube/video_1266/frames/96.png', './dataset/youtube/video_1266/frames/97.png', './dataset/youtube/video_1266/frames/98.png', './dataset/youtube/video_1266/frames/99.png']
+### Keywords for Attracting Viewers
+Based on the video information, the following keywords can attract viewers:
+- **Characters**: Gastón, Lefou, Bella, Bestia.
+- **Themes**: Disney, classic, comedy, parody, fandub, singing.
+- **Mood**: Fun, energetic, humorous, engaging.
+- **Setting**: Tavern, musical performance, storytelling.
+
+### JSON Ratings
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 13, "rating": 95},
+    {"frame": 21, "rating": 81},
+    {"frame": 29, "rating": 79},
+    {"frame": 34, "rating": 87},
+    {"frame": 95, "rating": 85},
+    {"frame": 96, "rating": 90},
+    {"frame": 97, "rating": 92},
+    {"frame": 98, "rating": 93},
+    {"frame": 99, "rating": 94}
+]
+```
+
+### Analysis and Ratings Explanation
+
+1. **Frame 0 (Rating: 60)**  
+   - **Content**: A dark, mysterious castle under snowfall.  
+   - **Analysis**: While visually striking, the frame is less engaging compared to the lively tavern scenes. It serves as an introductory mood-setting shot but lacks dynamic action or humor.  
+
+2. **Frame 13 (Rating: 95)**  
+   - **Content**: Gastón and Lefou in a humorous and lively interaction, with Gastón angrily smashing a mug.  
+   - **Analysis**: This frame captures both action and comedy, key elements of the video. Gastón's exaggerated expressions and the tavern setting make it highly engaging.  
+
+3. **Frame 21 (Rating: 81)**  
+   - **Content**: Lefou animatedly gesturing while Gastón sits in the chair.  
+   - **Analysis**: This frame has humor but is slightly less dynamic than frame 13. The focus is primarily on Lefou’s actions, which appeal to comedic storytelling.  
+
+4. **Frame 29 (Rating: 79)**  
+   - **Content**: Gastón appears bored or dismissive, with Lefou trying to engage him.  
+   - **Analysis**: While the expressions are humorous, the lack of action makes it slightly less captivating than other frames.  
+
+5. **Frame 34 (Rating: 87)**  
+   - **Content**: A lively group scene with characters laughing and drinking together.  
+   - **Analysis**: This frame conveys energy and camaraderie, reflecting the joyful and comedic tavern atmosphere.  
+
+6. **Frame 95 (Rating: 85)**  
+   - **Content**: Gastón with a smug and confident expression, seemingly boasting.  
+   - **Analysis**: Gastón’s personality shines here, appealing to fans of his character. The humor and charm are evident but slightly less dynamic than group scenes.  
+
+7. **Frame 96 (Rating: 90)**  
+   - **Content**: Gastón flexing and showing off his muscles with a confident smile.  
+   - **Analysis**: This frame highlights Gastón’s exaggerated bravado, which is a core comedic element. The energy and humor are strong.  
+
+8. **Frame 97 (Rating: 92)**  
+   - **Content**: The tavern group enthusiastically raising mugs in celebration.  
+   - **Analysis**: This frame captures the height of the tavern’s energy. The collective joy and exaggerated gestures make it highly engaging.  
+
+9. **Frame 98 (Rating: 93)**  
+   - **Content**: Characters laughing and spilling drinks in a lively celebration.  
+   - **Analysis**: The chaotic energy and humor are appealing, with a strong sense of action and group dynamics.  
+
+10. **Frame 99 (Rating: 94)**  
+    - **Content**: A continuation of the lively tavern celebration with more exaggerated movements and expressions.  
+    - **Analysis**: This frame has a slightly higher energy level than frame 98, making it the most engaging of the tavern scenes. The humor and action are at their peak.  
+
+###################################################
+###################################################
+
+20 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/10.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/20.png', './dataset/youtube/video_1266/tmp/99.png', './dataset/youtube/video_1266/frames/100.png', './dataset/youtube/video_1266/frames/101.png', './dataset/youtube/video_1266/frames/102.png', './dataset/youtube/video_1266/frames/103.png', './dataset/youtube/video_1266/frames/104.png']
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 10, "rating": 90},
+    {"frame": 13, "rating": 95},
+    {"frame": 20, "rating": 82},
+    {"frame": 99, "rating": 94},
+    {"frame": 100, "rating": 93},
+    {"frame": 101, "rating": 92},
+    {"frame": 102, "rating": 89},
+    {"frame": 103, "rating": 88},
+    {"frame": 104, "rating": 91}
+]
+```
+
+### Analysis and Explanation of Ratings:
+
+1. **Frame 0**:
+   - **Content**: A gloomy castle surrounded by fog and darkness. It sets a mysterious and eerie tone but lacks action or vivid characters to attract immediate interest.
+   - **Rating**: 60 - While atmospheric, it’s not highly engaging compared to the other frames.
+
+2. **Frame 10**:
+   - **Content**: Gastón sitting in a dramatic pose with an angry expression, showcasing his personality and emotional depth.
+   - **Rating**: 90 - A strong depiction of character emotion, increasing viewer engagement.
+
+3. **Frame 13**:
+   - **Content**: Gastón and LeFou interacting, with Gastón holding a mug and LeFou gesturing animatedly. This frame captures dynamic interaction and humor.
+   - **Rating**: 95 - High energy and character interaction make this frame very engaging.
+
+4. **Frame 20**:
+   - **Content**: LeFou enthusiastically engaging with Gastón, but the perspective focuses more on LeFou. Gastón’s presence is slightly less prominent.
+   - **Rating**: 82 - Interesting but slightly less impactful compared to Frame 13.
+
+5. **Frame 99**:
+   - **Content**: A lively and festive scene with multiple characters raising mugs in celebration. The energy and group dynamics are appealing.
+   - **Rating**: 94 - The festive mood and group energy are highly engaging.
+
+6. **Frame 100**:
+   - **Content**: A similar celebratory scene to Frame 99 but slightly more static and less dynamic in composition.
+   - **Rating**: 93 - Still engaging but slightly less energetic than Frame 99.
+
+7. **Frame 101**:
+   - **Content**: Characters toasting while Gastón is also visible, adding depth to the scene.
+   - **Rating**: 92 - A strong group dynamic, but the focus is distributed among too many elements.
+
+8. **Frame 102**:
+   - **Content**: A continuation of the group celebration, but the motion blur slightly reduces clarity and engagement.
+   - **Rating**: 89 - Festive but less visually clear and focused.
+
+9. **Frame 103**:
+   - **Content**: A similar scene to Frame 102, with slightly less visible character expression and interaction.
+   - **Rating**: 88 - Festive but less engaging compared to Frames 99-102.
+
+10. **Frame 104**:
+    - **Content**: Gastón and LeFou in focus, with LeFou displaying a cheerful expression. The wall decor adds context to the tavern setting.
+    - **Rating**: 91 - Strong character interaction and context, though less energetic than the group celebration frames.
+
+###################################################
+###################################################
+
+21 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/7.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/34.png', './dataset/youtube/video_1266/tmp/56.png', './dataset/youtube/video_1266/frames/105.png', './dataset/youtube/video_1266/frames/106.png', './dataset/youtube/video_1266/frames/107.png', './dataset/youtube/video_1266/frames/108.png', './dataset/youtube/video_1266/frames/109.png']
+### Keywords Summary
+Based on the video information, potential keywords to attract viewers include:
+- Gastón, LeFou, La Bella y la Bestia  
+- Disney, Canciones Disney, Clásico  
+- Comedy, Fandub, Doblaje  
+- Humor, Taberna, Música  
+
+These keywords emphasize the comedic and musical aspects of the video, along with its connection to the Disney classic.
+
+---
+
+### JSON Ratings
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 7, "rating": 85},
+    {"frame": 13, "rating": 95},
+    {"frame": 34, "rating": 87},
+    {"frame": 56, "rating": 93},
+    {"frame": 105, "rating": 80},
+    {"frame": 106, "rating": 88},
+    {"frame": 107, "rating": 90},
+    {"frame": 108, "rating": 92},
+    {"frame": 109, "rating": 89}
+]
+```
+
+---
+
+### Frame Analysis
+
+1. **Frame 0**  
+   - **Description:** A dark, mysterious castle scene with heavy fog.  
+   - **Analysis:** Sets a dramatic tone that connects to the "classic Disney" vibe but lacks humor or action.  
+   - **Rating:** 60 (atmospheric but less engaging).
+
+2. **Frame 7**  
+   - **Description:** Cozy tavern interior with characters drinking and a warm fireplace.  
+   - **Analysis:** Establishes the iconic "Gaston" setting and introduces the humorous, lively tone.  
+   - **Rating:** 85 (inviting and recognizable).
+
+3. **Frame 13**  
+   - **Description:** Gastón and LeFou in an animated, intense moment with exaggerated expressions.  
+   - **Analysis:** Central characters are prominent, with humor and action. High audience appeal.  
+   - **Rating:** 95 (captures the essence of the scene).
+
+4. **Frame 34**  
+   - **Description:** Group of tavern-goers laughing and singing.  
+   - **Analysis:** The lively, musical nature of the scene is engaging, with comedy and camaraderie.  
+   - **Rating:** 87 (entertaining but lacks primary characters).
+
+5. **Frame 56**  
+   - **Description:** Gastón surrounded by admirers and LeFou gesturing dramatically.  
+   - **Analysis:** Showcases Gastón’s charisma and humor, with dynamic character interactions.  
+   - **Rating:** 93 (highly engaging and humorous).
+
+6. **Frame 105**  
+   - **Description:** Gastón and LeFou posing in front of a wall of trophies.  
+   - **Analysis:** Static but highlights Gastón’s personality and the comedic environment.  
+   - **Rating:** 80 (less action but character-focused).
+
+7. **Frame 106**  
+   - **Description:** LeFou spills liquid comedically, with Gastón in the background.  
+   - **Analysis:** Adds humor through slapstick comedy, with engaging dynamics.  
+   - **Rating:** 88 (funny and visually dynamic).
+
+8. **Frame 107**  
+   - **Description:** Gastón strikes a confident pose as LeFou continues slipping comedically.  
+   - **Analysis:** Combines Gastón's bravado with LeFou’s humor, creating a strong comedic moment.  
+   - **Rating:** 90 (balanced humor and character).
+
+9. **Frame 108**  
+   - **Description:** Gastón and LeFou in a triumphant, comedic moment with spilled liquid.  
+   - **Analysis:** Captures the peak of the humor and action with vibrant expressions.  
+   - **Rating:** 92 (visually striking and amusing).
+
+10. **Frame 109**  
+    - **Description:** LeFou gesturing dramatically while Gastón looks stern.  
+    - **Analysis:** Highlights character interactions with a mix of humor and seriousness.  
+    - **Rating:** 89 (engaging but less dynamic than previous frames).
+
+###################################################
+###################################################
+
+22 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/7.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/24.png', './dataset/youtube/video_1266/tmp/46.png', './dataset/youtube/video_1266/frames/110.png', './dataset/youtube/video_1266/frames/111.png', './dataset/youtube/video_1266/frames/112.png', './dataset/youtube/video_1266/frames/113.png', './dataset/youtube/video_1266/frames/114.png']
+### Keywords Summary:
+Based on the video information, potential keywords to attract viewers include:
+- **Disney**: A popular and nostalgic theme.
+- **Gaston and LeFou**: Recognizable characters from "Beauty and the Beast."
+- **Comedy and Parody**: Indicates humor and entertainment.
+- **Singing and Covers**: Appeals to music and Disney fans.
+- **Classic Disney Songs**: Nostalgia for classic Disney lovers.
+
+---
+
+### JSON Output:
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 7, "rating": 85},
+    {"frame": 13, "rating": 95},
+    {"frame": 24, "rating": 77},
+    {"frame": 46, "rating": 88},
+    {"frame": 110, "rating": 83},
+    {"frame": 111, "rating": 90},
+    {"frame": 112, "rating": 92},
+    {"frame": 113, "rating": 94},
+    {"frame": 114, "rating": 89}
+]
+```
+
+---
+
+### Frame Analysis and Rating Explanation:
+
+1. **Frame 0 (Rating: 60)**:
+   - **Content**: A dark, snowy castle scene.
+   - **Analysis**: Establishes a mysterious and classic Disney setting. While atmospheric, it lacks action or humor to fully engage the viewer.
+   - **Rating Justification**: Moderate interest due to the iconic "Beauty and the Beast" castle but not highly engaging on its own.
+
+2. **Frame 7 (Rating: 85)**:
+   - **Content**: A warm, lively tavern setup, with characters interacting and a cozy fireplace in the background.
+   - **Analysis**: Captures the atmosphere of Gaston's tavern, a key location in the story. The setting is engaging and visually appealing.
+   - **Rating Justification**: High interest due to nostalgia and inviting ambiance, though no specific comedic or dramatic action occurs.
+
+3. **Frame 13 (Rating: 95)**:
+   - **Content**: Gaston and LeFou in a dynamic pose, with Gaston holding a beer mug.
+   - **Analysis**: Highlights the characters in a bold and expressive manner. Gaston’s confident expression and action stand out.
+   - **Rating Justification**: Very high interest due to character focus, action, and potential for humor.
+
+4. **Frame 24 (Rating: 77)**:
+   - **Content**: LeFou in a comedic and exaggerated pose.
+   - **Analysis**: Adds humor and personality, but the blurred motion slightly detracts from the visual clarity.
+   - **Rating Justification**: Moderate to high interest due to comedic value but not as strong as other frames.
+
+5. **Frame 46 (Rating: 88)**:
+   - **Content**: Gaston and LeFou in a humorous interaction, with exaggerated expressions.
+   - **Analysis**: The exaggerated facial expressions and interaction convey Disney's signature humor.
+   - **Rating Justification**: High interest due to comedy and character dynamics.
+
+6. **Frame 110 (Rating: 83)**:
+   - **Content**: Gaston and LeFou in a calmer interaction, with LeFou looking up at Gaston.
+   - **Analysis**: Displays character dynamics but lacks the energy or humor of other frames.
+   - **Rating Justification**: Moderate to high interest due to character focus.
+
+7. **Frame 111 (Rating: 90)**:
+   - **Content**: Gaston showing off his muscles, with LeFou looking admiringly.
+   - **Analysis**: A humorous and iconic moment that aligns with Gaston’s personality. Nostalgic for Disney fans.
+   - **Rating Justification**: High interest due to humor and character appeal.
+
+8. **Frame 112 (Rating: 92)**:
+   - **Content**: Gaston in an exaggerated, animated pose, with LeFou reacting humorously.
+   - **Analysis**: Captures action, humor, and character dynamics effectively.
+   - **Rating Justification**: Very high interest due to comedic timing and character expressions.
+
+9. **Frame 113 (Rating: 94)**:
+   - **Content**: Gaston in a dramatic and confident pose.
+   - **Analysis**: Highlights Gaston’s personality with strong visual appeal. Nostalgic and engaging.
+   - **Rating Justification**: Very high interest due to emphasis on Gaston’s iconic character traits.
+
+10. **Frame 114 (Rating: 89)**:
+    - **Content**: Gaston and LeFou in chaotic action, with mugs and debris flying.
+    - **Analysis**: Adds energy and humor with a chaotic yet entertaining scene.
+    - **Rating Justification**: High interest due to action and humor, though slightly cluttered visually.
+
+---
+
+### Summary:
+Frames with dynamic character interactions and humor (e.g., 13, 111, 112, 113) rated the highest, as they are most likely to engage viewers with their nostalgic and comedic appeal. Static or less clear frames (e.g., 0, 24) rated lower.
+
+###################################################
+###################################################
+
+23 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/16.png', './dataset/youtube/video_1266/tmp/17.png', './dataset/youtube/video_1266/tmp/87.png', './dataset/youtube/video_1266/frames/115.png', './dataset/youtube/video_1266/frames/116.png', './dataset/youtube/video_1266/frames/117.png', './dataset/youtube/video_1266/frames/118.png', './dataset/youtube/video_1266/frames/119.png']
+### Step 1: Extracting Keywords for Viewer Attraction
+Based on the video information provided, some keywords that may attract viewers are:
+- **Disney**: Strong association with the beloved classic.
+- **La Bella y la Bestia (Beauty and the Beast)**: A nostalgic and iconic Disney story.
+- **Gaston and LeFou**: Key characters with comedic and memorable roles.
+- **Comedy**: A lighthearted, humorous take.
+- **Songs and Covers**: Attracts music enthusiasts, particularly fans of Disney songs.
+- **Keunam**: The creator, whose following may draw attention.
+
+### Step 2: JSON Rating of Frames
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 13, "rating": 95},
+    {"frame": 16, "rating": 80},
+    {"frame": 17, "rating": 78},
+    {"frame": 87, "rating": 91},
+    {"frame": 115, "rating": 85},
+    {"frame": 116, "rating": 88},
+    {"frame": 117, "rating": 82},
+    {"frame": 118, "rating": 83},
+    {"frame": 119, "rating": 90}
+]
+```
+
+### Step 3: Analysis and Rating Explanation
+
+1. **Frame 0:**
+   - **Content**: A mysterious, snowy castle with a dark atmosphere.
+   - **Analysis**: While visually striking, this frame lacks strong action or character presence, which reduces its overall appeal.
+   - **Rating**: 60 (average).
+
+2. **Frame 13:**
+   - **Content**: Gaston and LeFou in a dynamic scene, holding mugs, with strong expressions.
+   - **Analysis**: This frame captures their personalities and energy, creating a humorous and engaging moment.
+   - **Rating**: 95 (highly engaging).
+
+3. **Frame 16:**
+   - **Content**: Gaston seated confidently, with fire adding drama to the tavern setting.
+   - **Analysis**: The addition of fire adds visual interest, but the action is less dynamic than Frame 13.
+   - **Rating**: 80 (above average).
+
+4. **Frame 17:**
+   - **Content**: LeFou pointing upward with an animated expression.
+   - **Analysis**: LeFou's comedic charm is evident, but the frame lacks additional dynamism or context.
+   - **Rating**: 78 (slightly above average).
+
+5. **Frame 87:**
+   - **Content**: A close-up of LeFou with an exaggerated, funny expression.
+   - **Analysis**: The close-up emphasizes comedy, making it highly engaging for viewers.
+   - **Rating**: 91 (very engaging).
+
+6. **Frame 115:**
+   - **Content**: Gaston in action, fighting with a lively expression.
+   - **Analysis**: The energy of the scene is engaging, though the frame lacks clear focus on Gaston's face.
+   - **Rating**: 85 (engaging).
+
+7. **Frame 116:**
+   - **Content**: Gaston with a confident smirk, dominating the scene.
+   - **Analysis**: Gaston's charisma is well-captured, making this frame visually appealing and character-rich.
+   - **Rating**: 88 (very good).
+
+8. **Frame 117:**
+   - **Content**: A villager in distress with an exaggerated expression.
+   - **Analysis**: The humor is evident, but the focus on a non-lead character reduces its overall impact.
+   - **Rating**: 82 (good).
+
+9. **Frame 118:**
+   - **Content**: A villager with a comedic, distressed expression.
+   - **Analysis**: Similar to Frame 117, though slightly more dynamic with clearer action.
+   - **Rating**: 83 (good).
+
+10. **Frame 119:**
+    - **Content**: Three women singing energetically in a tavern.
+    - **Analysis**: The energy and charm of this frame make it visually engaging and enjoyable.
+    - **Rating**: 90 (very engaging).
+
+###################################################
+###################################################
+
+24 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/7.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/34.png', './dataset/youtube/video_1266/tmp/69.png', './dataset/youtube/video_1266/frames/120.png', './dataset/youtube/video_1266/frames/121.png', './dataset/youtube/video_1266/frames/122.png', './dataset/youtube/video_1266/frames/123.png', './dataset/youtube/video_1266/frames/124.png']
+### Analysis and Ratings:
+
+#### **Keywords Attracting Viewers:**
+Based on the video title, categories, and tags, the keywords that may attract viewers include:
+- **Disney**, **La Bella y la Bestia**, **Gastón**, **Comedy**, **Fandub**, **Keunam Cover**, **Classic**, **Songs**, **Taberna**, **Canto**, **Performance**, and **Lefou**.
+
+These keywords suggest a comedic, nostalgic, and musical interpretation of the classic Disney theme, focusing on Gastón, a popular character.
+
+---
+
+### JSON Ratings:
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 7, "rating": 85},
+    {"frame": 13, "rating": 95},
+    {"frame": 34, "rating": 87},
+    {"frame": 69, "rating": 89},
+    {"frame": 120, "rating": 86},
+    {"frame": 121, "rating": 88},
+    {"frame": 122, "rating": 90},
+    {"frame": 123, "rating": 92},
+    {"frame": 124, "rating": 93}
+]
+```
+
+---
+
+#### **Frame-by-Frame Analysis and Ratings:**
+
+1. **Frame 0 (Rating: 60):**
+   - **Content:** A dark, snowy scene featuring a castle in the background.
+   - **Analysis:** While this evokes the classic Disney setting, it lacks dynamic or engaging elements that would immediately captivate viewers. It's atmospheric but not particularly lively.
+
+2. **Frame 7 (Rating: 85):**
+   - **Content:** A cozy tavern scene with characters drinking and relaxing by the fire.
+   - **Analysis:** This captures the warm, bustling environment of Gastón's iconic tavern. The ambiance, lighting, and detail make it more engaging.
+
+3. **Frame 13 (Rating: 95):**
+   - **Content:** Gastón and Lefou are central, with Gastón holding a mug in a commanding pose.
+   - **Analysis:** Gastón's strong presence and expressive features make this frame highly engaging and character-driven. It’s visually striking and fits the keywords "performance" and "comedy."
+
+4. **Frame 34 (Rating: 87):**
+   - **Content:** A lively group scene with characters laughing and enjoying themselves with drinks.
+   - **Analysis:** The cheerful camaraderie and energy in this frame enhance its appeal. The expressions and body language of the characters contribute to the humor and joy.
+
+5. **Frame 69 (Rating: 89):**
+   - **Content:** A close-up of Gastón with an intense expression, likely mid-action.
+   - **Analysis:** Gastón's expressive face and the dynamic pose draw attention. His commanding presence makes this frame visually compelling.
+
+6. **Frame 120 (Rating: 86):**
+   - **Content:** Three women singing or performing, dressed in vibrant colors.
+   - **Analysis:** The bright colors, synchronized poses, and their focus on performance align with the musical and comedic themes. However, it feels slightly less dynamic than other frames.
+
+7. **Frame 121 (Rating: 88):**
+   - **Content:** The same three women, mid-performance, with more movement visible.
+   - **Analysis:** The added movement and energy elevate the frame's appeal, showcasing a lively performance.
+
+8. **Frame 122 (Rating: 90):**
+   - **Content:** The women being lifted into the air, surrounded by cheering characters.
+   - **Analysis:** The action and dynamics in this frame make it exciting and visually engaging, emphasizing the comedic and theatrical tone.
+
+9. **Frame 123 (Rating: 92):**
+   - **Content:** Gastón lifts the women effortlessly, displaying his strength and charisma.
+   - **Analysis:** Gastón's larger-than-life persona is perfectly captured here, making it both humorous and impressive.
+
+10. **Frame 124 (Rating: 93):**
+    - **Content:** Gastón continues to hold the women aloft, surrounded by admiration.
+    - **Analysis:** This frame builds on the previous one, adding an element of triumph and theatricality, making it slightly more engaging.
+
+---
+
+### Summary:
+Frames featuring Gastón (e.g., 13, 123, 124) and dynamic action (e.g., 122) scored the highest, as they best represent the comedic and theatrical essence of the video. Static or less visually engaging frames (e.g., 0) scored lower.
+
+###################################################
+###################################################
+
+25 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/16.png', './dataset/youtube/video_1266/tmp/29.png', './dataset/youtube/video_1266/tmp/83.png', './dataset/youtube/video_1266/frames/125.png', './dataset/youtube/video_1266/frames/126.png', './dataset/youtube/video_1266/frames/127.png', './dataset/youtube/video_1266/frames/128.png', './dataset/youtube/video_1266/frames/129.png']
+### Keywords Summary:
+Based on the video information, the following keywords stand out and may attract viewers:
+- **Disney**: A highly popular brand associated with timeless classics.
+- **Gastón**: A well-known character with humorous and memorable moments.
+- **Comedy**: Highlights the entertaining and lighthearted nature of the content.
+- **La Bella y la Bestia**: Appeals to fans of "Beauty and the Beast" and Disney enthusiasts.
+- **Music (Cantar, Canciones Disney, Cantante)**: Indicates musical and vocal elements.
+- **Keunam Cover**: Suggests a unique take or parody by a recognized creator.
+- **Doblaje/Fandub**: Implies voice acting or dubbing, which can attract fans of such content.
+
+---
+
+### JSON Ratings:
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 13, "rating": 95},
+    {"frame": 16, "rating": 80},
+    {"frame": 29, "rating": 79},
+    {"frame": 83, "rating": 76},
+    {"frame": 125, "rating": 70},
+    {"frame": 126, "rating": 68},
+    {"frame": 127, "rating": 72},
+    {"frame": 128, "rating": 90},
+    {"frame": 129, "rating": 88}
+]
+```
+
+---
+
+### Frame Analysis and Rating Explanation:
+
+1. **Frame 0 (Rating: 60)**  
+   - Content: A dark, snowy castle in the background.  
+   - Reason: While visually atmospheric and hinting at the "Beauty and the Beast" theme, it lacks action and character focus, making it less engaging.
+
+2. **Frame 13 (Rating: 95)**  
+   - Content: Gastón and LeFou in an action-packed moment involving drinks spilling.  
+   - Reason: High comedic energy, well-known characters, and dynamic action make this frame highly engaging.
+
+3. **Frame 16 (Rating: 80)**  
+   - Content: Gastón sitting with a confident demeanor while LeFou appears flustered.  
+   - Reason: Showcases character dynamics and humor but has less motion compared to Frame 13.
+
+4. **Frame 29 (Rating: 79)**  
+   - Content: Gastón appearing contemplative while LeFou gestures animatedly.  
+   - Reason: Highlights character personalities, particularly Gastón's ego and LeFou's comedic traits, but with a subdued action level.
+
+5. **Frame 83 (Rating: 76)**  
+   - Content: Gastón and LeFou in dialogue, with LeFou looking exaggeratedly surprised.  
+   - Reason: The humor in LeFou's expression adds interest, but the overall frame is less dynamic.
+
+6. **Frame 125 (Rating: 70)**  
+   - Content: LeFou smiling and gesturing, with Gastón partially visible.  
+   - Reason: Focuses on LeFou's comedic charm but lacks Gastón's strong presence or significant action.
+
+7. **Frame 126 (Rating: 68)**  
+   - Content: LeFou in a similar pose as the previous frame, with minimal variation.  
+   - Reason: Slightly repetitive, which reduces its impact.
+
+8. **Frame 127 (Rating: 72)**  
+   - Content: LeFou in a more animated pose, gesturing upward.  
+   - Reason: Slightly more dynamic than Frame 126, but still lacks Gastón's presence or significant action.
+
+9. **Frame 128 (Rating: 90)**  
+   - Content: Three women joyfully laughing, adding vibrant energy to the scene.  
+   - Reason: Their colorful and lively expressions make this frame stand out, appealing to fans of comedic and whimsical moments.
+
+10. **Frame 129 (Rating: 88)**  
+    - Content: Gastón in a confident and expressive pose, likely singing.  
+    - Reason: Combines Gastón's charisma with musical energy, making it highly engaging but slightly less dynamic than Frame 128.
+
+---
+
+### Conclusion:
+Frames with prominent characters (Gastón and LeFou) and dynamic action or humor (like Frames 13 and 128) scored the highest. Static or repetitive frames (like Frame 126) scored lower due to reduced visual appeal or engagement.
+
+###################################################
+###################################################
+
+26 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/21.png', './dataset/youtube/video_1266/tmp/29.png', './dataset/youtube/video_1266/tmp/61.png', './dataset/youtube/video_1266/frames/130.png', './dataset/youtube/video_1266/frames/131.png', './dataset/youtube/video_1266/frames/132.png', './dataset/youtube/video_1266/frames/133.png', './dataset/youtube/video_1266/frames/134.png']
+### Step 1: Keywords Summary
+From the video information, the following keywords may attract viewers:
+- Disney
+- Gastón
+- La Bella y la Bestia
+- Comedy
+- Taberna (Tavern)
+- Doblaje (Dubbing)
+- Canciones Disney (Disney Songs)
+- Canto (Singing)
+
+These keywords focus on Disney nostalgia, comedic elements, and musical aspects, appealing to fans of classic animated movies and humor.
+
+---
+
+### Step 2: JSON Output with Ratings
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 13, "rating": 95},
+    {"frame": 21, "rating": 81},
+    {"frame": 29, "rating": 79},
+    {"frame": 61, "rating": 72},
+    {"frame": 130, "rating": 88},
+    {"frame": 131, "rating": 75},
+    {"frame": 132, "rating": 92},
+    {"frame": 133, "rating": 77},
+    {"frame": 134, "rating": 85}
+]
+```
+
+---
+
+### Step 3: Content Analysis and Rating Explanation
+
+1. **Frame 0 (Rating: 60)**  
+   - **Analysis**: The frame shows a distant view of a castle in a snowy atmosphere. While it sets a mysterious and dramatic tone, it lacks dynamic elements or character engagement.  
+   - **Reason for Rating**: The setting is visually appealing but less interesting compared to character-focused frames.
+
+2. **Frame 13 (Rating: 95)**  
+   - **Analysis**: Gastón and LeFou are in the tavern, with Gastón holding a drink and showing a confident expression. The scene is lively and highlights Gastón's personality.  
+   - **Reason for Rating**: High engagement and comedic potential make this frame stand out.
+
+3. **Frame 21 (Rating: 81)**  
+   - **Analysis**: LeFou appears animated, gesturing enthusiastically in the tavern. Gastón is present but less prominent.  
+   - **Reason for Rating**: The humor is evident, though it is less impactful than Frame 13.
+
+4. **Frame 29 (Rating: 79)**  
+   - **Analysis**: Gastón looks contemplative, while LeFou is mid-motion. The humor is subtler here.  
+   - **Reason for Rating**: While it adds to the scene's narrative, it is not as dynamic or funny as other frames.
+
+5. **Frame 61 (Rating: 72)**  
+   - **Analysis**: LeFou is running or performing a comedic action in the tavern, with background characters visible.  
+   - **Reason for Rating**: The humor is present but less central to the storyline.
+
+6. **Frame 130 (Rating: 88)**  
+   - **Analysis**: Gastón is gesturing confidently, possibly mid-song. The focus is on him, and his expression conveys charisma.  
+   - **Reason for Rating**: High energy and character focus make this frame engaging.
+
+7. **Frame 131 (Rating: 75)**  
+   - **Analysis**: Gastón is in a calm or reflective pose. The energy has dipped compared to Frame 130.  
+   - **Reason for Rating**: While it develops the character, it is less engaging than frames with stronger actions.
+
+8. **Frame 132 (Rating: 92)**  
+   - **Analysis**: Gastón opens his shirt to reveal his chest hair, a comedic and self-parodying moment. This frame emphasizes humor and Gastón's exaggerated self-confidence.  
+   - **Reason for Rating**: The comedic impact and character exaggeration are very appealing.
+
+9. **Frame 133 (Rating: 77)**  
+   - **Analysis**: Gastón is playing chess with an opponent, displaying a competitive side. The scene is less dynamic but provides depth to his character.  
+   - **Reason for Rating**: Interesting, but less engaging than comedic or action-packed frames.
+
+10. **Frame 134 (Rating: 85)**  
+    - **Analysis**: Gastón reacts dramatically during the chess match, possibly in frustration or anger. The action adds energy to the scene.  
+    - **Reason for Rating**: The dynamic motion and emotion increase the frame's appeal.
+
+---
+
+### Summary
+Frames with Gastón's exaggerated expressions or comedic moments (like Frame 13 and Frame 132) score the highest due to their humor and energy. Frames that are visually appealing but less dynamic, such as Frame 0, receive lower ratings.
+
+###################################################
+###################################################
+
+27 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/10.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/19.png', './dataset/youtube/video_1266/tmp/29.png', './dataset/youtube/video_1266/frames/135.png', './dataset/youtube/video_1266/frames/136.png', './dataset/youtube/video_1266/frames/137.png', './dataset/youtube/video_1266/frames/138.png', './dataset/youtube/video_1266/frames/139.png']
+### Keywords Summary and Frame Analysis
+**Keywords to attract viewers:**
+- **Disney**: Recognizable franchise and nostalgic appeal.
+- **Gaston and LeFou**: Iconic characters from *Beauty and the Beast*.
+- **Comedy and Fandub**: Indicates humorous reinterpretation or parody.
+- **Music and Singing**: Highlights the musical aspect, particularly a cover song.
+- **Classic Disney Songs**: Appeals to fans of Disney classics.
+
+These keywords suggest that the video aims to entertain through humor, nostalgia, and music, targeting Disney fans and those who enjoy comedic covers.
+
+---
+
+### JSON Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 10, "rating": 90},
+    {"frame": 13, "rating": 95},
+    {"frame": 19, "rating": 84},
+    {"frame": 29, "rating": 79},
+    {"frame": 135, "rating": 88},
+    {"frame": 136, "rating": 92},
+    {"frame": 137, "rating": 93},
+    {"frame": 138, "rating": 91},
+    {"frame": 139, "rating": 94}
+]
+```
+
+---
+
+### Explanation:
+
+1. **Frame 0 (Rating: 60)**  
+   - **Analysis**: The scene shows a dark castle in the snow, evoking mystery and a classic Disney atmosphere. While atmospheric, it lacks action or comedy, making it less engaging.  
+   - **Reason for Rating**: Moderate interest due to its iconic setting but not dynamic or humorous.
+
+2. **Frame 10 (Rating: 90)**  
+   - **Analysis**: Gaston is sitting in a tavern with a comedic, sulky expression, accompanied by LeFou. This directly connects to the humor and central characters.  
+   - **Reason for Rating**: High engagement due to character focus and comedic setup.
+
+3. **Frame 13 (Rating: 95)**  
+   - **Analysis**: Gaston and LeFou are interacting energetically, with Gaston holding a mug. The scene suggests humor and action, aligning with the video’s comedic tone.  
+   - **Reason for Rating**: Highly engaging due to dynamic character interaction and humor.
+
+4. **Frame 19 (Rating: 84)**  
+   - **Analysis**: A more subdued shot of Gaston and LeFou, with less obvious humor or action.  
+   - **Reason for Rating**: Still engaging due to character presence but lacks the energy of previous frames.
+
+5. **Frame 29 (Rating: 79)**  
+   - **Analysis**: Gaston appears contemplative while LeFou is animatedly talking. The humor is somewhat subtle here.  
+   - **Reason for Rating**: Moderate engagement due to character expressions but less dynamic.
+
+6. **Frame 135 (Rating: 88)**  
+   - **Analysis**: LeFou appears in a humorous pose, suggesting comedic delivery or action.  
+   - **Reason for Rating**: Engaging due to LeFou’s exaggerated expression, adding humor.
+
+7. **Frame 136 (Rating: 92)**  
+   - **Analysis**: Gaston starts interacting with LeFou, holding what appears to be a drink, suggesting humor and camaraderie.  
+   - **Reason for Rating**: High engagement due to character interaction and humor.
+
+8. **Frame 137 (Rating: 93)**  
+   - **Analysis**: Gaston gestures confidently while LeFou reacts with enthusiasm. This shows strong character dynamics and humor.  
+   - **Reason for Rating**: High engagement due to vivid character expressions and interaction.
+
+9. **Frame 138 (Rating: 91)**  
+   - **Analysis**: A continuation of the lively interaction between Gaston and LeFou, with Gaston gesturing theatrically.  
+   - **Reason for Rating**: Engaging but slightly repetitive compared to Frame 137.
+
+10. **Frame 139 (Rating: 94)**  
+    - **Analysis**: Gaston laughs heartily, showing his larger-than-life personality, while LeFou complements the humor.  
+    - **Reason for Rating**: Very engaging due to Gaston’s expressive laughter and LeFou’s comedic accompaniment.
+
+---
+
+### Conclusion:
+Frames with more dynamic character interaction, humor, and expressions score higher, as they align closely with the video’s comedic and musical intent. Static or less engaging frames score lower but still contribute to the overall storytelling.
+
+###################################################
+###################################################
+
+28 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/7.png', './dataset/youtube/video_1266/tmp/11.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/19.png', './dataset/youtube/video_1266/frames/140.png', './dataset/youtube/video_1266/frames/141.png', './dataset/youtube/video_1266/frames/142.png', './dataset/youtube/video_1266/frames/143.png', './dataset/youtube/video_1266/frames/144.png']
+### Keywords for Attracting Viewers:
+Based on the video information, the following keywords are likely to engage viewers:  
+**Disney, Gastón, La Bella y la Bestia, Comedy, Fandub, Doblaje, Canciones Disney, Classic, Musical, Keunam, Humor, Singing, Tavern, Animated Characters.**
+
+---
+
+### JSON Ratings for Frames:
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 7, "rating": 85},
+    {"frame": 11, "rating": 88},
+    {"frame": 13, "rating": 95},
+    {"frame": 19, "rating": 84},
+    {"frame": 140, "rating": 90},
+    {"frame": 141, "rating": 92},
+    {"frame": 142, "rating": 91},
+    {"frame": 143, "rating": 97},
+    {"frame": 144, "rating": 75}
+]
+```
+
+---
+
+### Analysis and Explanation of Ratings:
+
+1. **Frame 0 (Rating: 60)**  
+   - Content: A castle in a misty, snowy setting.  
+   - Analysis: While atmospheric and relevant to the "La Bella y la Bestia" theme, it lacks dynamic or comedic elements that might make it particularly captivating.  
+   - Rating: Moderate, as it sets the mood but isn’t very engaging.
+
+2. **Frame 7 (Rating: 85)**  
+   - Content: A cozy, lively tavern scene with people drinking and a warm fireplace.  
+   - Analysis: The scene captures a classic Disney tavern vibe, rich with details and warmth, appealing to fans of the movie and the comedic context.  
+   - Rating: High, as it effectively sets the stage for humor and music.
+
+3. **Frame 11 (Rating: 88)**  
+   - Content: Gastón and LeFou in a humorous pose.  
+   - Analysis: Central characters are prominently displayed with expressive poses, capturing attention and setting up for comedic or musical interaction.  
+   - Rating: Higher due to the focus on key characters and humor potential.
+
+4. **Frame 13 (Rating: 95)**  
+   - Content: Gastón and LeFou engaging in dynamic action, involving a drink.  
+   - Analysis: The frame is more dynamic and humorous, showing character interaction and movement, increasing engagement.  
+   - Rating: Very high because of the humor and action.
+
+5. **Frame 19 (Rating: 84)**  
+   - Content: Gastón and LeFou in a less dynamic or comedic setting.  
+   - Analysis: While still featuring key characters, it lacks the energy and humor of previous frames.  
+   - Rating: Slightly lower due to reduced dynamic appeal.
+
+6. **Frame 140 (Rating: 90)**  
+   - Content: Gastón in a highly expressive, exaggerated pose.  
+   - Analysis: Gastón’s exaggerated expression adds a comedic and dramatic flair, appealing to viewers.  
+   - Rating: High, as it showcases humor and character personality.
+
+7. **Frame 141 (Rating: 92)**  
+   - Content: Gastón in a confident, charismatic pose.  
+   - Analysis: This frame highlights Gastón’s larger-than-life personality, which is central to the humor and appeal of the video.  
+   - Rating: Higher because of the character’s charm and comedic potential.
+
+8. **Frame 142 (Rating: 91)**  
+   - Content: Similar to Frame 141, with slight variations in Gastón’s expression.  
+   - Analysis: Maintains the humor and charisma of the previous frame, with minor differences.  
+   - Rating: Slightly lower than Frame 141 due to less dramatic change.
+
+9. **Frame 143 (Rating: 97)**  
+   - Content: A humorous moment where characters hold up exaggerated scorecards.  
+   - Analysis: This frame is highly comedic, visually engaging, and likely to evoke laughter, making it one of the most appealing.  
+   - Rating: Highest due to its humor and dynamic engagement.
+
+10. **Frame 144 (Rating: 75)**  
+    - Content: Bottles on a table, likely part of a transition or background detail.  
+    - Analysis: While relevant to the tavern setting, it lacks the dynamic energy and humor of other frames.  
+    - Rating: Moderate, as it serves as a functional but less engaging moment.
+
+---
+
+### Conclusion:
+Frames that feature Gastón and LeFou with exaggerated expressions, humor, or dynamic action (e.g., Frames 13, 141, 143) score highest due to their engaging and comedic nature. Frames with background or less dynamic content (e.g., Frames 0, 144) score lower.
+
+###################################################
+###################################################
+
+29 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/1.png', './dataset/youtube/video_1266/tmp/19.png', './dataset/youtube/video_1266/tmp/34.png', './dataset/youtube/video_1266/tmp/143.png', './dataset/youtube/video_1266/frames/145.png', './dataset/youtube/video_1266/frames/146.png', './dataset/youtube/video_1266/frames/147.png', './dataset/youtube/video_1266/frames/148.png', './dataset/youtube/video_1266/frames/149.png']
+### Summary of Keywords
+Based on the video information, the following keywords are likely to attract viewers:
+- **Characters**: Gastón, LeFou, Bella, Bestia.
+- **Themes**: Disney, classic, comedy, songs, singing, tavern, fandub.
+- **Tags**: "La Bella y la Bestia," "canciones Disney," "dubbing," "performance," "entertainment."
+
+---
+
+### JSON Ratings
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 1, "rating": 75},
+    {"frame": 19, "rating": 84},
+    {"frame": 34, "rating": 87},
+    {"frame": 143, "rating": 97},
+    {"frame": 145, "rating": 70},
+    {"frame": 146, "rating": 90},
+    {"frame": 147, "rating": 88},
+    {"frame": 148, "rating": 92},
+    {"frame": 149, "rating": 93}
+]
+```
+
+---
+
+### Analysis and Rating Explanation
+
+1. **Frame 0**:  
+   - **Content**: A dark, snowy castle scene.  
+   - **Analysis**: While atmospheric and tied to "La Bella y la Bestia," it lacks action or character focus.  
+   - **Rating**: 60 (visually appealing but less engaging).
+
+2. **Frame 1**:  
+   - **Content**: A snowy aerial view of a village, adding context to the setting.  
+   - **Analysis**: More dynamic than Frame 0, showcasing the environment with some activity, making it more engaging.  
+   - **Rating**: 75 (better setting and detail).
+
+3. **Frame 19**:  
+   - **Content**: Gastón in a playful action scene indoors.  
+   - **Analysis**: Action-oriented and character-focused, aligning with the comedic and performance theme.  
+   - **Rating**: 84 (adds humor and personality).
+
+4. **Frame 34**:  
+   - **Content**: A lively group of villagers enjoying drinks at a table.  
+   - **Analysis**: Captures the tavern’s lively atmosphere, matching the comedic and musical theme.  
+   - **Rating**: 87 (captures Disney’s joyous tone).
+
+5. **Frame 143**:  
+   - **Content**: Villagers enthusiastically holding up scorecards.  
+   - **Analysis**: Very dynamic and humorous, strongly tied to the comedy tag, and likely to captivate viewers.  
+   - **Rating**: 97 (peak engagement and humor).
+
+6. **Frame 145**:  
+   - **Content**: A character lying on the floor near bar stools, possibly comedic.  
+   - **Analysis**: While humorous, it’s less dynamic and visually engaging than other frames.  
+   - **Rating**: 70 (decent but not standout).
+
+7. **Frame 146**:  
+   - **Content**: Gastón gesturing grandly while interacting with others.  
+   - **Analysis**: A strong, charismatic performance moment, showcasing Gastón’s personality.  
+   - **Rating**: 90 (captures audience attention well).
+
+8. **Frame 147**:  
+   - **Content**: Gastón with an expressive, energetic pose.  
+   - **Analysis**: Builds on Frame 146 with more dramatic energy but slightly repetitive.  
+   - **Rating**: 88 (engaging but less unique).
+
+9. **Frame 148**:  
+   - **Content**: Gastón juggling or throwing objects in the air.  
+   - **Analysis**: Adds a fun, skillful element to the performance, increasing engagement.  
+   - **Rating**: 92 (comedic and impressive).
+
+10. **Frame 149**:  
+    - **Content**: Gastón continuing to juggle with a confident expression.  
+    - **Analysis**: Maintains the energy of Frame 148 but with added personality.  
+    - **Rating**: 93 (slightly more captivating than Frame 148).
+
+--- 
+
+### Conclusion
+Frames with action, comedy, and character focus (e.g., 143, 146-149) score higher due to their alignment with the video's themes and ability to entertain. Frames with static or less dynamic visuals (e.g., 0, 145) score lower.
+
+###################################################
+###################################################
+
+30 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/17.png', './dataset/youtube/video_1266/tmp/29.png', './dataset/youtube/video_1266/tmp/38.png', './dataset/youtube/video_1266/tmp/143.png', './dataset/youtube/video_1266/frames/150.png', './dataset/youtube/video_1266/frames/151.png', './dataset/youtube/video_1266/frames/152.png', './dataset/youtube/video_1266/frames/153.png', './dataset/youtube/video_1266/frames/154.png']
+### Keywords Summary:
+The video is associated with **Disney**, **Beauty and the Beast**, **Gaston**, **comedy**, **music**, **classic songs**, and **fandub/dubbing**. These keywords suggest a blend of nostalgic, humorous, and musical elements that may attract viewers who enjoy Disney content, comedy, and creative covers.
+
+---
+
+### JSON Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 17, "rating": 78},
+    {"frame": 29, "rating": 79},
+    {"frame": 38, "rating": 86},
+    {"frame": 143, "rating": 97},
+    {"frame": 150, "rating": 85},
+    {"frame": 151, "rating": 88},
+    {"frame": 152, "rating": 75},
+    {"frame": 153, "rating": 72},
+    {"frame": 154, "rating": 90}
+]
+```
+
+---
+
+### Image Content Analysis and Rating Explanation:
+
+1. **Frame 0**  
+   - **Content:** A dark and mysterious castle in a snowy setting.  
+   - **Analysis:** The iconic setting of a castle evokes nostalgia for Disney fans, but it’s static and less engaging compared to character-focused scenes.  
+   - **Rating:** 60 – Moderate interest due to its atmospheric tone.
+
+2. **Frame 17**  
+   - **Content:** A lively character (LeFou) gesturing enthusiastically in a tavern-like setting.  
+   - **Analysis:** The expression, warm colors, and character animation add humor and energy.  
+   - **Rating:** 78 – Fun and engaging but not the most dynamic moment.
+
+3. **Frame 29**  
+   - **Content:** Gaston looking downcast while LeFou cheers him up.  
+   - **Analysis:** This frame highlights a humorous contrast between the two characters, enhancing the comedic appeal.  
+   - **Rating:** 79 – Better character interaction increases interest.
+
+4. **Frame 38**  
+   - **Content:** Gaston in a bold, action-packed pose in front of a roaring fireplace.  
+   - **Analysis:** The dynamic posture and fiery background make this scene visually striking and memorable.  
+   - **Rating:** 86 – High interest due to its dramatic and bold composition.
+
+5. **Frame 143**  
+   - **Content:** A lively group scene with characters holding up scorecards and cheering.  
+   - **Analysis:** This frame is full of energy, with animated expressions and humor, making it one of the most engaging moments.  
+   - **Rating:** 97 – The peak of excitement and energy.
+
+6. **Frame 150**  
+   - **Content:** Gaston juggling eggs confidently in a tavern setting.  
+   - **Analysis:** A fun and skillful action that adds character charm and humor.  
+   - **Rating:** 85 – Entertaining, though slightly less impactful compared to group scenes.
+
+7. **Frame 151**  
+   - **Content:** Gaston catching the eggs in his mouth.  
+   - **Analysis:** The action intensifies, and Gaston’s over-the-top expression adds humor and interest.  
+   - **Rating:** 88 – More engaging than the juggling scene.
+
+8. **Frame 152**  
+   - **Content:** LeFou happily holding eggs.  
+   - **Analysis:** A more subdued moment. Though humorous, it lacks the dynamic energy of previous frames.  
+   - **Rating:** 75 – Amusing but not as engaging.
+
+9. **Frame 153**  
+   - **Content:** LeFou smiling while seated, but without much action.  
+   - **Analysis:** This frame is static and less interesting compared to others with more movement or humor.  
+   - **Rating:** 72 – Minimal engagement due to lack of action.
+
+10. **Frame 154**  
+    - **Content:** LeFou getting splashed with liquid or food.  
+    - **Analysis:** A classic slapstick moment that adds humor and energy.  
+    - **Rating:** 90 – Highly engaging and funny.
+
+---
+
+### Summary:
+Frames with dynamic action, humor, or group energy (e.g., Frames 143, 154) scored higher, while slower or static moments (e.g., Frames 0, 153) received lower ratings. The analysis prioritizes visual appeal, humor, and energy to attract viewers.
+
+###################################################
+###################################################
+
+31 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/13.png', './dataset/youtube/video_1266/tmp/34.png', './dataset/youtube/video_1266/tmp/61.png', './dataset/youtube/video_1266/tmp/143.png', './dataset/youtube/video_1266/frames/155.png', './dataset/youtube/video_1266/frames/156.png', './dataset/youtube/video_1266/frames/157.png', './dataset/youtube/video_1266/frames/158.png', './dataset/youtube/video_1266/frames/159.png']
+### Keywords
+Based on the video information, some keywords that may attract viewers are:  
+- **Disney**, **classic**, **songs**, **comedy**, **fandub**, **cover**, **Gaston**, **La Bella y la Bestia**, **fun**, **humor**, **animation**, **Keunam**, **singing**, **characters**, **musical**, **vibrant scenes**, **canciones Disney**.
+
+---
+
+### JSON Output
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 13, "rating": 95},
+    {"frame": 34, "rating": 87},
+    {"frame": 61, "rating": 72},
+    {"frame": 143, "rating": 97},
+    {"frame": 155, "rating": 85},
+    {"frame": 156, "rating": 90},
+    {"frame": 157, "rating": 92},
+    {"frame": 158, "rating": 89},
+    {"frame": 159, "rating": 93}
+]
+```
+
+---
+
+### Analysis and Ratings Explanation
+
+1. **Frame 0 (Rating: 60)**  
+   - **Content**: A dark, mysterious castle surrounded by snow.  
+   - **Analysis**: While visually compelling and setting a dramatic tone, it lacks vibrant action or humor. It's more atmospheric and less engaging.  
+
+2. **Frame 13 (Rating: 95)**  
+   - **Content**: Gaston and LeFou in an intense moment in the tavern, with Gaston holding a mug.  
+   - **Analysis**: This frame is dynamic and features a key character, Gaston. The intensity and expressions make it engaging and entertaining.  
+
+3. **Frame 34 (Rating: 87)**  
+   - **Content**: A group of cheerful characters laughing and interacting at a table.  
+   - **Analysis**: This scene radiates humor and camaraderie, appealing to fans of Disney's lively, comedic moments.  
+
+4. **Frame 61 (Rating: 72)**  
+   - **Content**: A character dancing or interacting in the background of the tavern.  
+   - **Analysis**: While it shows movement, it lacks the dynamic energy or humor of other frames.  
+
+5. **Frame 143 (Rating: 97)**  
+   - **Content**: Characters holding up "10" and other scores in a comedic, celebratory way.  
+   - **Analysis**: This frame is highly energetic, humorous, and visually engaging, making it a standout.  
+
+6. **Frame 155 (Rating: 85)**  
+   - **Content**: A humorous moment as a character is covered with eggs.  
+   - **Analysis**: The comedic visual gag adds to the entertainment but isn't as dynamic as other scenes.  
+
+7. **Frame 156 (Rating: 90)**  
+   - **Content**: Gaston flexing his muscles in a boastful manner.  
+   - **Analysis**: This frame showcases Gaston's personality and charisma, appealing to fans of the character.  
+
+8. **Frame 157 (Rating: 92)**  
+   - **Content**: Gaston striking a confident pose with an intense expression.  
+   - **Analysis**: The energy and focus on Gaston make this frame highly engaging.  
+
+9. **Frame 158 (Rating: 89)**  
+   - **Content**: Gaston performing a dramatic action or gesture.  
+   - **Analysis**: While engaging, it is slightly less interesting compared to the previous frame.  
+
+10. **Frame 159 (Rating: 93)**  
+    - **Content**: Gaston with an exaggerated, comedic facial expression.  
+    - **Analysis**: The humor and dynamic nature of this frame make it highly appealing and entertaining.  
+
+--- 
+
+Overall, frames featuring Gaston or high-energy, comedic moments score the highest, as they are the most engaging and reflective of the video's tone.
+
+###################################################
+###################################################
+
+32 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/20.png', './dataset/youtube/video_1266/tmp/21.png', './dataset/youtube/video_1266/tmp/38.png', './dataset/youtube/video_1266/tmp/143.png', './dataset/youtube/video_1266/frames/160.png', './dataset/youtube/video_1266/frames/161.png', './dataset/youtube/video_1266/frames/162.png', './dataset/youtube/video_1266/frames/163.png', './dataset/youtube/video_1266/frames/164.png']
+### Keywords Summary:
+Based on the video information provided, the following keywords could attract viewers:
+- Disney, Gastón, La Bella y la Bestia, Keunam, Comedy, Cover
+- Singing, Classic, Disney Songs, Dubbing, Fandub, Humorous, Tavern, Iconic Characters
+
+### JSON Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 20, "rating": 82},
+    {"frame": 21, "rating": 81},
+    {"frame": 38, "rating": 86},
+    {"frame": 143, "rating": 97},
+    {"frame": 160, "rating": 88},
+    {"frame": 161, "rating": 89},
+    {"frame": 162, "rating": 92},
+    {"frame": 163, "rating": 85},
+    {"frame": 164, "rating": 84}
+]
+```
+
+### Analysis and Explanation of Ratings:
+
+1. **Frame 0: Rating 60**
+   - Content: A dark, atmospheric castle surrounded by snow creates a dramatic opening. While visually striking, it lacks action or character focus, which might limit viewer engagement. 
+
+2. **Frame 20: Rating 82**
+   - Content: A humorous interaction between two characters in a tavern setting. The dynamic movement and comedic expressions make it engaging and aligned with the "Comedy" tag.
+
+3. **Frame 21: Rating 81**
+   - Content: Similar to Frame 20 but with slightly less dynamic action. Still engaging due to the interaction between characters.
+
+4. **Frame 38: Rating 86**
+   - Content: Gastón is shown in a strong and commanding pose near a fireplace. The warm colors and character-focused composition make this visually appealing and engaging.
+
+5. **Frame 143: Rating 97**
+   - Content: Characters holding up scorecards (10s and 8) in a lively atmosphere. This frame is highly dynamic, humorous, and engaging, perfectly matching the "Comedy" and "Singing" themes.
+
+6. **Frame 160: Rating 88**
+   - Content: Gastón laughing with exaggerated expressions, showcasing humor and personality. This aligns well with the comedic aspect of the video.
+
+7. **Frame 161: Rating 89**
+   - Content: Gastón in a strong and charismatic pose, likely adding to the humor or drama of the scene. The focus on the main character increases its appeal.
+
+8. **Frame 162: Rating 92**
+   - Content: A group of characters in a cheerful, celebratory mood. The camaraderie and lively expressions are highly engaging, reflecting the fun and musical vibe of the video.
+
+9. **Frame 163: Rating 85**
+   - Content: Gastón holding a weapon in a confident pose. While visually strong, it is slightly less dynamic compared to the group celebrations in other frames.
+
+10. **Frame 164: Rating 84**
+    - Content: Gastón smiling near another character, with a calmer but still engaging interaction. This frame is appealing but lacks the high energy of others. 
+
+### Summary:
+Frames with high energy, humor, and dynamic composition (e.g., Frame 143, 162) scored the highest, as they align most closely with the comedic and musical aspects of the video. Static or atmospheric frames like Frame 0 received lower scores due to their limited action or character focus.
+
+###################################################
+###################################################
+
+33 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/11.png', './dataset/youtube/video_1266/tmp/18.png', './dataset/youtube/video_1266/tmp/34.png', './dataset/youtube/video_1266/tmp/143.png', './dataset/youtube/video_1266/frames/165.png', './dataset/youtube/video_1266/frames/166.png', './dataset/youtube/video_1266/frames/167.png', './dataset/youtube/video_1266/frames/168.png', './dataset/youtube/video_1266/frames/169.png']
+### Keywords Summary
+Based on the video information, the following keywords may attract viewers:
+- **Disney**, **La Bella y La Bestia**, **Comedy**, **Gaston**, **Keunam**, **Fandub**, **Classic**, **Song**, **Canto**, **Humor**, **Taberna**, **Disney Songs**, **Dubbing**, **Characters (Gaston, LeFou)**.
+
+### Frame Ratings in JSON Format
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 11, "rating": 88},
+    {"frame": 18, "rating": 83},
+    {"frame": 34, "rating": 87},
+    {"frame": 143, "rating": 97},
+    {"frame": 165, "rating": 85},
+    {"frame": 166, "rating": 84},
+    {"frame": 167, "rating": 90},
+    {"frame": 168, "rating": 86},
+    {"frame": 169, "rating": 89}
+]
+```
+
+---
+
+### Analysis and Explanation of Ratings
+
+1. **Frame 0 (Rating: 60)**  
+   - **Content**: A dark, snowy castle setting.  
+   - **Analysis**: This frame sets the tone and context for the video, referencing the iconic castle from *Beauty and the Beast*. However, it lacks dynamic action or humor.  
+   - **Reason for Rating**: While visually atmospheric, it is less engaging compared to other frames with characters or humorous moments.
+
+2. **Frame 11 (Rating: 88)**  
+   - **Content**: Gaston and LeFou interacting in the tavern.  
+   - **Analysis**: Gaston's animated expression and LeFou's comical posture create a humorous and engaging dynamic, which resonates with the comedic tone of the video.  
+   - **Reason for Rating**: High humor and character focus make this frame engaging.
+
+3. **Frame 18 (Rating: 83)**  
+   - **Content**: Gaston reacting dramatically, LeFou pointing.  
+   - **Analysis**: This frame continues the humor with physical comedy, though it is slightly less vibrant than Frame 11.  
+   - **Reason for Rating**: Strong character interaction but not as impactful as Frame 11.
+
+4. **Frame 34 (Rating: 87)**  
+   - **Content**: LeFou surrounded by tavern patrons, all laughing and drinking.  
+   - **Analysis**: The lively atmosphere and group interaction enhance the comedic and musical aspects of the scene.  
+   - **Reason for Rating**: The energy and humor of the group interaction make this frame highly engaging.
+
+5. **Frame 143 (Rating: 97)**  
+   - **Content**: Tavern patrons holding up scorecards in a humorous, exaggerated moment.  
+   - **Analysis**: This frame combines humor, exaggerated expressions, and a sense of competition, aligning perfectly with the comedic and musical tone of the video.  
+   - **Reason for Rating**: The peak of humor and creativity, making it the most engaging frame.
+
+6. **Frame 165 (Rating: 85)**  
+   - **Content**: Gaston aiming a rifle, with LeFou observing.  
+   - **Analysis**: Gaston’s exaggerated seriousness and LeFou’s presence add humor, though the action is less dynamic.  
+   - **Reason for Rating**: A humorous setup, but less lively than the group scenes.
+
+7. **Frame 166 (Rating: 84)**  
+   - **Content**: Similar to Frame 165, showing Gaston firing the rifle.  
+   - **Analysis**: The continuation of the action adds some interest, but it lacks the humor or group dynamics of other frames.  
+   - **Reason for Rating**: Slightly less engaging than Frame 165.
+
+8. **Frame 167 (Rating: 90)**  
+   - **Content**: Tavern patrons spilling beer as they cheer.  
+   - **Analysis**: The lively celebration and exaggerated expressions align with the comedic tone, making it highly engaging.  
+   - **Reason for Rating**: The chaotic humor and energy elevate this frame.
+
+9. **Frame 168 (Rating: 86)**  
+   - **Content**: Gaston in front of a wall of trophies, LeFou moving comically.  
+   - **Analysis**: The setting highlights Gaston’s exaggerated ego, and LeFou’s comedic presence adds humor.  
+   - **Reason for Rating**: Strong character-driven humor, though less dynamic.
+
+10. **Frame 169 (Rating: 89)**  
+   - **Content**: A close-up of Gaston and LeFou with exaggerated expressions.  
+   - **Analysis**: The focus on the characters and their expressions provides humor and engagement.  
+   - **Reason for Rating**: Strong character expressions make this a standout frame, though not as dynamic as Frame 143.
+
+###################################################
+###################################################
+
+34 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/10.png', './dataset/youtube/video_1266/tmp/34.png', './dataset/youtube/video_1266/tmp/61.png', './dataset/youtube/video_1266/tmp/143.png', './dataset/youtube/video_1266/frames/170.png', './dataset/youtube/video_1266/frames/171.png', './dataset/youtube/video_1266/frames/172.png', './dataset/youtube/video_1266/frames/173.png', './dataset/youtube/video_1266/frames/174.png']
+### Keywords Summary:
+Based on the video information provided, keywords that may attract viewers include:  
+- **Disney**  
+- **Beauty and the Beast**  
+- **Gaston**  
+- **Comedy**  
+- **Classic Disney Songs**  
+- **Cover**  
+- **Keunam**  
+- **Fandub**  
+- **Funny**  
+- **Singing**  
+
+These keywords highlight the blend of humor, classic Disney nostalgia, and musical performance.
+
+---
+
+### JSON Output:
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 10, "rating": 90},
+    {"frame": 34, "rating": 87},
+    {"frame": 61, "rating": 72},
+    {"frame": 143, "rating": 97},
+    {"frame": 170, "rating": 75},
+    {"frame": 171, "rating": 70},
+    {"frame": 172, "rating": 73},
+    {"frame": 173, "rating": 74},
+    {"frame": 174, "rating": 76}
+]
+```
+
+---
+
+### Frame Analysis and Rating Explanation:
+
+1. **Frame 0 (Rating: 60)**  
+   Description: This frame shows a dark and misty castle in the background. While it sets a mysterious and atmospheric tone, it is less engaging compared to the other frames. It is not comedic or action-packed, which lowers its "interestingness" score.
+
+2. **Frame 10 (Rating: 90)**  
+   Description: Gaston is sitting in a humorous pose, looking annoyed. The frame captures a comedic and character-driven moment, appealing to fans of the character and the humor in the video. This makes it highly engaging.
+
+3. **Frame 34 (Rating: 87)**  
+   Description: A group of men is laughing and drinking in a lively tavern scene. The frame conveys a cheerful and vibrant atmosphere that complements the comedic tone of the video. It's engaging but slightly less focused on Gaston himself.
+
+4. **Frame 61 (Rating: 72)**  
+   Description: A character is dancing or moving in a comical manner near the bar. While it is humorous, it lacks the central focus on Gaston or a standout comedic moment, which slightly lowers its score.
+
+5. **Frame 143 (Rating: 97)**  
+   Description: Characters hold up scorecards, celebrating or evaluating something in a comedic display. This is a standout moment, as it combines humor, group dynamics, and an element of surprise, making it the most engaging frame.
+
+6. **Frame 170 (Rating: 75)**  
+   Description: Gaston is seen in front of a wall with hunting trophies and a portrait of himself. This scene reflects his ego and personality, but it lacks the humor or dynamic action of other frames.
+
+7. **Frame 171 (Rating: 70)**  
+   Description: Gaston is in motion, possibly falling or stumbling. While the movement adds some interest, it is not as visually striking or comedic as other moments.
+
+8. **Frame 172 (Rating: 73)**  
+   Description: Gaston is shown in a mid-action pose, possibly struggling or acting humorously. It is slightly more engaging than Frame 171 due to its focus on Gaston's antics.
+
+9. **Frame 173 (Rating: 74)**  
+   Description: Gaston appears to be recovering or continuing an exaggerated action. This frame is slightly more engaging than the previous one due to its humor.
+
+10. **Frame 174 (Rating: 76)**  
+    Description: Gaston is in a final pose, likely completing the comedic action. The resolution of the movement gives it a slight edge in interest compared to the previous frames.
+
+---
+
+### Summary:  
+Frames that focus on Gaston's character, humor, or dynamic group moments (e.g., Frame 143) scored higher due to their alignment with the video's comedic and Disney-centric appeal. Frames with less action or humor scored lower.
+
+###################################################
+###################################################
+
+35 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/11.png', './dataset/youtube/video_1266/tmp/17.png', './dataset/youtube/video_1266/tmp/69.png', './dataset/youtube/video_1266/tmp/143.png', './dataset/youtube/video_1266/frames/175.png', './dataset/youtube/video_1266/frames/176.png', './dataset/youtube/video_1266/frames/177.png', './dataset/youtube/video_1266/frames/178.png', './dataset/youtube/video_1266/frames/179.png']
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 11, "rating": 88},
+    {"frame": 17, "rating": 78},
+    {"frame": 69, "rating": 89},
+    {"frame": 143, "rating": 97},
+    {"frame": 175, "rating": 85},
+    {"frame": 176, "rating": 90},
+    {"frame": 177, "rating": 92},
+    {"frame": 178, "rating": 86},
+    {"frame": 179, "rating": 87}
+]
+```
+
+### Analysis and Explanation of Ratings:
+
+#### Frame 0:
+- **Content**: A mysterious castle shrouded in snow and mist.
+- **Reason**: While atmospheric, it doesn’t directly engage with the humor or energy of the video’s theme. It sets the tone but lacks dynamic activity.
+- **Rating**: 60 (average interest level).
+
+#### Frame 11:
+- **Content**: Gastón in his signature pose with an expressive demeanor, accompanied by LeFou.
+- **Reason**: Captures Gastón’s personality and comedic tension well, appealing to fans of the character and humor.
+- **Rating**: 88 (very engaging).
+
+#### Frame 17:
+- **Content**: LeFou gesturing animatedly, likely part of a comedic moment.
+- **Reason**: A humorous frame centered on a secondary character, but less dynamic than frames with Gastón or group interactions.
+- **Rating**: 78 (moderately engaging).
+
+#### Frame 69:
+- **Content**: Gastón in a dramatic and expressive pose, showing frustration or determination.
+- **Reason**: Highlights Gastón’s exaggerated personality, which is central to the humor and energy of the video.
+- **Rating**: 89 (highly engaging).
+
+#### Frame 143:
+- **Content**: A lively group scene with townsfolk holding up high scores, celebrating Gastón.
+- **Reason**: A vibrant and comedic group moment, perfectly capturing the fun and energy of the video’s theme.
+- **Rating**: 97 (most engaging).
+
+#### Frame 175:
+- **Content**: Gastón proudly displayed in a setting with numerous hunting trophies.
+- **Reason**: Visually interesting and humorous, emphasizing Gastón’s boastfulness, but less dynamic than group interactions.
+- **Rating**: 85 (highly engaging).
+
+#### Frame 176:
+- **Content**: Townsfolk raising mugs in a celebratory toast.
+- **Reason**: A cheerful and energetic group moment, appealing for its humor and camaraderie.
+- **Rating**: 90 (very engaging).
+
+#### Frame 177:
+- **Content**: Mugs being raised with an exaggerated splash of liquid.
+- **Reason**: A humorous and dynamic moment, emphasizing the festive and chaotic energy of the scene.
+- **Rating**: 92 (very engaging).
+
+#### Frame 178:
+- **Content**: A close-up of a mug spilling its contents in mid-air.
+- **Reason**: A humorous detail, but less engaging than full character or group scenes.
+- **Rating**: 86 (moderately engaging).
+
+#### Frame 179:
+- **Content**: Feet stomping and more chaotic action involving the spilled drink.
+- **Reason**: Adds to the lively scene but slightly less dynamic than the preceding group moments.
+- **Rating**: 87 (highly engaging).
+
+###################################################
+###################################################
+
+36 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/24.png', './dataset/youtube/video_1266/tmp/83.png', './dataset/youtube/video_1266/tmp/87.png', './dataset/youtube/video_1266/tmp/143.png', './dataset/youtube/video_1266/frames/180.png', './dataset/youtube/video_1266/frames/181.png', './dataset/youtube/video_1266/frames/182.png', './dataset/youtube/video_1266/frames/183.png', './dataset/youtube/video_1266/frames/184.png']
+### Keywords Summary
+Based on the video title, categories, and tags, the following keywords may attract viewers:
+- **Disney**, **La Bella y la Bestia**, **Gastón**, **Lefoy**, **Comedy**, **Fandub**, **Canto**, **Classic Disney Songs**, **Keunam**.
+
+These keywords highlight the connection to a beloved Disney classic, humor, and musical performance, which can appeal to fans of Disney, music, and comedic dubbing.
+
+---
+
+### JSON Ratings
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 24, "rating": 77},
+    {"frame": 83, "rating": 76},
+    {"frame": 87, "rating": 91},
+    {"frame": 143, "rating": 97},
+    {"frame": 180, "rating": 85},
+    {"frame": 181, "rating": 80},
+    {"frame": 182, "rating": 82},
+    {"frame": 183, "rating": 89},
+    {"frame": 184, "rating": 88}
+]
+```
+
+---
+
+### Analysis and Ratings Explanation
+
+1. **Frame 0**:
+   - **Content**: A dark, atmospheric castle with snow falling.
+   - **Rating (60)**: While it sets an intriguing tone, it lacks dynamic or comedic elements that would grab immediate attention. Suitable for context-setting but less engaging.
+
+2. **Frame 24**:
+   - **Content**: A lively scene featuring LeFou in motion and comedic action.
+   - **Rating (77)**: The humor and movement in this frame make it more engaging. It reflects the comedic tone of the video.
+
+3. **Frame 83**:
+   - **Content**: Gastón and LeFou in a conversation, with visible expressions of determination and surprise.
+   - **Rating (76)**: The expressions add character depth, but the static nature of the scene makes it slightly less engaging than full comedic moments.
+
+4. **Frame 87**:
+   - **Content**: A close-up of LeFou with a wide, comedic smile.
+   - **Rating (91)**: The large and expressive face is humorous and eye-catching, making it highly engaging.
+
+5. **Frame 143**:
+   - **Content**: A celebratory scene with characters holding up numerical signs in a comedic manner.
+   - **Rating (97)**: The humor and high energy of the group make this one of the most engaging frames. It captures the comedic essence and liveliness.
+
+6. **Frame 180**:
+   - **Content**: Gastón being lifted on a chair, surrounded by hunting trophies and a warm tavern atmosphere.
+   - **Rating (85)**: The scene is visually interesting and showcases Gastón's character in an iconic, boastful moment.
+
+7. **Frame 181**:
+   - **Content**: A close-up of Gastón being lifted, with exaggerated expressions from supporting characters.
+   - **Rating (80)**: The focus on Gastón is engaging but slightly less dynamic than other frames.
+
+8. **Frame 182**:
+   - **Content**: A comedic fall onto a bear rug, with exaggerated motion.
+   - **Rating (82)**: The humor of the fall adds a dynamic element, though it’s subtle compared to larger group scenes.
+
+9. **Frame 183**:
+   - **Content**: A chaotic, comedic moment with characters in motion.
+   - **Rating (89)**: The energy and humor make this frame stand out as an engaging moment.
+
+10. **Frame 184**:
+    - **Content**: Gastón standing triumphantly, with exaggerated movements.
+    - **Rating (88)**: The triumphant pose combined with humor makes this an engaging and entertaining frame.
+
+---
+
+### Summary
+Frames featuring humor, group dynamics, or expressive emotions (e.g., frames 143, 87, 183) score higher because they align with the comedic and musical tone of the video. Frames with static or atmospheric content (e.g., frame 0) are rated lower for their lower visual engagement.
+
+###################################################
+###################################################
+
+37 ['./dataset/youtube/video_1266/tmp/0.png', './dataset/youtube/video_1266/tmp/7.png', './dataset/youtube/video_1266/tmp/18.png', './dataset/youtube/video_1266/tmp/20.png', './dataset/youtube/video_1266/tmp/34.png', './dataset/youtube/video_1266/tmp/69.png', './dataset/youtube/video_1266/tmp/143.png', './dataset/youtube/video_1266/frames/185.png', './dataset/youtube/video_1266/frames/186.png', './dataset/youtube/video_1266/frames/187.png']
+### Keywords Summary:
+Based on the video information, keywords that may attract viewers include:  
+**"Disney," "Gaston," "La Bella y la Bestia," "Comedy," "Classic," "Song," "Fandub," "Cover," "Keunam," "Taberna," "Canta," "Doblaje," "Funny," "Animated," "Characters."**
+
+---
+
+### JSON Output:
+
+```json
+[
+    {"frame": 0, "rating": 60},
+    {"frame": 7, "rating": 85},
+    {"frame": 18, "rating": 83},
+    {"frame": 20, "rating": 82},
+    {"frame": 34, "rating": 87},
+    {"frame": 69, "rating": 89},
+    {"frame": 143, "rating": 97},
+    {"frame": 185, "rating": 90},
+    {"frame": 186, "rating": 88},
+    {"frame": 187, "rating": 88}
+]
+```
+
+---
+
+### Analysis and Ratings Explanation:
+
+1. **Frame 0 (Rating: 60)**  
+   - **Content**: A dark, misty castle in the background.  
+   - **Analysis**: While it sets the tone for the story, it lacks dynamic action or characters, making it less engaging. The castle is iconic but not inherently comedic or energetic.
+
+2. **Frame 7 (Rating: 85)**  
+   - **Content**: A cozy interior with characters enjoying drinks by the fire in a tavern.  
+   - **Analysis**: The warm lighting and characters create a lively atmosphere. The tavern setting connects well with the "Gaston" theme, offering humor and nostalgia.
+
+3. **Frame 18 (Rating: 83)**  
+   - **Content**: Gaston lifting a chair with Lefou animatedly reacting.  
+   - **Analysis**: Highlights Gaston's comical strength and Lefou's exaggerated expressions. A humorous and action-filled moment, though slightly less engaging than broader group scenes.
+
+4. **Frame 20 (Rating: 82)**  
+   - **Content**: Gaston seated, with Lefou interacting.  
+   - **Analysis**: Similar to Frame 18 but with less action. The humor is present but slightly toned down, leading to a slightly lower score.
+
+5. **Frame 34 (Rating: 87)**  
+   - **Content**: A group of cheerful characters laughing and drinking together.  
+   - **Analysis**: Captures the essence of fun and camaraderie in the tavern. The energy and humor are high, making it an engaging frame.
+
+6. **Frame 69 (Rating: 89)**  
+   - **Content**: Gaston showing exaggerated expressions of frustration or intensity. Lefou is reacting in the background.  
+   - **Analysis**: Gaston's dramatic face is humorous and highlights his personality, making it highly engaging for fans of "La Bella y la Bestia."
+
+7. **Frame 143 (Rating: 97)**  
+   - **Content**: A climactic scene with characters holding up scorecards, cheering Gaston.  
+   - **Analysis**: The peak of humor and energy. The scorecards add a playful and interactive element, making this frame highly appealing and memorable.
+
+8. **Frame 185 (Rating: 90)**  
+   - **Content**: Gaston leading a lively group performance in the tavern.  
+   - **Analysis**: A dynamic and visually appealing moment with Gaston at the center. The group energy and choreography enhance the frame's appeal.
+
+9. **Frame 186 (Rating: 88)**  
+   - **Content**: A continuation of the group performance.  
+   - **Analysis**: Similar to Frame 185 but slightly less dynamic as the visual focus becomes dispersed across the crowd.
+
+10. **Frame 187 (Rating: 88)**  
+    - **Content**: Another angle of the group continuing the lively scene.  
+    - **Analysis**: Maintains the energy and humor of the preceding frames but doesn't add much new visual interest, hence the same score as Frame 186.
+
+---
+
+### Summary:
+The ratings reflect the level of engagement, humor, and action in each frame. Frames with dynamic group scenes (e.g., Frame 143) or expressive characters (e.g., Frame 69) scored higher, while static or less engaging visuals (e.g., Frame 0) scored lower.
+
+###################################################
+###################################################
+
+LLM score: [60. 75. 75. 75. 75. 75. 75. 85. 85. 85. 90. 88. 92. 95. 95. 85. 80. 78.
+ 83. 84. 82. 81. 80. 78. 77. 85. 83. 84. 80. 79. 80. 82. 79. 78. 87. 90.
+ 90. 85. 86. 84. 65. 88. 87. 86. 84. 90. 88. 83. 85. 87. 82. 80. 78. 79.
+ 77. 90. 93. 95. 90. 88. 70. 72. 78. 80. 65. 85. 90. 92. 88. 89. 85. 88.
+ 82. 90. 92. 85. 87. 88. 86. 84. 85. 83. 78. 76. 88. 88. 89. 91. 89. 92.
+ 78. 80. 88. 85. 87. 85. 90. 92. 93. 94. 93. 92. 89. 88. 91. 80. 88. 90.
+ 92. 89. 83. 90. 92. 94. 89. 85. 88. 82. 83. 90. 86. 88. 90. 92. 93. 70.
+ 68. 72. 90. 88. 88. 75. 92. 77. 85. 88. 92. 93. 91. 94. 90. 92. 91. 97.
+ 75. 70. 90. 88. 92. 93. 85. 88. 75. 72. 90. 85. 90. 92. 89. 93. 88. 89.
+ 92. 85. 84. 85. 84. 90. 86. 89. 75. 70. 73. 74. 76. 85. 90. 92. 86. 87.
+ 85. 80. 82. 89. 88. 90. 88. 88.] 
+GT score: [2.16767400e-01 2.16767400e-01 1.76882614e-01 1.76882614e-01
+ 2.50034873e-01 2.50034873e-01 3.14171173e-01 3.14171173e-01
+ 3.52165715e-01 3.52165715e-01 3.79586373e-01 3.79586373e-01
+ 3.24016253e-01 3.24016253e-01 2.94448167e-01 2.94448167e-01
+ 2.81999277e-01 2.31750808e-01 2.31750808e-01 1.91548732e-01
+ 1.91548732e-01 1.61007947e-01 1.61007947e-01 1.75053535e-01
+ 1.75053535e-01 2.25657305e-01 2.25657305e-01 2.19616289e-01
+ 2.19616289e-01 1.89515927e-01 1.89515927e-01 2.08018574e-01
+ 2.21854215e-01 2.21854215e-01 1.30633807e-01 1.30633807e-01
+ 8.34165767e-02 8.34165767e-02 4.76925533e-02 4.76925533e-02
+ 3.93264364e-02 3.93264364e-02 9.48414875e-03 9.48414875e-03
+ 2.78044462e-03 2.78044462e-03 0.00000000e+00 8.84931273e-04
+ 8.84931273e-04 1.58306888e-02 1.58306888e-02 4.82866486e-02
+ 4.82866486e-02 9.59722177e-02 9.59722177e-02 1.53022126e-01
+ 1.53022126e-01 4.60588664e-01 4.60588664e-01 5.26361197e-01
+ 5.26361197e-01 6.57055216e-01 6.57055216e-01 7.29338396e-01
+ 7.91085362e-01 7.91085362e-01 8.52396604e-01 8.52396604e-01
+ 7.47695053e-01 7.47695053e-01 4.11365084e-01 4.11365084e-01
+ 4.24264979e-01 4.24264979e-01 4.41483901e-01 4.41483901e-01
+ 4.15721444e-01 4.15721444e-01 5.67941137e-01 8.04309152e-01
+ 8.04309152e-01 7.91697257e-01 7.91697257e-01 6.59666433e-01
+ 6.59666433e-01 8.82322024e-01 8.82322024e-01 1.00000000e+00
+ 1.00000000e+00 9.92871619e-01 9.92871619e-01 6.90462711e-01
+ 6.90462711e-01 4.31836112e-01 3.92446395e-01 3.92446395e-01
+ 3.77724955e-01 3.77724955e-01 3.20012486e-01 3.20012486e-01
+ 2.68970070e-01 2.68970070e-01 2.50855318e-01 2.50855318e-01
+ 2.90319913e-01 2.90319913e-01 3.67426457e-01 3.67426457e-01
+ 5.18489366e-01 5.18489366e-01 5.76851952e-01 6.04818091e-01
+ 6.04818091e-01 6.67196000e-01 6.67196000e-01 7.75593975e-01
+ 7.75593975e-01 9.91577227e-01 9.91577227e-01 8.99629539e-01
+ 8.99629539e-01 7.83826441e-01 7.83826441e-01 7.07573399e-01
+ 7.07573399e-01 7.27711475e-01 6.48697205e-01 6.48697205e-01
+ 6.73402731e-01 6.73402731e-01 6.43575258e-01 6.43575258e-01
+ 6.41886792e-01 6.41886792e-01 5.64966660e-01 5.64966660e-01
+ 4.53196494e-01 4.53196494e-01 4.16334608e-01 4.16334608e-01
+ 4.16562545e-01 4.11600174e-01 4.11600174e-01 3.55134012e-01
+ 3.55134012e-01 5.40024521e-01 5.40024521e-01 4.72837808e-01
+ 4.72837808e-01 3.91912131e-01 3.91912131e-01 4.15747561e-01
+ 4.15747561e-01 5.08167080e-01 5.08167080e-01 7.48220090e-01
+ 7.48220090e-01 7.23217676e-01 6.45895004e-01 6.45895004e-01
+ 6.29036252e-01 6.29036252e-01 5.75323063e-01 5.75323063e-01
+ 6.57566624e-01 6.57566624e-01 6.96788975e-01 6.96788975e-01
+ 6.61574158e-01 6.61574158e-01 6.16497669e-01 6.16497669e-01
+ 6.35780379e-01 6.47968824e-01 6.47968824e-01 6.64254116e-01
+ 6.64254116e-01 5.87993794e-01 5.87993794e-01 5.54361369e-01
+ 5.54361369e-01 4.86206274e-01 4.86206274e-01 4.15017063e-01
+ 4.15017063e-01 2.68136800e-01 2.68136800e-01 8.55767462e-02]
+ALL PLCC
+
+    (PLCC): 0.08508378974075659, p-value: 0.24566790547268028, Index PLCC: 0.08793236988430703, p-value: 0.23015771665045004
+    (SRCC): 0.12291711929769705, p-value: 0.09286145561287476, Index SRCC: 0.12291711929769705, p-value: 0.09286145561287476
+    
+下面的modified
+原始差 ['0', 15.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 5.0, -2.0, 4.0, 3.0, 0.0, -10.0, -5.0, -2.0, 5.0, 1.0, -2.0, -1.0, -1.0, -2.0, -1.0, 8.0, -2.0, 1.0, -4.0, -1.0, 1.0, 2.0, -3.0, -1.0, 9.0, 3.0, 0.0, -5.0, 1.0, -2.0, -19.0, 23.0, -1.0, -1.0, -2.0, 6.0, -2.0, -5.0, 2.0, 2.0, -5.0, -2.0, -2.0, 1.0, -2.0, 13.0, 3.0, 2.0, -5.0, -2.0, -18.0, 2.0, 6.0, 2.0, -15.0, 20.0, 5.0, 2.0, -4.0, 1.0, -4.0, 3.0, -6.0, 8.0, 2.0, -7.0, 2.0, 1.0, -2.0, -2.0, 1.0, -2.0, -5.0, -2.0, 12.0, 0.0, 1.0, 2.0, -2.0, 3.0, -14.0, 2.0, 8.0, -3.0, 2.0, -2.0, 5.0, 2.0, 1.0, 1.0, -1.0, -1.0, -3.0, -1.0, 3.0, -11.0, 8.0, 2.0, 2.0, -3.0, -6.0, 7.0, 2.0, 2.0, -5.0, -4.0, 3.0, -6.0, 1.0, 7.0, -4.0, 2.0, 2.0, 2.0, 1.0, -23.0, -2.0, 4.0, 18.0, -2.0, 0.0, -13.0, 17.0, -15.0, 8.0, 3.0, 4.0, 1.0, -2.0, 3.0, -4.0, 2.0, -1.0, 6.0, -22.0, -5.0, 20.0, -2.0, 4.0, 1.0, -8.0, 3.0, -13.0, -3.0, 18.0, -5.0, 5.0, 2.0, -3.0, 4.0, -5.0, 1.0, 3.0, -7.0, -1.0, 1.0, -1.0, 6.0, -4.0, 3.0, -14.0, -5.0, 3.0, 1.0, 2.0, 9.0, 5.0, 2.0, -6.0, 1.0, -2.0, -5.0, 2.0, 7.0, -1.0, 2.0, -2.0, 0.0]
+处理后差 ['0', 15.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 5.0, -2.0, 4.0, 3.0, 0.0, -10.0, -5.0, -2.0, 5.0, 1.0, -2.0, -1.0, -1.0, -2.0, -1.0, 8.0, -2.0, 1.0, -4.0, -1.0, 1.0, 2.0, -3.0, -1.0, 9.0, 3.0, 0.0, -5.0, 1.0, -2.0, -19.0, 23.0, -1.0, -1.0, -2.0, 6.0, -2.0, -5.0, 2.0, 2.0, -5.0, -2.0, -2.0, 1.0, -2.0, 13.0, 3.0, 2.0, -5.0, -2.0, -18.0, 2.0, 6.0, 2.0, -15.0, 20.0, 5.0, 2.0, -4.0, 1.0, -4.0, 3.0, -6.0, 8.0, 2.0, -7.0, 2.0, 1.0, -2.0, -2.0, 1.0, -2.0, -5.0, -2.0, 12.0, 0.0, 1.0, 2.0, -2.0, 3.0, -14.0, 2.0, 8.0, -3.0, 2.0, -2.0, 5.0, 2.0, 1.0, 1.0, -1.0, -1.0, -3.0, -1.0, 3.0, -11.0, 8.0, 2.0, 2.0, -3.0, -6.0, 7.0, 2.0, 2.0, -5.0, -4.0, 3.0, -6.0, 1.0, 7.0, -4.0, 2.0, 2.0, 2.0, 1.0, -23.0, -2.0, 4.0, 18.0, -2.0, 0.0, -13.0, 17.0, -15.0, 8.0, 3.0, 4.0, 1.0, -2.0, 3.0, -4.0, 2.0, -1.0, 6.0, -22.0, -5.0, 20.0, -2.0, 4.0, 1.0, -8.0, 3.0, -13.0, -3.0, 18.0, -5.0, 5.0, 2.0, -3.0, 4.0, -5.0, 1.0, 3.0, -7.0, -1.0, 1.0, -1.0, 6.0, -4.0, 3.0, -14.0, -5.0, 3.0, 1.0, 2.0, 9.0, 5.0, 2.0, -6.0, 1.0, -2.0, -5.0, 2.0, 7.0, -1.0, 2.0, -2.0, 0.0]
+LLM score: [ 60.   1.   1.   1.   1.   1.   1.   1.   1.   1.   1.  -1.   1.   1.
+   1.  -9. -14. -16. -11. -10. -12. -13. -14. -16. -17.  -9. -11. -10.
+ -14. -15. -14. -12. -15. -16.  -7.  -4.  -4.  -9.  -8. -10. -29.  -6.
+  -7.  -8. -10.  -4.  -6. -11.  -9.  -7. -12. -14. -16. -15. -17.  -4.
+  -1.   1.  -4.  -6. -24. -22. -16. -14. -29.  -9.  -4.  -2.  -6.  -5.
+  -9.  -6. -12.  -4.  -2.  -9.  -7.  -6.  -8. -10.  -9. -11. -16. -18.
+  -6.  -6.  -5.  -3.  -5.  -2. -16. -14.  -6.  -9.  -7.  -9.  -4.  -2.
+  -1.   0.  -1.  -2.  -5.  -6.  -3. -14.  -6.  -4.  -2.  -5. -11.  -4.
+  -2.   0.  -5.  -9.  -6. -12. -11.  -4.  -8.  -6.  -4.  -2.  -1. -24.
+ -26. -22.  -4.  -6.  -6. -19.  -2. -17.  -9.  -6.  -2.  -1.  -3.   0.
+  -4.  -2.  -3.   1. -21. -26.  -6.  -8.  -4.  -3. -11.  -8. -21. -24.
+  -6. -11.  -6.  -4.  -7.  -3.  -8.  -7.  -4. -11. -12. -11. -12.  -6.
+ -10.  -7. -21. -26. -23. -22. -20. -11.  -6.  -4. -10.  -9. -11. -16.
+ -14.  -7.  -8.  -6.  -8.  -8.] 
+GT score: [2.16767400e-01 2.16767400e-01 1.76882614e-01 1.76882614e-01
+ 2.50034873e-01 2.50034873e-01 3.14171173e-01 3.14171173e-01
+ 3.52165715e-01 3.52165715e-01 3.79586373e-01 3.79586373e-01
+ 3.24016253e-01 3.24016253e-01 2.94448167e-01 2.94448167e-01
+ 2.81999277e-01 2.31750808e-01 2.31750808e-01 1.91548732e-01
+ 1.91548732e-01 1.61007947e-01 1.61007947e-01 1.75053535e-01
+ 1.75053535e-01 2.25657305e-01 2.25657305e-01 2.19616289e-01
+ 2.19616289e-01 1.89515927e-01 1.89515927e-01 2.08018574e-01
+ 2.21854215e-01 2.21854215e-01 1.30633807e-01 1.30633807e-01
+ 8.34165767e-02 8.34165767e-02 4.76925533e-02 4.76925533e-02
+ 3.93264364e-02 3.93264364e-02 9.48414875e-03 9.48414875e-03
+ 2.78044462e-03 2.78044462e-03 0.00000000e+00 8.84931273e-04
+ 8.84931273e-04 1.58306888e-02 1.58306888e-02 4.82866486e-02
+ 4.82866486e-02 9.59722177e-02 9.59722177e-02 1.53022126e-01
+ 1.53022126e-01 4.60588664e-01 4.60588664e-01 5.26361197e-01
+ 5.26361197e-01 6.57055216e-01 6.57055216e-01 7.29338396e-01
+ 7.91085362e-01 7.91085362e-01 8.52396604e-01 8.52396604e-01
+ 7.47695053e-01 7.47695053e-01 4.11365084e-01 4.11365084e-01
+ 4.24264979e-01 4.24264979e-01 4.41483901e-01 4.41483901e-01
+ 4.15721444e-01 4.15721444e-01 5.67941137e-01 8.04309152e-01
+ 8.04309152e-01 7.91697257e-01 7.91697257e-01 6.59666433e-01
+ 6.59666433e-01 8.82322024e-01 8.82322024e-01 1.00000000e+00
+ 1.00000000e+00 9.92871619e-01 9.92871619e-01 6.90462711e-01
+ 6.90462711e-01 4.31836112e-01 3.92446395e-01 3.92446395e-01
+ 3.77724955e-01 3.77724955e-01 3.20012486e-01 3.20012486e-01
+ 2.68970070e-01 2.68970070e-01 2.50855318e-01 2.50855318e-01
+ 2.90319913e-01 2.90319913e-01 3.67426457e-01 3.67426457e-01
+ 5.18489366e-01 5.18489366e-01 5.76851952e-01 6.04818091e-01
+ 6.04818091e-01 6.67196000e-01 6.67196000e-01 7.75593975e-01
+ 7.75593975e-01 9.91577227e-01 9.91577227e-01 8.99629539e-01
+ 8.99629539e-01 7.83826441e-01 7.83826441e-01 7.07573399e-01
+ 7.07573399e-01 7.27711475e-01 6.48697205e-01 6.48697205e-01
+ 6.73402731e-01 6.73402731e-01 6.43575258e-01 6.43575258e-01
+ 6.41886792e-01 6.41886792e-01 5.64966660e-01 5.64966660e-01
+ 4.53196494e-01 4.53196494e-01 4.16334608e-01 4.16334608e-01
+ 4.16562545e-01 4.11600174e-01 4.11600174e-01 3.55134012e-01
+ 3.55134012e-01 5.40024521e-01 5.40024521e-01 4.72837808e-01
+ 4.72837808e-01 3.91912131e-01 3.91912131e-01 4.15747561e-01
+ 4.15747561e-01 5.08167080e-01 5.08167080e-01 7.48220090e-01
+ 7.48220090e-01 7.23217676e-01 6.45895004e-01 6.45895004e-01
+ 6.29036252e-01 6.29036252e-01 5.75323063e-01 5.75323063e-01
+ 6.57566624e-01 6.57566624e-01 6.96788975e-01 6.96788975e-01
+ 6.61574158e-01 6.61574158e-01 6.16497669e-01 6.16497669e-01
+ 6.35780379e-01 6.47968824e-01 6.47968824e-01 6.64254116e-01
+ 6.64254116e-01 5.87993794e-01 5.87993794e-01 5.54361369e-01
+ 5.54361369e-01 4.86206274e-01 4.86206274e-01 4.15017063e-01
+ 4.15017063e-01 2.68136800e-01 2.68136800e-01 8.55767462e-02]
+ALL PLCC
+
+    (PLCC): -0.0880353900610128, p-value: 0.22961002913174458, Index PLCC: 0.08793236988430703, p-value: 0.23015771665045004
+    (SRCC): -0.04352371489362594, p-value: 0.5531355184597253, Index SRCC: 0.12291711929769705, p-value: 0.09286145561287476
+    
+Weight: [60. 75. 75. 75. 75. 75. 75. 85. 85. 85. 90. 88. 92. 95. 95. 85. 80. 78.
+ 83. 84. 82. 81. 80. 78. 77. 85. 83. 84. 80. 79. 80. 82. 79. 78. 87. 90.
+ 90. 85. 86. 84. 65. 88. 87. 86. 84. 90. 88. 83. 85. 87. 82. 80. 78. 79.
+ 77. 90. 93. 95. 90. 88. 70. 72. 78. 80. 65. 85. 90. 92. 88. 89. 85. 88.
+ 82. 90. 92. 85. 87. 88. 86. 84. 85. 83. 78. 76. 88. 88. 89. 91. 89. 92.
+ 78. 80. 88. 85. 87. 85. 90. 92. 93. 94. 93. 92. 89. 88. 91. 80. 88. 90.
+ 92. 89. 83. 90. 92. 94. 89. 85. 88. 82. 83. 90. 86. 88. 90. 92. 93. 70.
+ 68. 72. 90. 88. 88. 75. 92. 77. 85. 88. 92. 93. 91. 94. 90. 92. 91. 97.
+ 75. 70. 90. 88. 92. 93. 85. 88. 75. 72. 90. 85. 90. 92. 89. 93. 88. 89.
+ 92. 85. 84. 85. 84. 90. 86. 89. 75. 70. 73. 74. 76. 85. 90. 92. 86. 87.
+ 85. 80. 82. 89. 88. 90. 88. 88.]
+从这里再绘制一次后处理的图片，和PLCC
+{'subscription': {'isActive': True, 'planType': 'yearly', 'id': 'U3Vic2NyaXB0aW9uOjA=', 'purchaseType': 'web', 'isComplimentary': False, 'expiresTime': 1769173621000000, 'willCancelAtPeriodEnd': False, 'isFreeTrial': False, 'purchaseRevocationReason': None}, 'messagePointInfo': {'messagePointResetTime': 1740182518000000, 'messagePointBalance': 293513, 'totalMessagePointAllotment': 1000000, 'id': 'TWVzc2FnZVBvaW50SW5mbzow'}}

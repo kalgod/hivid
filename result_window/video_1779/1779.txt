@@ -1,0 +1,2359 @@
+Skipping ProxyFetcher due to No module named 'ballyregan'.
+{'subscription': {'isActive': True, 'planType': 'yearly', 'id': 'U3Vic2NyaXB0aW9uOjA=', 'purchaseType': 'web', 'isComplimentary': False, 'expiresTime': 1769173621000000, 'willCancelAtPeriodEnd': False, 'isFreeTrial': False, 'purchaseRevocationReason': None}, 'messagePointInfo': {'messagePointResetTime': 1740182518000000, 'messagePointBalance': 340806, 'totalMessagePointAllotment': 1000000, 'id': 'TWVzc2FnZVBvaW50SW5mbzow'}}
+num of gtscore: 145
+Processing video_1779
+Video Title: Show De Talentos • Gui e Estopa • episódio completo
+Categories: ['Film & Animation']
+Tags: ['croquete', 'mapa', 'youtube', 'zuzubalandia', 'mariana', 'animação', 'pitti', 'show', 'gguui', 'caltabiano', 'humor', 'krocket', 'diversão', 'cartoon', 'zuzu', 'iguinho', 'grátis', 'roquete', 'roket', 'jogo', 'canal', 'animações', 'crocket', 'iguinho.com.br', 'animacao', 'talento', 'stopa', 'assista', 'ídolos', 'animado', 'online', 'crianças', 'brincadeira', 'aventura', 'musica', 'infantil', 'abertura', 'gui', 'pit', 'português', 'desenho', 'videos', 'games', 'video', 'guiestopa', 'completo', 'oficial', 'croket', 'rocket', 'temporada', 'labirinto', 'boomerang', 'guieestopa', 'estopa', 'episodio', 'assistir']
+
+0 ['./dataset/youtube/video_1779/frames/0.png', './dataset/youtube/video_1779/frames/1.png', './dataset/youtube/video_1779/frames/2.png', './dataset/youtube/video_1779/frames/3.png', './dataset/youtube/video_1779/frames/4.png']
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 1, "rating": 10},
+    {"frame": 2, "rating": 10},
+    {"frame": 3, "rating": 10},
+    {"frame": 4, "rating": 10}
+]
+```
+
+### Analysis and Explanation
+
+#### **Video Information Keywords**
+Based on the provided background details, keywords that may attract viewers include:
+- Animation, cartoon, infantil, diversão (fun), crianças (children), aventura (adventure), musica (music), desenho (drawing), talents (talento), and episodes (episódio).
+- These keywords suggest entertainment targeted at children, revolving around humor, fun, and animated stories.
+
+#### **Frames Analysis**
+All five frames (0–4) display static sponsor logos ("ANCINE" and "Brasil Telecom") on a white background. These frames are identical and serve as an introduction or sponsor credit.
+
+**Reasons for the Ratings:**
+- **Interestingness**: These frames provide no dynamic visual or engaging content relevant to the keywords of the video. Sponsor logos may hold some informational value but are unlikely to captivate the audience in the context of a fun, animated show.
+- **Repetition**: All frames are identical, which further reduces their distinctiveness or interest.
+
+Given these factors, all frames receive the same low score of **10**, indicating minimal viewer engagement.
+
+###################################################
+###################################################
+
+1 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/1.png', './dataset/youtube/video_1779/tmp/3.png', './dataset/youtube/video_1779/tmp/4.png', './dataset/youtube/video_1779/frames/5.png', './dataset/youtube/video_1779/frames/6.png', './dataset/youtube/video_1779/frames/7.png', './dataset/youtube/video_1779/frames/8.png', './dataset/youtube/video_1779/frames/9.png']
+### Step 1: Keywords Summary
+From the video title, categories, and tags, the following keywords may attract viewers:
+
+- **Show, Talento, Humor, Animação, Diversão, Infantil, Cartoon, Aventura, Música**
+- **Gui, Estopa, Zuzubalandia, Iguinho, Abertura, Episódio Completo**
+- **Grátis, Assistir, Online, Brincadeira, Desenho Animado, Oficial, Português**
+
+These keywords emphasize humor, animation, fun, characters, and accessibility, which align with the target audience of children and families.
+
+---
+
+### Step 2: JSON Ratings for Frames
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 1, "rating": 10},
+    {"frame": 3, "rating": 10},
+    {"frame": 4, "rating": 10},
+    {"frame": 5, "rating": 25},
+    {"frame": 6, "rating": 25},
+    {"frame": 7, "rating": 75},
+    {"frame": 8, "rating": 75},
+    {"frame": 9, "rating": 50}
+]
+```
+
+---
+
+### Step 3: Frame-by-Frame Analysis and Rating Explanation
+
+1. **Frame 0**  
+   - **Content**: Logos of ANCINE and Brasil Telecom on a white background.  
+   - **Analysis**: Introductory logos lack engaging elements for the viewer but serve as required credits.  
+   - **Rating**: 10 (low interest, purely informational).
+
+2. **Frame 1**  
+   - **Content**: Same as Frame 0, displaying logos.  
+   - **Analysis**: Redundant content, no new elements.  
+   - **Rating**: 10 (same as Frame 0).
+
+3. **Frame 3**  
+   - **Content**: Same logos repeated.  
+   - **Analysis**: Still redundant and purely informational.  
+   - **Rating**: 10 (minimal visual interest).
+
+4. **Frame 4**  
+   - **Content**: Same logos repeated.  
+   - **Analysis**: Again, redundant introductory content.  
+   - **Rating**: 10 (no added value).
+
+5. **Frame 5**  
+   - **Content**: Title screen with silhouettes of characters running against a bright yellow moon and blue background.  
+   - **Analysis**: The introduction of the title "Gui & Estopa" and characters creates slight engagement but remains static.  
+   - **Rating**: 25 (moderately interesting due to title and characters).
+
+6. **Frame 6**  
+   - **Content**: Same as Frame 5, repeating the title screen.  
+   - **Analysis**: Repetition of the previous frame, so engagement is not increased.  
+   - **Rating**: 25 (similar to Frame 5).
+
+7. **Frame 7**  
+   - **Content**: "Show de Talentos" with a spotlight on a humorous silhouette character.  
+   - **Analysis**: More dynamic and engaging, with a playful design and anticipation of the theme.  
+   - **Rating**: 75 (high interest due to humor and thematic relevance).
+
+8. **Frame 8**  
+   - **Content**: Continuation of Frame 7 with added text credits.  
+   - **Analysis**: Maintains the interest from Frame 7 but slightly diluted by the text overlay, which is less visually engaging.  
+   - **Rating**: 75 (same as Frame 7).
+
+9. **Frame 9**  
+   - **Content**: Text credits for the creators with the spotlight character in the background.  
+   - **Analysis**: Credits are informative but less visually captivating.  
+   - **Rating**: 50 (moderate interest due to credit information).  
+
+---
+
+### Summary
+Frames featuring logos or text credits (Frames 0–4, 9) score low due to minimal engagement. Frames with characters, themes, and dynamic visuals (Frames 5–8) score higher, with the "Show de Talentos" spotlight frames achieving the highest scores for their playful and thematic presentation.
+No json or wrong score length, repeat!!!!!!!!!!!!!!!!!!!!!!!!!!
+### Summary of Keywords:
+Based on the video metadata, attention-grabbing keywords include:
+- **Characters and Show Names**: Gui, Estopa, Zuzubalandia, Mariana Caltabiano.
+- **Themes**: Cartoon, Animation, Humor, Adventure, Kids, Talent Show.
+- **Genres and Tags**: Comedy, Music, Fun, Children, Portuguese, Official, Episódio Completo.
+- **Appeal Factors**: Fun, Free, Online, Games, Videos, Boomerang.
+
+### JSON Output:
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 1, "rating": 10},
+    {"frame": 3, "rating": 10},
+    {"frame": 4, "rating": 10},
+    {"frame": 5, "rating": 75},
+    {"frame": 6, "rating": 75},
+    {"frame": 7, "rating": 85},
+    {"frame": 8, "rating": 85},
+    {"frame": 9, "rating": 60}
+]
+```
+
+---
+
+### Frame Analysis and Ratings:
+
+1. **Frames 0, 1, 3, 4**:
+   - **Content**: Logos of ANCINE and Brasil Telecom.
+   - **Analysis**: These frames are static and primarily show sponsors/supporters. While important for credits, they are not visually engaging for the audience.
+   - **Rating**: 10 (low level of interestingness).
+
+2. **Frame 5**:
+   - **Content**: Title card with silhouettes of Gui and Estopa running, accompanied by "Criação: Mariana Caltabiano."
+   - **Analysis**: Introduces central characters and the title in a colorful, playful style. Begins to capture viewer interest.
+   - **Rating**: 75 (moderately interesting).
+
+3. **Frame 6**:
+   - **Content**: Same as Frame 5.
+   - **Analysis**: Repetition of the previous title card. Maintains moderate interest but does not add new information.
+   - **Rating**: 75 (moderately interesting).
+
+4. **Frame 7**:
+   - **Content**: "Show de Talentos" with spotlight and character silhouette.
+   - **Analysis**: Highlights the theme of a talent show with fun visuals and dynamic design, raising viewer interest to a higher level.
+   - **Rating**: 85 (highly interesting).
+
+5. **Frame 8**:
+   - **Content**: Similar to Frame 7, with additional text overlays and continued spotlight effect.
+   - **Analysis**: Maintains the engaging visuals of Frame 7. The added text enhances the context slightly.
+   - **Rating**: 85 (highly interesting).
+
+6. **Frame 9**:
+   - **Content**: Credits with names of key contributors (Mariana Caltabiano, Alexandre Augusto Ferreira).
+   - **Analysis**: While acknowledging creators is important, visually this frame is static and less engaging than previous slides.
+   - **Rating**: 60 (somewhat interesting but not exciting).
+No json or wrong score length, repeat!!!!!!!!!!!!!!!!!!!!!!!!!!
+### Step 1: Keywords from Video Information
+Based on the video title, categories, and tags, the following keywords can attract viewers:
+- **Cartoons**: "animação", "desenho", "cartoon", "animado".
+- **Kids and Fun**: "crianças", "diversão", "aventura".
+- **Humor and Entertainment**: "humor", "show", "talento".
+- **Characters**: "Gui", "Estopa", "Zuzubalandia".
+- **Visual Appeal**: "colorido", "abertura", "musica".
+
+### Step 2: JSON Output
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 1, "rating": 10},
+    {"frame": 2, "rating": 10},
+    {"frame": 3, "rating": 10},
+    {"frame": 4, "rating": 10},
+    {"frame": 5, "rating": 80},
+    {"frame": 6, "rating": 80},
+    {"frame": 7, "rating": 90},
+    {"frame": 8, "rating": 75},
+    {"frame": 9, "rating": 50}
+]
+```
+
+### Step 3: Analysis and Ratings
+
+#### **Frames 0-4**
+- **Content**: These frames show sponsor logos (ANCINE and Brasil Telecom) on a plain background.
+- **Analysis**: While relevant for acknowledging sponsorship, these frames lack engaging content for viewers.
+- **Rating**: 10 (low interest due to static and corporate nature).
+
+#### **Frame 5**
+- **Content**: Title screen with silhouettes of Gui & Estopa running against a bright background.
+- **Analysis**: The colorful and engaging frame introduces the main characters, appealing to the target audience (kids).
+- **Rating**: 80 (visually interesting and establishes context).
+
+#### **Frame 6**
+- **Content**: Similar to Frame 5.
+- **Analysis**: Continues the introduction of characters with no additional visual dynamics.
+- **Rating**: 80 (same reasoning as Frame 5).
+
+#### **Frame 7**
+- **Content**: A bright stage with "Show de Talentos" title and a performing silhouette under a spotlight.
+- **Analysis**: Engaging and dynamic frame that suggests the theme of the episode. The spotlight and stage add a sense of excitement and curiosity.
+- **Rating**: 90 (high interest due to thematic relevance and visual appeal).
+
+#### **Frame 8**
+- **Content**: Credits are overlaid on the previous frame.
+- **Analysis**: While still engaging, the introduction of text slightly reduces the visual interest compared to the previous frame.
+- **Rating**: 75 (less visually striking than Frame 7).
+
+#### **Frame 9**
+- **Content**: Plain credit screen with names of contributors (roteiro and storyboard).
+- **Analysis**: Static and focused on text, with little relevance to storytelling or visual engagement.
+- **Rating**: 50 (informative but not engaging).
+
+###################################################
+###################################################
+
+2 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/4.png', './dataset/youtube/video_1779/tmp/5.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/9.png', './dataset/youtube/video_1779/frames/10.png', './dataset/youtube/video_1779/frames/11.png', './dataset/youtube/video_1779/frames/12.png', './dataset/youtube/video_1779/frames/13.png', './dataset/youtube/video_1779/frames/14.png']
+### Keywords:
+From the video information, the following keywords are identified to attract viewers:
+- **Cartoon/Animation**: "animação," "cartoon," "animado," "desenho"
+- **Children-Friendly Content**: "infantil," "crianças," "diversão"
+- **Characters**: "Gui," "Estopa," "Zuzu," "Iguinho"
+- **Themes**: "aventura," "talento," "show," "humor"
+- **Portuguese/Localized Appeal**: "português," "assistir," "brincadeira"
+
+These keywords help assess the appeal of each frame based on its relevance to animation, humor, adventure, and visual attractiveness.
+
+---
+
+### JSON Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 4, "rating": 10},
+    {"frame": 5, "rating": 80},
+    {"frame": 7, "rating": 90},
+    {"frame": 9, "rating": 50},
+    {"frame": 10, "rating": 50},
+    {"frame": 11, "rating": 50},
+    {"frame": 12, "rating": 50},
+    {"frame": 13, "rating": 70},
+    {"frame": 14, "rating": 70}
+]
+```
+
+---
+
+### Explanation for Ratings:
+
+1. **Frame 0**:
+   - Content: Logos of ANCINE and BrasilTelecom.
+   - Analysis: This frame conveys institutional information, which is not visually engaging for young viewers. It serves a formal purpose.
+   - **Rating: 10** (low interest).
+
+2. **Frame 4**:
+   - Content: Same as Frame 0, repeating the institutional logos.
+   - Analysis: Repetition of non-engaging logos reduces appeal.
+   - **Rating: 10** (low interest).
+
+3. **Frame 5**:
+   - Content: Title card showing "Gui & Estopa" with silhouettes of characters.
+   - Analysis: The bright colors, recognizable characters, and creative title design make this frame more engaging and interesting for the audience.
+   - **Rating: 80** (high interest).
+
+4. **Frame 7**:
+   - Content: "Show de Talentos" logo with a spotlight and a character silhouette.
+   - Analysis: This frame showcases the theme of the episode, "Show de Talentos," with an appealing design that promises entertainment.
+   - **Rating: 90** (very high interest).
+
+5. **Frame 9**:
+   - Content: Credits for the script and storyboard.
+   - Analysis: While informative, credits are not visually captivating for viewers seeking entertainment.
+   - **Rating: 50** (moderate interest).
+
+6. **Frame 10**:
+   - Content: Credits for direction of animation.
+   - Analysis: Similar to Frame 9, this frame is formal and less engaging.
+   - **Rating: 50** (moderate interest).
+
+7. **Frame 11**:
+   - Content: Credits for direction.
+   - Analysis: Continuation of credits reduces viewer engagement.
+   - **Rating: 50** (moderate interest).
+
+8. **Frame 12**:
+   - Content: Credits for direction (repetition).
+   - Analysis: Repetition of the same theme without significant visual appeal.
+   - **Rating: 50** (moderate interest).
+
+9. **Frame 13**:
+   - Content: A sunny, cartoonish scene with a house and trees.
+   - Analysis: The vibrant, child-friendly setting is visually appealing and relatable for children, matching the keywords "cartoon" and "diversão."
+   - **Rating: 70** (high interest).
+
+10. **Frame 14**:
+    - Content: Similar sunny, cartoonish scene as Frame 13.
+    - Analysis: The pleasant, colorful design retains its appeal.
+    - **Rating: 70** (high interest).
+
+###################################################
+###################################################
+
+3 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/1.png', './dataset/youtube/video_1779/tmp/5.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/9.png', './dataset/youtube/video_1779/frames/15.png', './dataset/youtube/video_1779/frames/16.png', './dataset/youtube/video_1779/frames/17.png', './dataset/youtube/video_1779/frames/18.png', './dataset/youtube/video_1779/frames/19.png']
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 1, "rating": 10},
+    {"frame": 5, "rating": 80},
+    {"frame": 7, "rating": 90},
+    {"frame": 9, "rating": 50},
+    {"frame": 15, "rating": 70},
+    {"frame": 16, "rating": 60},
+    {"frame": 17, "rating": 65},
+    {"frame": 18, "rating": 85},
+    {"frame": 19, "rating": 85}
+]
+```
+
+### Analysis and Rating Explanation:
+
+1. **Frame 0**:
+   - Content: Logos of "Ancine" and "Brasil Telecom".
+   - Rating: 10. This is a static and purely informational frame with little to engage the viewer in terms of story or visuals.
+
+2. **Frame 1**:
+   - Content: Same as Frame 0.
+   - Rating: 10. Identical to Frame 0, so the same rationale applies.
+
+3. **Frame 5**:
+   - Content: Title card for "Gui & Estopa" with a colorful and engaging design.
+   - Rating: 80. This frame introduces the series with vibrant visuals and prominent branding, making it highly engaging for viewers.
+
+4. **Frame 7**:
+   - Content: Title card for "Show de Talentos" with spotlight and dynamic design.
+   - Rating: 90. This is highly engaging due to its thematic presentation, which highlights the premise of the episode and grabs attention.
+
+5. **Frame 9**:
+   - Content: Credits with information about the writer and storyboard artist.
+   - Rating: 50. The content is less visually engaging and more informational, reducing its overall appeal.
+
+6. **Frame 15**:
+   - Content: Characters interacting in a colorful room with visible expressions and body language.
+   - Rating: 70. The interactions and setting are engaging, but the lack of dynamic action keeps it slightly lower.
+
+7. **Frame 16**:
+   - Content: Similar to Frame 15, with slight variation in character posture.
+   - Rating: 60. Less engaging than Frame 15 due to reduced energy in character poses.
+
+8. **Frame 17**:
+   - Content: Close-up of two characters smiling.
+   - Rating: 65. The close-up adds emotional appeal but lacks dynamic action.
+
+9. **Frame 18**:
+   - Content: Main character performing a lively pose with a spotlight.
+   - Rating: 85. The dynamic pose and spotlight create an engaging and exciting visual.
+
+10. **Frame 19**:
+    - Content: Continuation of the dynamic pose from Frame 18.
+    - Rating: 85. Maintains the engaging visual appeal of Frame 18 due to the continuity of action and spotlight.
+
+###################################################
+###################################################
+
+4 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/9.png', './dataset/youtube/video_1779/tmp/16.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/frames/20.png', './dataset/youtube/video_1779/frames/21.png', './dataset/youtube/video_1779/frames/22.png', './dataset/youtube/video_1779/frames/23.png', './dataset/youtube/video_1779/frames/24.png']
+### Keywords Summary:
+Based on the video information, the following keywords may attract viewers:
+- **Humor, Animation, Cartoon, Talents, Adventure, Music, Kids, Entertainment, Fun, Show, Performance**.
+
+### JSON Ratings for Frames:
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 9, "rating": 50},
+    {"frame": 16, "rating": 60},
+    {"frame": 18, "rating": 85},
+    {"frame": 20, "rating": 80},
+    {"frame": 21, "rating": 80},
+    {"frame": 22, "rating": 40},
+    {"frame": 23, "rating": 40},
+    {"frame": 24, "rating": 40}
+]
+```
+
+---
+
+### Analysis and Explanation of Ratings:
+
+1. **Frame 0**:
+   - **Content**: Logos of "Ancine" and "BrasilTelecom".
+   - **Analysis**: This frame is purely informational and not visually engaging for entertainment-focused audiences.
+   - **Reason for Rating (10)**: Low interest due to its static and corporate nature.
+
+2. **Frame 7**:
+   - **Content**: Title screen "Show de Talentos" with a spotlight effect and animated silhouette.
+   - **Analysis**: Strongly emphasizes the theme of the video (talent show). The spotlight and vibrant colors grab attention.
+   - **Reason for Rating (90)**: High interest as it sets the mood and theme effectively.
+
+3. **Frame 9**:
+   - **Content**: Credits with names of creators (Roteiro: Mariana Caltabiano, Storyboard: Alexandre Augusto Ferreira).
+   - **Analysis**: Informational credits are less engaging visually, though they are important for attribution.
+   - **Reason for Rating (50)**: Moderate interest due to its limited visual appeal.
+
+4. **Frame 16**:
+   - **Content**: Characters in a vibrant room setting, showing interaction.
+   - **Analysis**: Introduces characters, which is engaging for viewers. The colorful environment adds appeal.
+   - **Reason for Rating (60)**: Moderate interest; introduces characters but lacks dynamic action.
+
+5. **Frame 18**:
+   - **Content**: A character dancing in a spotlight.
+   - **Analysis**: The dance and expressive pose are engaging, aligning with the talent show theme. The spotlight enhances focus.
+   - **Reason for Rating (85)**: High interest due to the dynamic and entertaining visual.
+
+6. **Frame 20**:
+   - **Content**: Continuation of the dance with a playful pose.
+   - **Analysis**: The character's movements and expressions maintain the entertainment factor.
+   - **Reason for Rating (80)**: Slightly less impactful than Frame 18 but still engaging.
+
+7. **Frame 21**:
+   - **Content**: Similar to Frame 20 with slight variation in dance pose.
+   - **Analysis**: Repetition slightly diminishes novelty, though the context is still entertaining.
+   - **Reason for Rating (80)**: Same level of interest as Frame 20.
+
+8. **Frame 22**:
+   - **Content**: Close-up of the character's feet in a static position.
+   - **Analysis**: Focus on feet is less engaging compared to the full character and dynamic action.
+   - **Reason for Rating (40)**: Low interest due to reduced visual and thematic appeal.
+
+9. **Frame 23**:
+   - **Content**: Close-up of the character's feet in slight motion.
+   - **Analysis**: Minimal improvement over Frame 22. Lack of broader context reduces its appeal.
+   - **Reason for Rating (40)**: Similar to Frame 22.
+
+10. **Frame 24**:
+    - **Content**: Another close-up of the feet, similar to Frames 22 and 23.
+    - **Analysis**: Repetition with minimal visual variation or context.
+    - **Reason for Rating (40)**: Same low interest as Frames 22 and 23.
+
+--- 
+
+### General Conclusion:
+Frames that show dynamic action (e.g., dancing or character interaction) and highlight the theme of the talent show scored higher. Frames with static visuals or less engaging content (e.g., logos, credits, close-ups) received lower ratings.
+
+###################################################
+###################################################
+
+5 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/17.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/tmp/22.png', './dataset/youtube/video_1779/frames/25.png', './dataset/youtube/video_1779/frames/26.png', './dataset/youtube/video_1779/frames/27.png', './dataset/youtube/video_1779/frames/28.png', './dataset/youtube/video_1779/frames/29.png']
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 17, "rating": 65},
+    {"frame": 18, "rating": 85},
+    {"frame": 22, "rating": 40},
+    {"frame": 25, "rating": 85},
+    {"frame": 26, "rating": 85},
+    {"frame": 27, "rating": 85},
+    {"frame": 28, "rating": 70},
+    {"frame": 29, "rating": 75}
+]
+```
+
+### Analysis and Rating Explanation:
+
+1. **Frame 0**: 
+   - **Content**: Display of sponsor logos (ANCINE and BrasilTelecom).
+   - **Rating Explanation**: The frame is informative but not visually engaging for entertainment purposes. It sets the tone but lacks excitement. 
+   - **Rating**: 10 (low interest).
+
+2. **Frame 7**:
+   - **Content**: Title screen with "Show de Talentos," featuring a spotlight and a silhouette of a performer.
+   - **Rating Explanation**: Very engaging and dynamic, with colorful, thematic visuals. It clearly highlights the central theme of the video.
+   - **Rating**: 90 (high interest).
+
+3. **Frame 17**:
+   - **Content**: Two smiling cartoon characters (likely core characters of the show).
+   - **Rating Explanation**: Characters are appealing and relatable for the target audience (children), but the frame is static.
+   - **Rating**: 65 (moderate interest).
+
+4. **Frame 18**:
+   - **Content**: A cartoon character dancing in a spotlight.
+   - **Rating Explanation**: The dynamic pose and spotlight effect add energy and excitement, aligning well with the theme.
+   - **Rating**: 85 (high interest).
+
+5. **Frame 22**:
+   - **Content**: Zoom-in on a character’s feet.
+   - **Rating Explanation**: This frame lacks overall context and visual engagement. It feels like a transitional moment in the animation.
+   - **Rating**: 40 (low interest).
+
+6. **Frame 25**:
+   - **Content**: A character joyfully jumping with arms raised in a spotlight.
+   - **Rating Explanation**: The character’s expression and movement add excitement and align with the talent show theme.
+   - **Rating**: 85 (high interest).
+
+7. **Frame 26**:
+   - **Content**: Same as frame 25, with minor variations.
+   - **Rating Explanation**: Similar dynamic and excitement as the previous frame.
+   - **Rating**: 85 (high interest).
+
+8. **Frame 27**:
+   - **Content**: Same joyful character in motion.
+   - **Rating Explanation**: Consistent with frames 25 and 26, maintaining excitement and dynamism.
+   - **Rating**: 85 (high interest).
+
+9. **Frame 28**:
+   - **Content**: Character in a calmer, expressive pose.
+   - **Rating Explanation**: The pose is less dynamic but still expressive, keeping moderate interest.
+   - **Rating**: 70 (moderate interest).
+
+10. **Frame 29**:
+    - **Content**: Character smiling and gesturing happily.
+    - **Rating Explanation**: The pose conveys humor and joy, appealing to the target audience, though not as exciting as the earlier dancing frames.
+    - **Rating**: 75 (moderate-high interest).
+
+###################################################
+###################################################
+
+6 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/4.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/tmp/22.png', './dataset/youtube/video_1779/frames/30.png', './dataset/youtube/video_1779/frames/31.png', './dataset/youtube/video_1779/frames/32.png', './dataset/youtube/video_1779/frames/33.png', './dataset/youtube/video_1779/frames/34.png']
+### JSON Output
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 4, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 18, "rating": 85},
+    {"frame": 22, "rating": 40},
+    {"frame": 30, "rating": 70},
+    {"frame": 31, "rating": 70},
+    {"frame": 32, "rating": 80},
+    {"frame": 33, "rating": 80},
+    {"frame": 34, "rating": 75}
+]
+```
+
+---
+
+### Analysis and Explanation of Ratings
+
+1. **Frame 0**  
+   **Content**: Logos for "Ancine" and "Brasil Telecom" on a white background.  
+   **Rating**: 10  
+   **Reason**: This frame is a sponsor or production credit screen, which is typically not highly engaging for viewers. Its relevance to the core content of the video is minimal.
+
+2. **Frame 4**  
+   **Content**: Same as Frame 0 (logos on a white background).  
+   **Rating**: 10  
+   **Reason**: Identical content to Frame 0, so the same low level of interest applies.
+
+3. **Frame 7**  
+   **Content**: Title screen with "Show de Talentos" in vibrant colors and a silhouette of a character on stage under a spotlight.  
+   **Rating**: 90  
+   **Reason**: This frame is eye-catching, colorful, and introduces the theme of the video ("Show de Talentos"). It sets the stage for the content and grabs the viewer's attention.
+
+4. **Frame 18**  
+   **Content**: A white cartoon character in a lively, dynamic pose under a spotlight.  
+   **Rating**: 85  
+   **Reason**: This frame shows movement and energy, which is engaging. It also highlights an individual character, likely a key figure in the storyline, making it interesting for viewers.
+
+5. **Frame 22**  
+   **Content**: A close-up of the white cartoon character's feet.  
+   **Rating**: 40  
+   **Reason**: A close-up of feet is less engaging compared to other frames. While it may have some relevance within the video, it lacks visual interest for the audience.
+
+6. **Frame 30**  
+   **Content**: A medium shot of the white cartoon character with an expressive face and arms extended.  
+   **Rating**: 70  
+   **Reason**: The character's facial expression and pose are engaging and convey emotion or action, but it is less dynamic or colorful compared to other frames.
+
+7. **Frame 31**  
+   **Content**: Identical to Frame 30.  
+   **Rating**: 70  
+   **Reason**: Same reasoning as Frame 30, as the content is repeated.
+
+8. **Frame 32**  
+   **Content**: Two cartoon characters (a dog and another animal) with surprised expressions.  
+   **Rating**: 80  
+   **Reason**: The introduction of new characters and their expressive reactions add variety and interest. The colors and animated style are visually engaging.
+
+9. **Frame 33**  
+   **Content**: Same as Frame 32.  
+   **Rating**: 80  
+   **Reason**: Identical to Frame 32, so the same level of engagement applies.
+
+10. **Frame 34**  
+    **Content**: The white cartoon character in an excited pose with a yellow spotlight background.  
+    **Rating**: 75  
+    **Reason**: The energy and expression of the character are engaging, and the yellow background adds vibrancy. However, it is slightly less dynamic than Frame 18 or 32.
+
+###################################################
+###################################################
+
+7 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/9.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/tmp/22.png', './dataset/youtube/video_1779/frames/35.png', './dataset/youtube/video_1779/frames/36.png', './dataset/youtube/video_1779/frames/37.png', './dataset/youtube/video_1779/frames/38.png', './dataset/youtube/video_1779/frames/39.png']
+### Keywords Summary
+Based on the video information, here are some keywords that may attract viewers:
+- **Animation**, **Cartoon**, **Children's Entertainment**
+- **Show de Talentos** (Talent Show)
+- **Comedy**, **Humor**, **Adventure**
+- **Characters**: Gui, Estopa
+- **Musical performance**
+- **Colorful visuals** and **fun atmosphere**
+
+### JSON Ratings
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 9, "rating": 50},
+    {"frame": 18, "rating": 85},
+    {"frame": 22, "rating": 40},
+    {"frame": 35, "rating": 75},
+    {"frame": 36, "rating": 70},
+    {"frame": 37, "rating": 80},
+    {"frame": 38, "rating": 60},
+    {"frame": 39, "rating": 65}
+]
+```
+
+---
+
+### Analysis and Ratings Explanation
+
+#### **Frame 0**
+- **Content**: Logos of **ANCINE** and **Brasil Telecom**.
+- **Analysis**: While informative, this frame is not visually engaging or entertaining for viewers. It serves as an introduction to sponsors.
+- **Rating**: 10 (low interest).
+
+---
+
+#### **Frame 7**
+- **Content**: Title card for "Show de Talentos" with a spotlight effect and a dynamic character silhouette.
+- **Analysis**: This frame is eye-catching, colorful, and sets the stage for the theme of the video. It creates excitement and curiosity about the content.
+- **Rating**: 90 (very high interest).
+
+---
+
+#### **Frame 9**
+- **Content**: Credits for the writer and storyboard artist.
+- **Analysis**: While important, credits are not typically engaging for viewers. The background design reuses elements from Frame 7.
+- **Rating**: 50 (moderate interest).
+
+---
+
+#### **Frame 18**
+- **Content**: A white cartoon dog (Gui or Estopa) dancing in a spotlight with lively expressions.
+- **Analysis**: This frame is highly engaging, with entertaining character animation and a vibrant background. It reflects the humor and fun of the show.
+- **Rating**: 85 (very high interest).
+
+---
+
+#### **Frame 22**
+- **Content**: Close-up of the character's feet.
+- **Analysis**: This frame lacks significant visual or narrative appeal. It's a transitional or detail-focused shot.
+- **Rating**: 40 (low interest).
+
+---
+
+#### **Frame 35**
+- **Content**: Close-up of the white dog (Gui or Estopa) looking surprised or excited.
+- **Analysis**: The character's expression is engaging and humorous, capturing the mood of the video. Bright colors enhance its appeal.
+- **Rating**: 75 (high interest).
+
+---
+
+#### **Frame 36**
+- **Content**: A close-up of another character (likely Estopa) with a sleepy or uninterested expression.
+- **Analysis**: While humorous, the subdued expression doesn't generate as much excitement as other frames.
+- **Rating**: 70 (high interest).
+
+---
+
+#### **Frame 37**
+- **Content**: The same character (Estopa) smiling energetically.
+- **Analysis**: This frame is more engaging than Frame 36 due to the dynamic expression, reflecting humor and joy.
+- **Rating**: 80 (very high interest).
+
+---
+
+#### **Frame 38**
+- **Content**: The white dog winking with a determined expression.
+- **Analysis**: The character's playful attitude is engaging, but the frame is less dynamic compared to others.
+- **Rating**: 60 (moderate interest).
+
+---
+
+#### **Frame 39**
+- **Content**: The white dog winking with a slight change in expression from Frame 38.
+- **Analysis**: Similar to Frame 38, but the slight variation in expression adds a touch of humor.
+- **Rating**: 65 (moderate-high interest).
+
+--- 
+
+### Summary
+Frames featuring dynamic action (e.g., Frame 7, Frame 18) or strong character expressions (e.g., Frame 35, Frame 37) score higher due to their visual appeal and humor. Frames with less engaging content, such as credits or close-ups of feet, score lower.
+
+###################################################
+###################################################
+
+8 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/13.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/tmp/31.png', './dataset/youtube/video_1779/frames/40.png', './dataset/youtube/video_1779/frames/41.png', './dataset/youtube/video_1779/frames/42.png', './dataset/youtube/video_1779/frames/43.png', './dataset/youtube/video_1779/frames/44.png']
+### Step 1: Keywords Summary
+From the given video information, the following keywords are likely to attract viewers:  
+**"animation," "cartoon," "humor," "talent show," "fun," "children," "adventure," "music," "Brazilian culture," "family-friendly," "bright visuals."**  
+
+### Step 2: JSON Rating Output
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 13, "rating": 70},
+    {"frame": 18, "rating": 85},
+    {"frame": 31, "rating": 70},
+    {"frame": 40, "rating": 75},
+    {"frame": 41, "rating": 75},
+    {"frame": 42, "rating": 75},
+    {"frame": 43, "rating": 75},
+    {"frame": 44, "rating": 80}
+]
+```
+
+---
+
+### Step 3: Frame-by-Frame Analysis and Rating Explanation
+
+1. **Frame 0**  
+   - **Content**: Logos of ANCINE and Brasil Telecom.  
+   - **Analysis**: This is an introductory frame with corporate branding, which is not particularly engaging for the audience unless they are interested in production credits.  
+   - **Rating**: 10 (low engagement).
+
+2. **Frame 7**  
+   - **Content**: Title screen for "Show de Talentos" with a spotlight and a silhouette character.  
+   - **Analysis**: This frame is visually appealing, introduces the theme of the video clearly, and sets an exciting tone for the audience. The use of bright colors and the spotlight grabs attention.  
+   - **Rating**: 90 (highly engaging).
+
+3. **Frame 13**  
+   - **Content**: A sunny outdoor scene with a house, tree, and wall.  
+   - **Analysis**: While the visuals are bright and cheerful, this frame is a simple establishing shot with limited action or focus on characters.  
+   - **Rating**: 70 (moderately engaging).
+
+4. **Frame 18**  
+   - **Content**: A white dog character performing a dance or pose in a spotlight.  
+   - **Analysis**: This frame is dynamic and focuses on character action, which is likely to engage the audience, especially children. The spotlight enhances the excitement.  
+   - **Rating**: 85 (very engaging).
+
+5. **Frame 31**  
+   - **Content**: A close-up of the white dog character with a playful expression.  
+   - **Analysis**: While it captures a bit of character personality, this frame lacks significant action or context compared to others.  
+   - **Rating**: 70 (moderately engaging).
+
+6. **Frame 40**  
+   - **Content**: Three characters in a room, seemingly interacting.  
+   - **Analysis**: This frame introduces interaction among the characters, hinting at a storyline. The colorful background adds to the visual appeal.  
+   - **Rating**: 75 (engaging).
+
+7. **Frame 41**  
+   - **Content**: Same as Frame 40, but with subtle differences in character expressions.  
+   - **Analysis**: Similar to Frame 40, the interaction continues, maintaining the engagement level.  
+   - **Rating**: 75 (engaging).
+
+8. **Frame 42**  
+   - **Content**: Same setting as Frames 40 and 41, with slight changes in character expressions.  
+   - **Analysis**: Continuation of the scene with minimal variation, maintaining the same level of interest.  
+   - **Rating**: 75 (engaging).
+
+9. **Frame 43**  
+   - **Content**: Same setting as previous frames with further changes in expressions.  
+   - **Analysis**: The slight variation in expressions keeps the interaction fresh but doesn't significantly increase engagement.  
+   - **Rating**: 75 (engaging).
+
+10. **Frame 44**  
+    - **Content**: The white dog character appears to be shouting or singing, adding more emotion and energy to the scene.  
+    - **Analysis**: This frame is more dynamic and expressive compared to the previous ones, making it slightly more engaging.  
+    - **Rating**: 80 (very engaging).
+
+---
+
+### Summary
+The most engaging frame is **Frame 7**, as it introduces the theme with striking visuals. Other notable frames include **Frame 18** for its dynamic action and **Frame 44** for its expressiveness. Frames with repetitive content or less action, such as Frames 40–43, maintain an average engagement level.
+
+###################################################
+###################################################
+
+9 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/9.png', './dataset/youtube/video_1779/tmp/17.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/frames/45.png', './dataset/youtube/video_1779/frames/46.png', './dataset/youtube/video_1779/frames/47.png', './dataset/youtube/video_1779/frames/48.png', './dataset/youtube/video_1779/frames/49.png']
+### Summary of Keywords:
+Based on the video information, the following keywords may attract viewers:
+- **Cartoon**: Appeals to children and animation enthusiasts.
+- **Humor**: Suggests comedy, which is widely popular.
+- **Adventure**: Indicates an exciting and engaging storyline.
+- **Music**: Suggests a musical element, attracting a broader audience.
+- **Talents**: Indicates a talent show theme, which can be captivating.
+- **Children**: Implies family-friendly content.
+- **Characters**: Popular characters like "Gui" and "Estopa" are likely to engage fans.
+
+### JSON Ratings:
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 9, "rating": 50},
+    {"frame": 17, "rating": 65},
+    {"frame": 18, "rating": 85},
+    {"frame": 45, "rating": 70},
+    {"frame": 46, "rating": 60},
+    {"frame": 47, "rating": 60},
+    {"frame": 48, "rating": 60},
+    {"frame": 49, "rating": 55}
+]
+```
+
+### Analysis and Ratings:
+1. **Frame 0 (Rating: 10)**:  
+   - Content: Logos of "Ancine" and "Brasil Telecom".
+   - Reason: Informational and lacks visual engagement. Low-interest factor for viewers.
+
+2. **Frame 7 (Rating: 90)**:  
+   - Content: Title screen "Show de Talentos" with a spotlight on a character silhouette.
+   - Reason: Highly engaging as it introduces the show's title in an artistic and creative manner. Strong appeal to viewers.
+
+3. **Frame 9 (Rating: 50)**:  
+   - Content: Credits for "Roteiro" and "Storyboard" with the same background as Frame 7.
+   - Reason: Informational but less visually engaging than the title screen. Moderate interest.
+
+4. **Frame 17 (Rating: 65)**:  
+   - Content: Close-up of two smiling characters.
+   - Reason: The cheerful expressions and colorful design attract attention. Slightly above average interest.
+
+5. **Frame 18 (Rating: 85)**:  
+   - Content: A character performing with dramatic hand gestures under a spotlight.
+   - Reason: The lively pose and theatrical setting make this frame highly engaging.
+
+6. **Frame 45 (Rating: 70)**:  
+   - Content: Three characters interacting, with one visibly animated and others reacting.
+   - Reason: The dynamic interaction and expressions create a sense of narrative. Strong engagement.
+
+7. **Frame 46 (Rating: 60)**:  
+   - Content: Two characters reacting with surprised expressions.
+   - Reason: While engaging, it is less dynamic than Frame 45. Moderate interest.
+
+8. **Frame 47 (Rating: 60)**:  
+   - Content: Similar to Frame 46 but with slightly altered expressions.
+   - Reason: Repeated context reduces novelty. Same level of interest as Frame 46.
+
+9. **Frame 48 (Rating: 60)**:  
+   - Content: Slight variation in expressions from Frame 47.
+   - Reason: Continuation of the same scene. Interest remains unchanged.
+
+10. **Frame 49 (Rating: 55)**:  
+    - Content: Close-up of a single character with a surprised expression.
+    - Reason: The focus on a single character reduces the dynamic appeal compared to previous frames. Slightly less engaging.
+
+###################################################
+###################################################
+
+10 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/8.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/tmp/34.png', './dataset/youtube/video_1779/frames/50.png', './dataset/youtube/video_1779/frames/51.png', './dataset/youtube/video_1779/frames/52.png', './dataset/youtube/video_1779/frames/53.png', './dataset/youtube/video_1779/frames/54.png']
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 8, "rating": 75},
+    {"frame": 18, "rating": 85},
+    {"frame": 34, "rating": 75},
+    {"frame": 50, "rating": 60},
+    {"frame": 51, "rating": 65},
+    {"frame": 52, "rating": 80},
+    {"frame": 53, "rating": 70},
+    {"frame": 54, "rating": 85}
+]
+```
+
+### Analysis and Explanation
+
+1. **Frame 0 (Rating: 10)**  
+   This frame shows the logos of "ANCINE" and "BrasilTelecom." It serves as an introductory scene, providing background information but lacks visual excitement or engaging content. Therefore, it receives a low score.
+
+2. **Frame 7 (Rating: 90)**  
+   This frame features the title "Show de Talentos" with a spotlight and a silhouette of a character. This catchy and creative introduction to the show is visually appealing and highly relevant, earning a high rating.
+
+3. **Frame 8 (Rating: 75)**  
+   Similar to Frame 7, but text overlays (e.g., credits) slightly obscure the central graphic. While still engaging, it loses some of the visual clarity and appeal that Frame 7 achieves.
+
+4. **Frame 18 (Rating: 85)**  
+   A character is performing energetically in a spotlight, suggesting action and entertainment. This frame is lively and visually interesting, appealing to the target audience of children and families.
+
+5. **Frame 34 (Rating: 75)**  
+   A close-up of a cute character’s expression, likely showing excitement or surprise. While appealing, it lacks dynamic action, making it slightly less engaging than Frame 18.
+
+6. **Frame 50 (Rating: 60)**  
+   A close-up of a character with a neutral or slightly concerned expression. The simplicity and lack of action result in a lower score.
+
+7. **Frame 51 (Rating: 65)**  
+   Similar to Frame 50 but with a more expressive and open-mouthed reaction, adding a slight increase in interest.
+
+8. **Frame 52 (Rating: 80)**  
+   A character appears angry or speaking emphatically, with a pointing gesture. The emotional intensity and dynamic pose make this frame more engaging than the previous ones.
+
+9. **Frame 53 (Rating: 70)**  
+   Similar to Frame 52 but with less dynamism in the character's expression and positioning. This results in a slightly lower score.
+
+10. **Frame 54 (Rating: 85)**  
+    This frame features two characters interacting in a colorful and detailed setting, which adds narrative depth and visual interest. The inclusion of another character increases the frame's appeal.
+
+###################################################
+###################################################
+
+11 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/17.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/tmp/49.png', './dataset/youtube/video_1779/frames/55.png', './dataset/youtube/video_1779/frames/56.png', './dataset/youtube/video_1779/frames/57.png', './dataset/youtube/video_1779/frames/58.png', './dataset/youtube/video_1779/frames/59.png']
+### Keywords Summary:
+
+**Keywords to attract viewers:**  
+- Animation, Cartoon, Kids, Humor, Talent Show, Adventure, Fun, Music, Characters, Portuguese, Family-Friendly
+
+---
+
+### JSON Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 17, "rating": 65},
+    {"frame": 18, "rating": 85},
+    {"frame": 49, "rating": 55},
+    {"frame": 55, "rating": 75},
+    {"frame": 56, "rating": 80},
+    {"frame": 57, "rating": 70},
+    {"frame": 58, "rating": 60},
+    {"frame": 59, "rating": 95}
+]
+```
+
+---
+
+### Analysis and Explanation:
+
+1. **Frame 0:**
+   - **Content:** Displays logos of sponsors (ANCINE and Brasil Telecom).  
+   - **Rating Explanation:** While informative, it's not engaging for viewers looking for entertainment.  
+   - **Rating:** 10.
+
+2. **Frame 7:**
+   - **Content:** Shows the "Show de Talentos" title, with a dynamic design and spotlight on a character silhouette.  
+   - **Rating Explanation:** Highly engaging and attractive for viewers, as it introduces the central theme of the video in an exciting way.  
+   - **Rating:** 90.
+
+3. **Frame 17:**
+   - **Content:** Features two main characters smiling, which conveys a friendly and cheerful vibe.  
+   - **Rating Explanation:** Captures attention with the charm of the characters but lacks action compared to other frames.  
+   - **Rating:** 65.
+
+4. **Frame 18:**
+   - **Content:** A character performing a dance move in a spotlight, emphasizing talent and fun.  
+   - **Rating Explanation:** Dynamic and visually appealing, aligns well with the "talent show" theme.  
+   - **Rating:** 85.
+
+5. **Frame 49:**
+   - **Content:** Close-up of a surprised character.  
+   - **Rating Explanation:** Expressive but lacks broader context or action to captivate the audience fully.  
+   - **Rating:** 55.
+
+6. **Frame 55:**
+   - **Content:** Two characters interacting in what seems to be a friendly or playful exchange.  
+   - **Rating Explanation:** Engaging and conveys a sense of connection, which is appealing for a kids' animation.  
+   - **Rating:** 75.
+
+7. **Frame 56:**
+   - **Content:** A billboard advertising "Show de Talentos" in a vibrant setting.  
+   - **Rating Explanation:** Eye-catching and reinforces the theme, but lacks character-driven action.  
+   - **Rating:** 80.
+
+8. **Frame 57:**
+   - **Content:** Continuation of the billboard scene, with more background details like a tower and people in the distance.  
+   - **Rating Explanation:** Provides context for the talent show setting but is less visually engaging than Frame 56.  
+   - **Rating:** 70.
+
+9. **Frame 58:**
+   - **Content:** Wide shot of the outdoor setup with people gathering in the background.  
+   - **Rating Explanation:** Adds depth to the story but lacks focal characters or dynamic action.  
+   - **Rating:** 60.
+
+10. **Frame 59:**
+    - **Content:** Main characters seated in a crowd, with a vibrant and diverse background of other characters.  
+    - **Rating Explanation:** Highly engaging due to the lively setting, detailed artistry, and character interactions.  
+    - **Rating:** 95.
+
+###################################################
+###################################################
+
+12 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/tmp/31.png', './dataset/youtube/video_1779/tmp/49.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/frames/60.png', './dataset/youtube/video_1779/frames/61.png', './dataset/youtube/video_1779/frames/62.png', './dataset/youtube/video_1779/frames/63.png', './dataset/youtube/video_1779/frames/64.png']
+### Keywords Derived from Video Information:
+- **Animation, Cartoon, Humor, Kids, Fun, Adventure, Music, Talent Show, Portuguese, Episodes, Characters (Gui, Estopa), Children, Entertainment**
+
+### JSON Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 18, "rating": 85},
+    {"frame": 31, "rating": 70},
+    {"frame": 49, "rating": 55},
+    {"frame": 59, "rating": 95},
+    {"frame": 60, "rating": 90},
+    {"frame": 61, "rating": 90},
+    {"frame": 62, "rating": 90},
+    {"frame": 63, "rating": 65},
+    {"frame": 64, "rating": 75}
+]
+```
+
+---
+
+### Frame-by-Frame Analysis and Ratings:
+
+1. **Frame 0**:
+    - **Content**: Logos for ANCINE and Brasil Telecom.
+    - **Explanation**: This frame is purely introductory, showing sponsorship or production credits. It lacks any engaging content for viewers.
+    - **Rating**: 10 (low interest).
+
+2. **Frame 18**:
+    - **Content**: A character performing a dance in a spotlight.
+    - **Explanation**: The dancing in the spotlight is visually appealing and aligns well with the "Talent Show" theme. The animated character adds charm and energy.
+    - **Rating**: 85 (highly engaging).
+
+3. **Frame 31**:
+    - **Content**: A close-up of a character with expressive gestures.
+    - **Explanation**: The character is expressive and engaging but without much context or additional elements to captivate viewers.
+    - **Rating**: 70 (moderately interesting).
+
+4. **Frame 49**:
+    - **Content**: A close-up of a different character with a surprised expression.
+    - **Explanation**: The reaction shot adds emotional variety but lacks dynamic action or context to create higher interest.
+    - **Rating**: 55 (somewhat interesting).
+
+5. **Frame 59**:
+    - **Content**: Two main characters seated in a crowd, interacting humorously.
+    - **Explanation**: This frame is vibrant and dynamic, showcasing multiple characters with a lively atmosphere. It strongly aligns with the "fun" and "adventure" themes.
+    - **Rating**: 95 (very entertaining).
+
+6. **Frame 60**:
+    - **Content**: Same scene as Frame 59, with slight character expression changes.
+    - **Explanation**: While still engaging, the minimal variation from Frame 59 slightly reduces its uniqueness.
+    - **Rating**: 90 (still highly interesting).
+
+7. **Frame 61**:
+    - **Content**: Same scene as Frame 60, with subtle expression differences.
+    - **Explanation**: Similar to Frame 60, maintaining interest but with diminishing returns due to repetition.
+    - **Rating**: 90 (still highly interesting).
+
+8. **Frame 62**:
+    - **Content**: Same scene as Frame 61, with minor expression changes.
+    - **Explanation**: Still engaging but repetitive compared to earlier frames (59-61).
+    - **Rating**: 90 (still highly interesting).
+
+9. **Frame 63**:
+    - **Content**: A single character (dog) in focus, with the background blurred.
+    - **Explanation**: The focus on one character reduces the energy of previous frames but still holds moderate interest due to the character's expression.
+    - **Rating**: 65 (moderately interesting).
+
+10. **Frame 64**:
+    - **Content**: A new character enters the frame, interacting with the one in focus.
+    - **Explanation**: The appearance of a new character adds variety and renews interest in the scene.
+    - **Rating**: 75 (renewed engagement).
+
+###################################################
+###################################################
+
+13 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/9.png', './dataset/youtube/video_1779/tmp/13.png', './dataset/youtube/video_1779/tmp/16.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/frames/65.png', './dataset/youtube/video_1779/frames/66.png', './dataset/youtube/video_1779/frames/67.png', './dataset/youtube/video_1779/frames/68.png', './dataset/youtube/video_1779/frames/69.png']
+### Keywords Summary
+From the video information, potential keywords that could attract viewers are:
+- **Animation**, **Cartoon**, **Humor**, **Adventure**, **Kids**, **Music**, **Talent Show**, **Characters** (e.g., Gui, Estopa).
+- **Fun**, **Games**, **Entertainment**, **Family-friendly**, **Portuguese**, **Show**, **Episodes**, **Free**.
+
+These keywords focus on entertainment, fun, and family-friendly animated content that appeals to children and families.
+
+---
+
+### JSON Ratings
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 9, "rating": 50},
+    {"frame": 13, "rating": 70},
+    {"frame": 16, "rating": 60},
+    {"frame": 59, "rating": 95},
+    {"frame": 65, "rating": 80},
+    {"frame": 66, "rating": 80},
+    {"frame": 67, "rating": 85},
+    {"frame": 68, "rating": 85},
+    {"frame": 69, "rating": 85}
+]
+```
+
+---
+
+### Image Content Analysis and Ratings
+
+1. **Frame 0**:  
+   **Content**: Logos of "Ancine" and "Brasil Telecom".  
+   **Rating**: 10  
+   **Reason**: Introductory logos typically have low visual appeal or engagement value, as they only serve to credit sponsors.
+
+2. **Frame 9**:  
+   **Content**: Credit screen for the writer and storyboard artist with a shadowed figure in the background.  
+   **Rating**: 50  
+   **Reason**: While informative, it lacks action or visual engagement. However, it provides context for the creative team, which gives it moderate value.
+
+3. **Frame 13**:  
+   **Content**: A bright, colorful outdoor scene with a sun, house, and tree.  
+   **Rating**: 70  
+   **Reason**: This frame has a vibrant and inviting aesthetic, likely appealing to children with its cheerful colors and simple design.
+
+4. **Frame 16**:  
+   **Content**: Three characters interacting in a room with a poster in the background.  
+   **Rating**: 60  
+   **Reason**: Character interaction adds interest, but the scene lacks dynamic action or emotional intensity.
+
+5. **Frame 59**:  
+   **Content**: Two main characters sitting together, surrounded by a crowd of diverse and expressive characters.  
+   **Rating**: 95  
+   **Reason**: High engagement due to the social setting, character expressions, and the liveliness of the scene. It conveys humor and camaraderie, aligning well with the video’s keywords.
+
+6. **Frame 65**:  
+   **Content**: Close-up of a character expressing frustration or determination.  
+   **Rating**: 80  
+   **Reason**: The close-up conveys emotion and captures attention, making it engaging and relatable.
+
+7. **Frame 66**:  
+   **Content**: Slightly changed expression of the same character as in Frame 65.  
+   **Rating**: 80  
+   **Reason**: Similar to Frame 65, the expression remains engaging, but the similarity reduces novelty.
+
+8. **Frame 67**:  
+   **Content**: Another character performing theatrically, seated with a dramatic gesture.  
+   **Rating**: 85  
+   **Reason**: The theatrical pose and background audience add energy and humor, increasing its appeal.
+
+9. **Frame 68**:  
+   **Content**: Continuation of the theatrical performance with an expressive smile.  
+   **Rating**: 85  
+   **Reason**: Similar to Frame 67, the character's expression and the lively background maintain the high engagement score.
+
+10. **Frame 69**:  
+    **Content**: Continuation of the scene in Frame 68 with little variation.  
+    **Rating**: 85  
+    **Reason**: The lack of significant change from the previous frames keeps the score consistent.
+
+---
+
+### Final Notes
+The ratings were assigned based on the visual engagement, emotional expressions, and alignment with the video’s themes of humor, fun, and animation. Frames with lively character actions or appealing visuals scored higher, while static or less engaging content scored lower.
+
+###################################################
+###################################################
+
+14 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/13.png', './dataset/youtube/video_1779/tmp/16.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/frames/70.png', './dataset/youtube/video_1779/frames/71.png', './dataset/youtube/video_1779/frames/72.png', './dataset/youtube/video_1779/frames/73.png', './dataset/youtube/video_1779/frames/74.png']
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 13, "rating": 70},
+    {"frame": 16, "rating": 60},
+    {"frame": 18, "rating": 85},
+    {"frame": 59, "rating": 95},
+    {"frame": 70, "rating": 80},
+    {"frame": 71, "rating": 80},
+    {"frame": 72, "rating": 75},
+    {"frame": 73, "rating": 75},
+    {"frame": 74, "rating": 65}
+]
+```
+
+### Explanation of Ratings:
+
+1. **Frame 0 (Rating: 10)**  
+   This frame displays sponsor logos and is not visually engaging for a typical viewer. It serves more as an informational frame than content entertainment.
+
+2. **Frame 13 (Rating: 70)**  
+   This colorful and cheerful outdoor scene with a bright sun, house, tree, and fence is visually appealing, especially for a younger audience. It sets a pleasant tone but lacks action or character interaction.
+
+3. **Frame 16 (Rating: 60)**  
+   This frame introduces characters in a bright, playful indoor setting. While it shows some character personality, the scene lacks dynamic action or intrigue.
+
+4. **Frame 18 (Rating: 85)**  
+   This frame shows a character dancing or performing, which is engaging and aligned with the "Show de Talentos" (Talent Show) theme. The spotlight effect enhances the entertainment value.
+
+5. **Frame 59 (Rating: 95)**  
+   This frame shows multiple characters in a lively setting, possibly an audience or group interaction, which is highly engaging for viewers. The variety of characters and their expressions make it interesting and fun.
+
+6. **Frame 70 (Rating: 80)**  
+   This close-up of a character with a confident expression and a heart symbol is engaging. It showcases a strong personality and connection to the audience.
+
+7. **Frame 71 (Rating: 80)**  
+   Similar to frame 70, this close-up maintains the engaging expression and character appeal. Slightly repetitive but still interesting.
+
+8. **Frame 72 (Rating: 75)**  
+   This frame includes two characters interacting with animated expressions. The inclusion of more characters adds some diversity but is less engaging than the previous close-up.
+
+9. **Frame 73 (Rating: 75)**  
+   A continuation of frame 72 with similar elements. The expressions are slightly different, maintaining the same level of interest.
+
+10. **Frame 74 (Rating: 65)**  
+    This frame focuses on a single character with a surprised or shocked expression. While expressive, it is less dynamic and engaging than the multi-character frames or action scenes.
+
+###################################################
+###################################################
+
+15 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/9.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/tmp/49.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/frames/75.png', './dataset/youtube/video_1779/frames/76.png', './dataset/youtube/video_1779/frames/77.png', './dataset/youtube/video_1779/frames/78.png', './dataset/youtube/video_1779/frames/79.png']
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 9, "rating": 50},
+    {"frame": 18, "rating": 85},
+    {"frame": 49, "rating": 55},
+    {"frame": 59, "rating": 95},
+    {"frame": 75, "rating": 60},
+    {"frame": 76, "rating": 75},
+    {"frame": 77, "rating": 70},
+    {"frame": 78, "rating": 80},
+    {"frame": 79, "rating": 90}
+]
+```
+
+### Analysis and Explanation of Ratings:
+
+1. **Frame: 0, Rating: 10**
+   - **Content:** Logos of ANCINE and Brasil Telecom.
+   - **Explanation:** This frame is not visually engaging or related to the main narrative. It serves as an opening credit, hence the low rating.
+
+2. **Frame: 9, Rating: 50**
+   - **Content:** Credits for the script and storyboard creators.
+   - **Explanation:** While it provides useful information, it’s static and lacks visual appeal. The rating is modest due to its relevance in acknowledging creators.
+
+3. **Frame: 18, Rating: 85**
+   - **Content:** A character is dancing in a lively pose with vibrant colors and an animated background.
+   - **Explanation:** The dynamic pose and colorful scene make it engaging and visually appealing for viewers, especially children.
+
+4. **Frame: 49, Rating: 55**
+   - **Content:** Close-up of a character’s surprised expression.
+   - **Explanation:** The emotional expression makes it somewhat engaging, but it’s not as dynamic as other frames.
+
+5. **Frame: 59, Rating: 95**
+   - **Content:** Two main characters sitting with a lively background of other characters.
+   - **Explanation:** This frame is highly engaging due to the interaction between characters, the variety of expressions, and the colorful crowd in the background.
+
+6. **Frame: 75, Rating: 60**
+   - **Content:** Close-up of a character with an angry expression.
+   - **Explanation:** The emotional intensity is notable, but the frame is less dynamic compared to others.
+
+7. **Frame: 76, Rating: 75**
+   - **Content:** A character playing a guitar with visible expressions of joy.
+   - **Explanation:** The musical element and the engaging expression increase the frame's appeal.
+
+8. **Frame: 77, Rating: 70**
+   - **Content:** The same character playing the guitar with a neutral expression.
+   - **Explanation:** This frame is similar to the previous one but slightly less engaging due to the less expressive face.
+
+9. **Frame: 78, Rating: 80**
+   - **Content:** The character playing the guitar with a more dramatic pose and expression.
+   - **Explanation:** The dramatic pose and increased energy boost its appeal.
+
+10. **Frame: 79, Rating: 90**
+    - **Content:** The character playing the guitar with an enthusiastic and joyful expression.
+    - **Explanation:** The high energy and joyful expression make this frame very engaging, almost on par with frame 59.
+
+###################################################
+###################################################
+
+16 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/5.png', './dataset/youtube/video_1779/tmp/22.png', './dataset/youtube/video_1779/tmp/49.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/frames/80.png', './dataset/youtube/video_1779/frames/81.png', './dataset/youtube/video_1779/frames/82.png', './dataset/youtube/video_1779/frames/83.png', './dataset/youtube/video_1779/frames/84.png']
+### Summarized Keywords:
+Based on the video title, categories, and tags, here are some keywords that may attract viewers:  
+**"Gui & Estopa," "animation," "humor," "cartoon," "adventure," "fun," "kids," "music," "show," "talent," "Brazil," and "entertainment."**
+
+---
+
+### JSON Ratings:
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 5, "rating": 80},
+    {"frame": 22, "rating": 40},
+    {"frame": 49, "rating": 55},
+    {"frame": 59, "rating": 95},
+    {"frame": 80, "rating": 70},
+    {"frame": 81, "rating": 60},
+    {"frame": 82, "rating": 58},
+    {"frame": 83, "rating": 50},
+    {"frame": 84, "rating": 85}
+]
+```
+
+---
+
+### Analysis and Explanation:
+
+1. **Frame 0 (Rating: 10)**  
+   - **Content:** Logos of ANCINE and Brasil Telecom.  
+   - **Analysis:** This is purely informational and corporate, lacking visual or narrative appeal for general viewers.  
+   - **Reason for Rating:** The content is not engaging for entertainment purposes, so it receives a low score.
+
+2. **Frame 5 (Rating: 80)**  
+   - **Content:** Title screen with "Gui & Estopa" and their silhouette.  
+   - **Analysis:** This frame visually introduces the main characters and sets the tone of the show. The bright colors and playful design are engaging for viewers, especially kids.  
+   - **Reason for Rating:** This frame effectively captures attention and gives clear context to the show.
+
+3. **Frame 22 (Rating: 40)**  
+   - **Content:** Close-up of paws, possibly of a character standing.  
+   - **Analysis:** While visually clean, it lacks significant context or emotional engagement.  
+   - **Reason for Rating:** The frame is simple and lacks broader interest, though it may serve as a setup for a future scene.
+
+4. **Frame 49 (Rating: 55)**  
+   - **Content:** Close-up of one of the characters expressing surprise or shock.  
+   - **Analysis:** The character's expression adds some emotional engagement, but the frame overall is static and lacks broader context.  
+   - **Reason for Rating:** The character animation adds appeal, but it is not highly dynamic.
+
+5. **Frame 59 (Rating: 95)**  
+   - **Content:** Two main characters sitting together, surrounded by a lively crowd.  
+   - **Analysis:** This is a dynamic scene with multiple characters and a vibrant background, creating an engaging and fun atmosphere.  
+   - **Reason for Rating:** High visual appeal and a sense of interaction make this frame stand out.
+
+6. **Frame 80 (Rating: 70)**  
+   - **Content:** A character playing a guitar with energetic expressions.  
+   - **Analysis:** The frame captures action and personality, which is entertaining, though not as visually rich as Frame 59.  
+   - **Reason for Rating:** The character's energy and action are appealing but not as dynamic as scenes with multiple elements.
+
+7. **Frame 81 (Rating: 60)**  
+   - **Content:** Close-up of a character smiling while holding an object.  
+   - **Analysis:** The character’s expression is cheerful but lacks the energy or interaction of more dynamic scenes.  
+   - **Reason for Rating:** The frame is pleasant but not highly engaging.
+
+8. **Frame 82 (Rating: 58)**  
+   - **Content:** Similar to Frame 81 but with a subtle change in the character’s expression.  
+   - **Analysis:** Little variation from the previous frame, so it does not add much new interest.  
+   - **Reason for Rating:** Marginally less engaging due to repetition.
+
+9. **Frame 83 (Rating: 50)**  
+   - **Content:** A dimmer version of the previous frame, with reduced brightness.  
+   - **Analysis:** The darker tone reduces visual interest, and the content remains static.  
+   - **Reason for Rating:** The dim lighting detracts slightly from the appeal.
+
+10. **Frame 84 (Rating: 85)**  
+    - **Content:** A stage performance with two characters in focus, backed by an audience.  
+    - **Analysis:** The stage setup is visually dynamic, with strong action and audience engagement. This creates a lively and interesting scene.  
+    - **Reason for Rating:** The combination of the performance and audience interaction makes this frame highly engaging, though slightly less so than Frame 59 due to less character variety. 
+
+--- 
+
+**Conclusion:**  
+Frames with vibrant backgrounds, character interaction, or action (e.g., Frames 59 and 84) score higher, while static or repetitive frames receive lower ratings.
+
+###################################################
+###################################################
+
+17 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/8.png', './dataset/youtube/video_1779/tmp/16.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/frames/85.png', './dataset/youtube/video_1779/frames/86.png', './dataset/youtube/video_1779/frames/87.png', './dataset/youtube/video_1779/frames/88.png', './dataset/youtube/video_1779/frames/89.png']
+### Keywords Summary:
+Based on the video information, the following keywords stand out as potentially engaging for viewers: 
+**"Show de Talentos," "Gui e Estopa," "cartoon," "animation," "fun," "adventure," "humor," "kids," "talent show," "music," "comedy," "family-friendly," "characters," "Brazil," "Portuguese."**
+
+---
+
+### JSON Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 8, "rating": 75},
+    {"frame": 16, "rating": 60},
+    {"frame": 59, "rating": 95},
+    {"frame": 85, "rating": 85},
+    {"frame": 86, "rating": 85},
+    {"frame": 87, "rating": 85},
+    {"frame": 88, "rating": 85},
+    {"frame": 89, "rating": 85}
+]
+```
+
+---
+
+### Analysis and Rating Explanation:
+
+1. **Frame 0:**
+   - **Content:** Logos of sponsors or contributors to the animation (ANCINE and Brasil Telecom).
+   - **Analysis:** While informative, it is not visually engaging or entertaining for viewers. It serves more as a formal introduction.
+   - **Rating:** 10 (Low interest).
+
+2. **Frame 7:**
+   - **Content:** Title card of the show "Show de Talentos" with a silhouetted character under a spotlight.
+   - **Analysis:** This frame introduces the main theme of the video and sets an exciting tone. The bright colors and spotlight attract attention.
+   - **Rating:** 90 (High interest).
+
+3. **Frame 8:**
+   - **Content:** Title card with some credits overlaid on the animation.
+   - **Analysis:** Similar to Frame 7 but slightly less engaging due to the text overlay, which detracts from the visual appeal.
+   - **Rating:** 75 (Moderately high interest).
+
+4. **Frame 16:**
+   - **Content:** Three animated characters in a home setting, seemingly in conversation. Bright and colorful, with a poster of "Maicão Jackson" (a parody of Michael Jackson) in the background.
+   - **Analysis:** The frame introduces characters and humor (via the poster), but the setting is static and lacks action.
+   - **Rating:** 60 (Moderate interest).
+
+5. **Frame 59:**
+   - **Content:** Two main characters sitting in an audience, with other characters in the background. The characters are smiling and engaging with the scene.
+   - **Analysis:** This frame captures a lively and fun atmosphere with vibrant character designs and a sense of community, making it highly engaging.
+   - **Rating:** 95 (Very high interest).
+
+6. **Frames 85-89 (Grouped Explanation):**
+   - **Content:** A character performs on stage with a goat, with an audience watching in the foreground. Bright stage lighting and a cheerful atmosphere are present.
+   - **Analysis:** These frames showcase the central theme of the talent show with humor and action. The repetitive nature of the frames results in similar ratings, as they only slightly vary in detail.
+   - **Rating:** 85 (High interest for all five frames).
+
+###################################################
+###################################################
+
+18 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/5.png', './dataset/youtube/video_1779/tmp/8.png', './dataset/youtube/video_1779/tmp/13.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/frames/90.png', './dataset/youtube/video_1779/frames/91.png', './dataset/youtube/video_1779/frames/92.png', './dataset/youtube/video_1779/frames/93.png', './dataset/youtube/video_1779/frames/94.png']
+### Video Analysis and Ratings
+
+#### **Keywords Summary**
+Based on the video information, keywords that may attract viewers include:
+- **Characters/Names**: Gui, Estopa
+- **Themes**: Humor, Talent show, Cartoon, Animation, Adventure
+- **Audience**: Kids, Fun, Entertainment
+- **Language/Style**: Portuguese, Lighthearted
+- **Tags**: Cartoon, Music, Games, Fun, Talent, Show, Kids, Animation, Adventure
+
+---
+
+### JSON Ratings for Frames
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 5, "rating": 80},
+    {"frame": 8, "rating": 75},
+    {"frame": 13, "rating": 70},
+    {"frame": 59, "rating": 95},
+    {"frame": 90, "rating": 85},
+    {"frame": 91, "rating": 85},
+    {"frame": 92, "rating": 85},
+    {"frame": 93, "rating": 85},
+    {"frame": 94, "rating": 85}
+]
+```
+
+---
+
+### Analysis and Explanation of Ratings
+
+1. **Frame 0**:  
+   - **Content**: Logos of ANCINE and Brasil Telecom.
+   - **Analysis**: This is an introductory frame that provides institutional or sponsorship information. It is not visually engaging for entertainment purposes.  
+   - **Rating**: 10 (low interest).
+
+2. **Frame 5**:  
+   - **Content**: Title screen featuring "Gui & Estopa" with bright colors and character silhouettes.  
+   - **Analysis**: This frame introduces the main characters and title of the cartoon in an appealing and colorful way, which is engaging for viewers, especially kids.  
+   - **Rating**: 80 (high interest as it sets the stage for the show).
+
+3. **Frame 8**:  
+   - **Content**: A spotlight effect with the title "Show de Talentos" in a whimsical design.  
+   - **Analysis**: This frame highlights the theme of a talent show, using bright colors and a focus on creativity. It is visually engaging but slightly less character-focused than Frame 5.  
+   - **Rating**: 75 (high interest, but slightly less than the title screen).
+
+4. **Frame 13**:  
+   - **Content**: A simple, bright cartoon-style background of a sunny day and a house.  
+   - **Analysis**: While visually appealing, this frame is more of a transitional setting and lacks action or characters that could hold the viewer's interest strongly.  
+   - **Rating**: 70 (moderate interest).
+
+5. **Frame 59**:  
+   - **Content**: Main characters (Gui and Estopa) sitting together in a crowd with expressive and joyful faces.  
+   - **Analysis**: This frame is highly engaging, featuring the main characters in a lively setting surrounded by other characters, making it highly dynamic and fun for viewers.  
+   - **Rating**: 95 (very high interest).
+
+6. **Frames 90–94**:  
+   - **Content**: A stage performance featuring a character playing a guitar and singing alongside a goat.  
+   - **Analysis**: These frames show a humorous and entertaining performance, which aligns perfectly with the talent show theme. The scene is lighthearted and engaging for kids.  
+   - **Rating**: 85 (very high interest, though slightly less dynamic compared to Frame 59).
+
+---
+
+### Summary
+Frames with character interaction (Frame 59) or performances (Frames 90–94) receive the highest ratings as they are the most engaging and thematic. Introductory and transitional frames (Frame 0 and Frame 13) are rated lower due to limited visual or narrative interest.
+
+###################################################
+###################################################
+
+19 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/12.png', './dataset/youtube/video_1779/tmp/13.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/frames/95.png', './dataset/youtube/video_1779/frames/96.png', './dataset/youtube/video_1779/frames/97.png', './dataset/youtube/video_1779/frames/98.png', './dataset/youtube/video_1779/frames/99.png']
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 12, "rating": 50},
+    {"frame": 13, "rating": 70},
+    {"frame": 59, "rating": 95},
+    {"frame": 95, "rating": 80},
+    {"frame": 96, "rating": 85},
+    {"frame": 97, "rating": 85},
+    {"frame": 98, "rating": 85},
+    {"frame": 99, "rating": 90}
+]
+```
+
+### Analysis and Explanation of Ratings
+
+1. **Frame 0 (Rating: 10)**  
+   This frame shows a static logo screen featuring "Ancine" and "Brasil Telecom." While informative, it lacks dynamic or engaging content, which makes it less interesting for viewers.
+
+2. **Frame 7 (Rating: 90)**  
+   This frame displays the title screen "Show de Talentos" in a colorful and lively presentation with a spotlight effect. It effectively grabs attention and sets the theme of the video, leading to a high rating.
+
+3. **Frame 12 (Rating: 50)**  
+   This frame shows a credit for "Direção: Mariana Caltabiano" over a blue background. While important for recognizing the director, it is less visually engaging compared to other frames, resulting in a medium score.
+
+4. **Frame 13 (Rating: 70)**  
+   A bright and colorful background of a house, sun, and tree is shown in this frame. It is visually appealing and sets a cheerful tone, but it lacks action or characters, leading to a moderately high score.
+
+5. **Frame 59 (Rating: 95)**  
+   This frame features two cartoon characters (likely Gui and Estopa) sitting together with other characters in the background, showcasing humor and interaction. This dynamic scene is highly engaging, earning it a high score.
+
+6. **Frame 95 (Rating: 80)**  
+   A close-up of a cartoon character (a dog with a heart collar) showing an expressive face is seen here. The emotion displayed adds interest, but the lack of action results in a slightly lower score than Frame 59.
+
+7. **Frame 96 (Rating: 85)**  
+   Similar to Frame 95, but the character exhibits a more intense expression, adding slight engagement and earning a slightly higher score.
+
+8. **Frame 97 (Rating: 85)**  
+   The character maintains a similar pose and expression as in Frame 96. While expressive, the repetition reduces novelty, keeping the same score.
+
+9. **Frame 98 (Rating: 85)**  
+   This frame continues the same theme as Frames 96 and 97 with minor variations in expression. While engaging, it remains consistent with the previous frames.
+
+10. **Frame 99 (Rating: 90)**  
+   This frame showcases a different character holding a pencil, surrounded by a whimsical background with floating faces. The unique composition and engaging visuals make it stand out, earning a high score.
+
+###################################################
+###################################################
+
+20 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/tmp/43.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/frames/100.png', './dataset/youtube/video_1779/frames/101.png', './dataset/youtube/video_1779/frames/102.png', './dataset/youtube/video_1779/frames/103.png', './dataset/youtube/video_1779/frames/104.png']
+### JSON Response
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 18, "rating": 85},
+    {"frame": 43, "rating": 75},
+    {"frame": 59, "rating": 95},
+    {"frame": 100, "rating": 50},
+    {"frame": 101, "rating": 50},
+    {"frame": 102, "rating": 80},
+    {"frame": 103, "rating": 80},
+    {"frame": 104, "rating": 60}
+]
+```
+
+---
+
+### Analysis and Explanation of Ratings
+
+1. **Frame 0**:
+   - **Content**: A logo screen featuring "Ancine" and "Brasil Telecom".
+   - **Rating**: 10. This frame is purely informational and provides no entertainment or engaging content. It's a standard intro logo screen.
+
+2. **Frame 7**:
+   - **Content**: Title card for "Show de Talentos" with bright colors, a spotlight, and a silhouetted character performing.
+   - **Rating**: 90. This frame is visually engaging, sets the theme of the video, and draws attention with its dynamic design and title.
+
+3. **Frame 18**:
+   - **Content**: A character in a playful pose, seemingly performing under a spotlight.
+   - **Rating**: 85. This frame highlights character action and personality, which is entertaining and relevant to the theme of "talent shows."
+
+4. **Frame 43**:
+   - **Content**: Three characters interacting, with a poster in the background referencing "Maicão Jackson" (likely a parody of Michael Jackson).
+   - **Rating**: 75. While it involves multiple characters and a humorous reference, it’s less dynamic compared to other frames.
+
+5. **Frame 59**:
+   - **Content**: Two central characters sitting together, surrounded by a vibrant crowd of other characters.
+   - **Rating**: 95. This frame is highly engaging due to the lively background, the interaction between characters, and the overall festive vibe.
+
+6. **Frame 100**:
+   - **Content**: A character holding a pencil with a surprised expression, against a colorful, whimsical background.
+   - **Rating**: 50. The frame is mildly interesting but lacks significant action or context to captivate viewers.
+
+7. **Frame 101**:
+   - **Content**: Similar to Frame 100, showing the same character with a slightly different expression.
+   - **Rating**: 50. The repetition reduces its impact compared to the previous frames.
+
+8. **Frame 102**:
+   - **Content**: A character on stage looking surprised, with a colorful audience in the background.
+   - **Rating**: 80. The stage setting and audience interaction are engaging and relevant to the "Show de Talentos" theme.
+
+9. **Frame 103**:
+   - **Content**: The same character from Frame 102, now in a different pose, seemingly interacting with something off-screen.
+   - **Rating**: 80. Similar to Frame 102, with a continuation of the engagement factor.
+
+10. **Frame 104**:
+    - **Content**: A close-up of a hand holding part of the stage curtain.
+    - **Rating**: 60. While it builds suspense, it lacks the vibrancy and engagement of other frames.
+
+---
+
+### Keywords Summary for Attracting Viewers:
+
+- **Engaging**: "Show de Talentos," "humor," "cartoon," "adventure," "fun."
+- **Child-Friendly**: "animation," "kids," "games," "music."
+- **Cultural**: "Portuguese," "Maicão Jackson," "Brazilian references."
+
+These keywords emphasize humor, fun, and cultural relevance, which are appealing to the target audience for this content.
+
+###################################################
+###################################################
+
+21 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/13.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/tmp/82.png', './dataset/youtube/video_1779/frames/105.png', './dataset/youtube/video_1779/frames/106.png', './dataset/youtube/video_1779/frames/107.png', './dataset/youtube/video_1779/frames/108.png', './dataset/youtube/video_1779/frames/109.png']
+### JSON Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 13, "rating": 70},
+    {"frame": 59, "rating": 95},
+    {"frame": 82, "rating": 58},
+    {"frame": 105, "rating": 75},
+    {"frame": 106, "rating": 73},
+    {"frame": 107, "rating": 80},
+    {"frame": 108, "rating": 85},
+    {"frame": 109, "rating": 84}
+]
+```
+
+---
+
+### Analysis and Ratings Explanation:
+
+1. **Frame 0:**
+   - **Content:** Display of production logos ("Ancine" and "BrasilTelecom").
+   - **Reason for Rating:** This frame has minimal engagement value as it provides production credits. It is not visually captivating or related to the main entertainment content.
+   - **Rating:** 10 (Low interest).
+
+2. **Frame 7:**
+   - **Content:** Title card with "Show de Talentos" in a stylized design, spotlight, and animation character silhouette.
+   - **Reason for Rating:** This is the introduction to the show, engaging and visually appealing with vibrant colors and a hint of action/mystery, grabbing the viewer's attention.
+   - **Rating:** 90 (Highly engaging).
+
+3. **Frame 13:**
+   - **Content:** A bright, colorful neighborhood scene with a house, tree, and sun.
+   - **Reason for Rating:** The frame is cheerful and appealing, but it is more of a setting shot without action or character involvement to draw significant interest.
+   - **Rating:** 70 (Moderate interest).
+
+4. **Frame 59:**
+   - **Content:** Two animated characters (a dog and a bear) sitting together, smiling, with a vibrant background of other characters.
+   - **Reason for Rating:** Highly engaging due to the focus on main characters and a lively scene that suggests humor and entertainment.
+   - **Rating:** 95 (Very engaging).
+
+5. **Frame 82:**
+   - **Content:** Close-up of the bear character holding popcorn with a satisfied expression.
+   - **Reason for Rating:** While it focuses on a central character, it lacks dynamic action or interaction, reducing overall engagement.
+   - **Rating:** 58 (Below average interest).
+
+6. **Frame 105:**
+   - **Content:** A hand holding a bug in a comedic or exaggerated manner with bright colors in the background.
+   - **Reason for Rating:** The frame is quirky and comical, offering humor. However, it does not introduce a major plot element.
+   - **Rating:** 75 (Moderate engagement).
+
+7. **Frame 106:**
+   - **Content:** A continuation of the bug scene, showing its reaction and interaction with another hand.
+   - **Reason for Rating:** Similar to frame 105, but slightly less impactful as it is a continuation without major change.
+   - **Rating:** 73 (Moderate engagement).
+
+8. **Frame 107:**
+   - **Content:** Stage view with an audience in silhouette and bright decorations.
+   - **Reason for Rating:** The frame sets the stage for action, creating anticipation, but lacks character focus or action yet.
+   - **Rating:** 80 (Good engagement).
+
+9. **Frame 108:**
+   - **Content:** A character jumping on stage in a lively expression.
+   - **Reason for Rating:** The dynamic pose, stage setting, and vibrant colors make this frame highly engaging.
+   - **Rating:** 85 (Very engaging).
+
+10. **Frame 109:**
+    - **Content:** The character on stage in a comedic or shocked expression.
+    - **Reason for Rating:** This frame continues the action from the previous frame but lacks new elements, maintaining high interest but slightly less impactful.
+    - **Rating:** 84 (Very engaging).
+
+---
+
+### Keywords Summary:
+- **Keywords:** humor, animation, adventure, talent show, fun, kids, cartoon, entertainment, vibrant, stage, characters.
+
+These keywords guided the evaluation, focusing on humor, dynamic scenes, character presentation, and audience appeal.
+
+###################################################
+###################################################
+
+22 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/17.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/tmp/106.png', './dataset/youtube/video_1779/frames/110.png', './dataset/youtube/video_1779/frames/111.png', './dataset/youtube/video_1779/frames/112.png', './dataset/youtube/video_1779/frames/113.png', './dataset/youtube/video_1779/frames/114.png']
+### Keywords:
+Based on the video information and tags, the following keywords are likely to attract viewers:
+- Animation, Cartoon, Comedy  
+- Talents, Show, Performance  
+- Kids, Fun, Adventure  
+- Characters, Humor, Games  
+
+### JSON Result:
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 17, "rating": 65},
+    {"frame": 59, "rating": 95},
+    {"frame": 106, "rating": 73},
+    {"frame": 110, "rating": 85},
+    {"frame": 111, "rating": 80},
+    {"frame": 112, "rating": 78},
+    {"frame": 113, "rating": 77},
+    {"frame": 114, "rating": 76}
+]
+```
+
+---
+
+### Analysis and Rating Explanation:
+
+1. **Frame 0**:  
+   - **Content**: Displays sponsor logos (ANCINE, Brasil Telecom).  
+   - **Reasoning**: This frame is purely informational and not visually engaging for viewers.  
+   - **Rating**: 10 (low interest).
+
+2. **Frame 7**:  
+   - **Content**: Title card for "Show de Talentos" with a character in a spotlight.  
+   - **Reasoning**: The title is colorful and catchy, indicating the start of the main content, which builds anticipation.  
+   - **Rating**: 90 (high interest).
+
+3. **Frame 17**:  
+   - **Content**: Two main characters with cheerful expressions.  
+   - **Reasoning**: The characters are appealing and friendly, but the background is simple and lacks dynamic elements.  
+   - **Rating**: 65 (moderate interest).
+
+4. **Frame 59**:  
+   - **Content**: The main characters are surrounded by a variety of lively and colorful background characters.  
+   - **Reasoning**: The vibrant scene and crowd interaction make this frame engaging and fun.  
+   - **Rating**: 95 (highest interest).
+
+5. **Frame 106**:  
+   - **Content**: A comedic moment with a cockroach and hands interacting.  
+   - **Reasoning**: The frame is humorous and quirky, which adds to its appeal.  
+   - **Rating**: 73 (above-average interest).
+
+6. **Frame 110**:  
+   - **Content**: A character performing on stage with exaggerated expressions.  
+   - **Reasoning**: The stage performance and emotions are entertaining, but the background is not very dynamic.  
+   - **Rating**: 85 (high interest).
+
+7. **Frame 111**:  
+   - **Content**: The same character on stage with a slightly different pose.  
+   - **Reasoning**: The scene remains engaging, but the repetitive nature slightly reduces interest compared to Frame 110.  
+   - **Rating**: 80 (high interest).
+
+8. **Frame 112**:  
+   - **Content**: Another pose of the character on stage.  
+   - **Reasoning**: The frame is still engaging but shows less novelty compared to earlier stage frames.  
+   - **Rating**: 78 (above-average interest).
+
+9. **Frame 113**:  
+   - **Content**: The character on stage again, with a slightly different pose.  
+   - **Reasoning**: Slightly more dynamic than Frame 112 but still repetitive.  
+   - **Rating**: 77 (above-average interest).
+
+10. **Frame 114**:  
+   - **Content**: The character on stage with yet another pose.  
+   - **Reasoning**: Continuation of the stage performance, but with diminishing novelty.  
+   - **Rating**: 76 (above-average interest).
+
+###################################################
+###################################################
+
+23 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/7.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/tmp/112.png', './dataset/youtube/video_1779/frames/115.png', './dataset/youtube/video_1779/frames/116.png', './dataset/youtube/video_1779/frames/117.png', './dataset/youtube/video_1779/frames/118.png', './dataset/youtube/video_1779/frames/119.png']
+### Keywords Summary:
+Based on the video information, the following keywords are likely to attract viewers:
+- **Animation**: cartoon, desenho, animado, animação.
+- **Characters**: Gui, Estopa, Zuzu, Iguinho.
+- **Themes**: humor, diversão, aventura, música.
+- **Audience**: infantil, crianças, brincadeira.
+- **Story Elements**: talento, show, labirinto, episódio, temporada.
+
+### JSON Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 7, "rating": 90},
+    {"frame": 18, "rating": 85},
+    {"frame": 59, "rating": 95},
+    {"frame": 112, "rating": 78},
+    {"frame": 115, "rating": 80},
+    {"frame": 116, "rating": 92},
+    {"frame": 117, "rating": 75},
+    {"frame": 118, "rating": 70},
+    {"frame": 119, "rating": 68}
+]
+```
+
+---
+
+### Analysis and Ratings Explanation:
+
+1. **Frame 0**:  
+   **Content**: Logos of "Ancine" and "Brasil Telecom."  
+   **Analysis**: This frame is purely introductory and serves no entertainment purpose. It provides minimal engagement for viewers.  
+   **Rating**: **10** (low interest level).
+
+2. **Frame 7**:  
+   **Content**: Title card of "Show de Talentos" with a spotlight and dynamic design.  
+   **Analysis**: The title card is vibrant and sets the theme of the episode with a sense of excitement. It introduces the show's concept effectively.  
+   **Rating**: **90** (highly engaging and thematic).
+
+3. **Frame 18**:  
+   **Content**: A character in a playful pose under a spotlight.  
+   **Analysis**: This frame hints at humor and character personality, likely appealing to children and fans of animation.  
+   **Rating**: **85** (engaging, but less dynamic than Frame 7).
+
+4. **Frame 59**:  
+   **Content**: Two key characters sitting in a lively audience setting.  
+   **Analysis**: This frame shows interaction between characters and sets a social, humorous tone. The scene is colorful and engaging, making it highly interesting.  
+   **Rating**: **95** (most engaging).
+
+5. **Frame 112**:  
+   **Content**: A character standing on stage, seemingly making a statement.  
+   **Analysis**: This frame captures the performance aspect of the show but lacks dynamic action compared to others.  
+   **Rating**: **78** (moderately engaging).
+
+6. **Frame 115**:  
+   **Content**: A character in a dramatic or comedic pose, indicating tension or humor.  
+   **Analysis**: Adds narrative tension, boosting viewer interest.  
+   **Rating**: **80** (engaging, but situational).
+
+7. **Frame 116**:  
+   **Content**: Two characters reacting in shock or surprise.  
+   **Analysis**: Highly expressive frame that conveys emotion and humor, engaging viewers.  
+   **Rating**: **92** (very engaging and emotive).
+
+8. **Frame 117**:  
+   **Content**: Close-up of a shoe and a small bug-like character.  
+   **Analysis**: Adds comedic or curious detail, but the focus is too narrow to maintain high engagement.  
+   **Rating**: **75** (mildly engaging).
+
+9. **Frame 118**:  
+   **Content**: The bug character in a humorous pose near the shoe.  
+   **Analysis**: Continuation of the previous frame, with slightly less novelty.  
+   **Rating**: **70** (less engaging).
+
+10. **Frame 119**:  
+    **Content**: The bug character falls, continuing the comedic sequence.  
+    **Analysis**: The humor is consistent but diminishes as the sequence progresses.  
+    **Rating**: **68** (least engaging in the sequence).
+
+--- 
+
+This analysis highlights the varying levels of engagement across frames, focusing on visual appeal, humor, and thematic relevance.
+
+###################################################
+###################################################
+
+24 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/22.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/tmp/112.png', './dataset/youtube/video_1779/tmp/119.png', './dataset/youtube/video_1779/frames/120.png', './dataset/youtube/video_1779/frames/121.png', './dataset/youtube/video_1779/frames/122.png', './dataset/youtube/video_1779/frames/123.png', './dataset/youtube/video_1779/frames/124.png']
+### Keywords Analysis:
+
+From the video information, the following keywords stand out as likely to attract viewers:
+- **Animation, Cartoon, Humor, Fun, Kids, Adventure, Talent Show, Characters, Animals, Music, Competition, Games, Victory, Portuguese, Entertainment.**
+
+These keywords suggest that the video is a fun, animated, and family-friendly show focused on humor, vibrant characters, and an engaging storyline.
+
+---
+
+### JSON Response:
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 22, "rating": 40},
+    {"frame": 59, "rating": 95},
+    {"frame": 112, "rating": 78},
+    {"frame": 119, "rating": 68},
+    {"frame": 120, "rating": 72},
+    {"frame": 121, "rating": 75},
+    {"frame": 122, "rating": 80},
+    {"frame": 123, "rating": 85},
+    {"frame": 124, "rating": 100}
+]
+```
+
+---
+
+### Frame Analysis and Ratings Explanation:
+
+1. **Frame 0**:
+   - **Content**: Logos of sponsors and contributors (ANCINE and Brasil Telecom).
+   - **Rating Explanation**: While informative, this frame lacks entertainment or visual appeal for viewers. It is functional rather than engaging.
+   - **Rating**: 10.
+
+2. **Frame 22**:
+   - **Content**: Close-up of animated character's feet, with a simple background.
+   - **Rating Explanation**: The visual is minimal and doesn’t convey much action or emotional engagement. It is part of the buildup.
+   - **Rating**: 40.
+
+3. **Frame 59**:
+   - **Content**: Two main characters sitting humorously among a crowd of lively and colorful characters.
+   - **Rating Explanation**: This frame is vibrant, humorous, and introduces the main characters, making it highly engaging for viewers.
+   - **Rating**: 95.
+
+4. **Frame 112**:
+   - **Content**: A character on stage, seemingly performing or speaking to an audience.
+   - **Rating Explanation**: The stage setting is dynamic and aligns with the talent show theme, creating excitement. However, it lacks the emotional peak of later frames.
+   - **Rating**: 78.
+
+5. **Frame 119**:
+   - **Content**: A comedic scene with a shoe and a bug.
+   - **Rating Explanation**: The humor and action are entertaining, but the focus is not on the main story or characters.
+   - **Rating**: 68.
+
+6. **Frame 120**:
+   - **Content**: A group of supporting characters expressing reactions.
+   - **Rating Explanation**: The diversity of characters and their reactions are interesting but slightly less engaging than larger story moments.
+   - **Rating**: 72.
+
+7. **Frame 121**:
+   - **Content**: Continuation of reactions from various characters, including a giraffe and other animals.
+   - **Rating Explanation**: The humor and expressions are more vivid here, making it slightly more engaging.
+   - **Rating**: 75.
+
+8. **Frame 122**:
+   - **Content**: Main characters expressing animated reactions, surrounded by supporting characters.
+   - **Rating Explanation**: The emotional reactions of the main characters add to the tension and engagement.
+   - **Rating**: 80.
+
+9. **Frame 123**:
+   - **Content**: Close-up of a character smiling with excitement.
+   - **Rating Explanation**: The emotional connection intensifies here, focusing on the joy of the character, making it highly engaging.
+   - **Rating**: 85.
+
+10. **Frame 124**:
+    - **Content**: A triumphant moment, with the character holding a trophy and celebrating victory.
+    - **Rating Explanation**: This is the climax of the video, showcasing a celebratory and victorious moment. It is the most engaging and satisfying frame for viewers.
+    - **Rating**: 100.
+
+---
+
+### Summary:
+
+The ratings reflect the narrative progression, with higher scores given to moments of humor, action, or emotional climax. Frames 59 and 124 stand out as the most engaging due to their humor, character focus, and story resolution.
+
+###################################################
+###################################################
+
+25 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/8.png', './dataset/youtube/video_1779/tmp/13.png', './dataset/youtube/video_1779/tmp/119.png', './dataset/youtube/video_1779/tmp/124.png', './dataset/youtube/video_1779/frames/125.png', './dataset/youtube/video_1779/frames/126.png', './dataset/youtube/video_1779/frames/127.png', './dataset/youtube/video_1779/frames/128.png', './dataset/youtube/video_1779/frames/129.png']
+### Keywords Summary:
+From the video background, keywords likely to attract viewers include:
+- **Animation, Cartoon, Humor, Adventure, Talents, Kids, Fun, Music, Show, Award, Competition, Characters, Colorful, Entertaining.**
+
+---
+
+### JSON Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 8, "rating": 75},
+    {"frame": 13, "rating": 70},
+    {"frame": 119, "rating": 68},
+    {"frame": 124, "rating": 100},
+    {"frame": 125, "rating": 85},
+    {"frame": 126, "rating": 85},
+    {"frame": 127, "rating": 85},
+    {"frame": 128, "rating": 65},
+    {"frame": 129, "rating": 60}
+]
+```
+
+---
+
+### Analysis and Rating Explanation:
+
+1. **Frame 0 (Rating: 10):**
+   - This frame shows corporate logos (ANCINE and BrasilTelecom) with no engaging or entertaining elements. It serves as an introductory screen, which is not interesting to most viewers.
+
+2. **Frame 8 (Rating: 75):**
+   - The frame features the title "Show de Talentos" in a colorful, artistic design with a spotlight effect. It's visually engaging and sets the tone for the theme of talent and competition, tying well with the video title.
+
+3. **Frame 13 (Rating: 70):**
+   - A bright and cheerful outdoor scene with a colorful house, sun, and tree. While visually appealing, it lacks dynamic or significant action, making it moderately interesting.
+
+4. **Frame 119 (Rating: 68):**
+   - This frame depicts a humorous moment with a cartoonish shoe and a bug. While the humor is subtle, it adds some interest, but it doesn't stand out significantly in the context.
+
+5. **Frame 124 (Rating: 100):**
+   - A celebratory moment showing a character holding a trophy with an audience cheering below. This represents a climactic, exciting part of the video, making it the most engaging frame.
+
+6. **Frame 125-127 (Ratings: 85):**
+   - These frames feature two characters, one with an expressive, grumpy look and another smiling. The bright and colorful design, along with the characters' emotions, adds humor and personality, making these frames engaging.
+
+7. **Frame 128 (Rating: 65):**
+   - A zoomed-in version of the grumpy character in a circular frame. The repetitive nature of this scene reduces its interest level compared to the previous frames.
+
+8. **Frame 129 (Rating: 60):**
+   - Similar to Frame 128, but with a slightly different expression. The lack of variation or additional context makes it less engaging.
+
+---
+
+### Summary:
+The scores reflect the level of visual interest, emotional engagement, and relevance to the video's theme. Frame 124 ranks the highest due to its climactic moment, while introductory and repetitive frames score lower.
+
+###################################################
+###################################################
+
+26 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/9.png', './dataset/youtube/video_1779/tmp/16.png', './dataset/youtube/video_1779/tmp/59.png', './dataset/youtube/video_1779/tmp/124.png', './dataset/youtube/video_1779/frames/130.png', './dataset/youtube/video_1779/frames/131.png', './dataset/youtube/video_1779/frames/132.png', './dataset/youtube/video_1779/frames/133.png', './dataset/youtube/video_1779/frames/134.png']
+### JSON Output
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 9, "rating": 50},
+    {"frame": 16, "rating": 60},
+    {"frame": 59, "rating": 95},
+    {"frame": 124, "rating": 100},
+    {"frame": 130, "rating": 20},
+    {"frame": 131, "rating": 20},
+    {"frame": 132, "rating": 20},
+    {"frame": 133, "rating": 20},
+    {"frame": 134, "rating": 20}
+]
+```
+
+---
+
+### Analysis and Explanation
+
+1. **Frame 0 - Rating: 10**  
+   This frame shows the logos of "Ancine" and "Brasil Telecom." While it is informative and establishes the production context, it is not inherently engaging or visually appealing. The low score reflects its introductory nature.
+
+2. **Frame 9 - Rating: 50**  
+   This frame displays credits for the writers and storyboard artists with a thematic background. It is more engaging due to the visual design and connection to the theme of the video but is still not as dynamic as later scenes.
+
+3. **Frame 16 - Rating: 60**  
+   This frame shows animated characters interacting in a colorful, lively setting. The characters' expressions and environment make it more engaging, appealing to the target audience of children.
+
+4. **Frame 59 - Rating: 95**  
+   This frame is highly dynamic, showing the two main characters sitting in what appears to be a lively audience. The background is filled with other characters, creating a sense of excitement and anticipation. The composition makes it one of the most engaging frames.
+
+5. **Frame 124 - Rating: 100**  
+   This frame shows a character holding a trophy with silhouettes of cheering fans in the foreground. It represents a climactic moment of victory and celebration, making it the most visually and emotionally engaging frame.
+
+6. **Frame 130 - Rating: 20**  
+   The frame returns to end credits with plain text on a black background. While it provides important production information, it lacks visual or narrative engagement.
+
+7. **Frame 131 - Rating: 20**  
+   Similar to Frame 130, this frame contains additional end credits with no significant change in design or appeal.
+
+8. **Frame 132 - Rating: 20**  
+   This frame continues the end credits, listing more contributors. The repetitive format keeps the engagement low.
+
+9. **Frame 133 - Rating: 20**  
+   Another continuation of the end credits, with no new elements to elevate interest.
+
+10. **Frame 134 - Rating: 20**  
+    The final frame of the end credits. Like the preceding credit frames, it is static and lacks engagement compared to earlier scenes.
+
+---
+
+### Summary of Keywords and Engagement
+**Keywords:** animation, humor, adventure, talent, fun, cartoon, music, children, excitement, victory.  
+Frames with vibrant characters, dynamic actions, or celebratory moments (e.g., Frame 59 and Frame 124) scored higher, reflecting their appeal to the target audience of children and animation enthusiasts. Frames focused on credits or logos scored lower due to their static and less engaging nature.
+
+###################################################
+###################################################
+
+27 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/tmp/109.png', './dataset/youtube/video_1779/tmp/116.png', './dataset/youtube/video_1779/tmp/124.png', './dataset/youtube/video_1779/frames/135.png', './dataset/youtube/video_1779/frames/136.png', './dataset/youtube/video_1779/frames/137.png', './dataset/youtube/video_1779/frames/138.png', './dataset/youtube/video_1779/frames/139.png']
+### JSON Output
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 18, "rating": 85},
+    {"frame": 109, "rating": 84},
+    {"frame": 116, "rating": 92},
+    {"frame": 124, "rating": 100},
+    {"frame": 135, "rating": 20},
+    {"frame": 136, "rating": 15},
+    {"frame": 137, "rating": 10},
+    {"frame": 138, "rating": 15},
+    {"frame": 139, "rating": 15}
+]
+```
+
+---
+
+### Analysis and Ratings Explanation
+
+1. **Frame: 0 (Rating: 10)**  
+   This frame contains the logos of ANCINE and Brasil Telecom, which are introductory and not inherently engaging to most viewers. It serves an informational purpose rather than entertainment, thus receiving a low rating.
+
+2. **Frame: 18 (Rating: 85)**  
+   This frame showcases a cartoon character in an expressive and animated pose, likely capturing viewers' attention through its humor and charm. The vibrant colors and context of performance align well with the theme of "talents," making it engaging.
+
+3. **Frame: 109 (Rating: 84)**  
+   Another dynamic frame featuring a character in a humorous, exaggerated pose. The setting and character design are visually appealing and in line with the video’s fun and lighthearted theme, but slightly less impactful than frame 18.
+
+4. **Frame: 116 (Rating: 92)**  
+   This frame shows two cartoon characters in a surprised or shocked expression, which adds intrigue and emotion. The background features other characters, adding depth to the scene. Its emotional intensity earns it a higher rating.
+
+5. **Frame: 124 (Rating: 100)**  
+   This frame is the climax of the video, with the character proudly holding a trophy in front of an applauding crowd. The celebratory tone, bright colors, and dynamic composition make it the most engaging and interesting moment.
+
+6. **Frame: 135 (Rating: 20)**  
+   This frame shows a part of the credits. While it provides recognition to the creators, it lacks visual or narrative engagement, earning a low score.
+
+7. **Frame: 136 (Rating: 15)**  
+   Similar to frame 135, this frame consists of credits and does not add entertainment value, resulting in an even lower rating.
+
+8. **Frame: 137 (Rating: 10)**  
+   A plain black frame with a frame number, devoid of any visual or narrative content, making it the least engaging.
+
+9. **Frame: 138 (Rating: 15)**  
+   Another credits frame, slightly more informative due to the inclusion of voice actors and sound effects contributors, but still not engaging enough for a higher score.
+
+10. **Frame: 139 (Rating: 15)**  
+    Similar to frame 138, this frame lists production credits. While important for acknowledgment, it lacks visual appeal or interest.
+
+---
+
+### Keywords Summary
+- **Relevant Keywords**: cartoon, animation, talent, humor, fun, children, adventure, music, show, performance, celebration, trophy.
+- These keywords influence the analysis, with focus on frames that depict dynamic actions, humor, and celebration being rated higher due to their alignment with the video’s theme.
+
+###################################################
+###################################################
+
+28 ['./dataset/youtube/video_1779/tmp/0.png', './dataset/youtube/video_1779/tmp/16.png', './dataset/youtube/video_1779/tmp/18.png', './dataset/youtube/video_1779/tmp/49.png', './dataset/youtube/video_1779/tmp/124.png', './dataset/youtube/video_1779/frames/140.png', './dataset/youtube/video_1779/frames/141.png', './dataset/youtube/video_1779/frames/142.png', './dataset/youtube/video_1779/frames/143.png', './dataset/youtube/video_1779/frames/144.png']
+### Keywords Summary:
+
+From the video information, potential viewer-attracting keywords include:
+- **Animation, Cartoon, Fun, Humor, Music, Adventure, Children, Talent Show, Award, Celebration, Dancing, Characters.**
+
+---
+
+### JSON Output:
+
+```json
+[
+    {"frame": 0, "rating": 10},
+    {"frame": 16, "rating": 60},
+    {"frame": 18, "rating": 85},
+    {"frame": 49, "rating": 55},
+    {"frame": 124, "rating": 100},
+    {"frame": 140, "rating": 20},
+    {"frame": 141, "rating": 25},
+    {"frame": 142, "rating": 25},
+    {"frame": 143, "rating": 25},
+    {"frame": 144, "rating": 5}
+]
+```
+
+---
+
+### Frame-by-Frame Analysis:
+
+1. **Frame: 0**
+   - **Content**: Displays logos of sponsors/production companies (ANCINE, Brasil Telecom).
+   - **Analysis**: Informative but not engaging for entertainment purposes.
+   - **Rating**: 10 (low interestingness, as it’s just branding).
+
+2. **Frame: 16**
+   - **Content**: Introduces main characters in a colorful and lively setting. A poster referencing "Maicão Jackson" (a humorous nod to Michael Jackson) adds a fun cultural touch.
+   - **Analysis**: Engages viewers with character introduction and humor in the environment.
+   - **Rating**: 60 (moderately engaging).
+
+3. **Frame: 18**
+   - **Content**: A character is dancing enthusiastically in a spotlight, showcasing energy and fun, likely part of a talent show.
+   - **Analysis**: High energy and action make this frame very engaging, especially for children.
+   - **Rating**: 85 (very interesting).
+
+4. **Frame: 49**
+   - **Content**: A close-up of a character with an expression of surprise or wonder.
+   - **Analysis**: Adds personality and emotion but lacks broader context or action.
+   - **Rating**: 55 (moderately interesting).
+
+5. **Frame: 124**
+   - **Content**: A character holds a trophy while a cheering crowd celebrates in silhouette. Bright colors and sparkles emphasize joy and victory.
+   - **Analysis**: Represents the climax of the video with high energy, celebration, and achievement.
+   - **Rating**: 100 (most interesting).
+
+6. **Frame: 140**
+   - **Content**: Credits are rolling on a black background.
+   - **Analysis**: Informative but not engaging visually or emotionally.
+   - **Rating**: 20 (low interestingness).
+
+7. **Frame: 141**
+   - **Content**: The logo of "Mariana Caltabiano Criações" appears.
+   - **Analysis**: Slightly more engaging than plain credits due to colorful design and a character, but still lacks broader appeal.
+   - **Rating**: 25 (low interestingness).
+
+8. **Frame: 142**
+   - **Content**: Same as Frame 141.
+   - **Rating**: 25 (same reasons as Frame 141).
+
+9. **Frame: 143**
+   - **Content**: Same as Frames 141 and 142.
+   - **Rating**: 25 (same reasons as Frame 141).
+
+10. **Frame: 144**
+    - **Content**: A black screen.
+    - **Analysis**: Completely uninteresting visually.
+    - **Rating**: 5 (minimal points for being part of the video).
+
+---
+
+### Summary:
+
+The most engaging frames are **Frame 124 (climactic celebration)** and **Frame 18 (dancing action)**, which highlight important and exciting moments in the video. Frames like **0, 140, 141-143**, and **144** are less interesting as they mostly serve administrative or branding purposes rather than entertainment.
+
+###################################################
+###################################################
+
+LLM score: [ 10.  10.  10.  10.  10.  80.  80.  90.  75.  50.  50.  50.  50.  70.
+  70.  70.  60.  65.  85.  85.  80.  80.  40.  40.  40.  85.  85.  85.
+  70.  75.  70.  70.  80.  80.  75.  75.  70.  80.  60.  65.  75.  75.
+  75.  75.  80.  70.  60.  60.  60.  55.  60.  65.  80.  70.  85.  75.
+  80.  70.  60.  95.  90.  90.  90.  65.  75.  80.  80.  85.  85.  85.
+  80.  80.  75.  75.  65.  60.  75.  70.  80.  90.  70.  60.  58.  50.
+  85.  85.  85.  85.  85.  85.  85.  85.  85.  85.  85.  80.  85.  85.
+  85.  90.  50.  50.  80.  80.  60.  75.  73.  80.  85.  84.  85.  80.
+  78.  77.  76.  80.  92.  75.  70.  68.  72.  75.  80.  85. 100.  85.
+  85.  85.  65.  60.  20.  20.  20.  20.  20.  20.  15.  10.  15.  15.
+  20.  25.  25.  25.   5.] 
+GT score: [9.06406486e-02 9.06406486e-02 6.70570180e-02 7.58903652e-02
+ 7.58903652e-02 8.99163858e-02 1.04500886e-01 1.04500886e-01
+ 1.12111873e-01 1.22867380e-01 1.22867380e-01 1.34581327e-01
+ 1.55774694e-01 1.55774694e-01 1.82687347e-01 2.16329433e-01
+ 2.39918845e-01 2.39918845e-01 2.67203514e-01 2.79153047e-01
+ 2.79153047e-01 2.73573565e-01 2.65022910e-01 2.65022910e-01
+ 2.50428275e-01 2.39625286e-01 2.39625286e-01 2.26668280e-01
+ 2.23589512e-01 2.22360781e-01 2.22360781e-01 2.14711467e-01
+ 2.01819268e-01 2.01819268e-01 1.77501382e-01 1.56972556e-01
+ 1.56972556e-01 1.37417265e-01 1.20321576e-01 1.20321576e-01
+ 1.02187831e-01 9.00954977e-02 9.00954977e-02 8.91599871e-02
+ 8.65856335e-02 7.76320754e-02 7.76320754e-02 7.28147733e-02
+ 7.06587755e-02 7.06587755e-02 6.71359749e-02 6.57929751e-02
+ 6.57929751e-02 6.30998560e-02 6.14404216e-02 6.14404216e-02
+ 6.21028750e-02 6.49551570e-02 6.82628379e-02 6.82628379e-02
+ 7.53551352e-02 8.66770095e-02 8.66770095e-02 9.78683058e-02
+ 1.09439292e-01 1.09439292e-01 1.06568631e-01 9.46533392e-02
+ 9.46533392e-02 8.83779653e-02 8.71693262e-02 8.71693262e-02
+ 9.20212980e-02 9.40401158e-02 9.19186807e-02 9.19186807e-02
+ 9.15035366e-02 9.59726787e-02 9.59726787e-02 1.02618695e-01
+ 1.12739871e-01 1.12739871e-01 1.21758914e-01 1.36601751e-01
+ 1.36601751e-01 1.52246095e-01 1.64513151e-01 1.72494816e-01
+ 1.72494816e-01 1.80263074e-01 1.92301395e-01 1.92301395e-01
+ 2.05638322e-01 2.21283683e-01 2.21283683e-01 2.41611754e-01
+ 2.63773374e-01 2.63773374e-01 2.96902071e-01 3.52495226e-01
+ 3.52495226e-01 4.23608731e-01 4.93650920e-01 5.83209198e-01
+ 5.83209198e-01 7.23545523e-01 8.59046722e-01 8.59046722e-01
+ 9.57534326e-01 9.94450495e-01 9.94450495e-01 1.00000000e+00
+ 9.87863575e-01 9.87863575e-01 9.83604218e-01 9.63441627e-01
+ 7.82618887e-01 7.82618887e-01 6.63502337e-01 5.98774763e-01
+ 5.98774763e-01 5.33468136e-01 4.78323599e-01 4.78323599e-01
+ 4.58161329e-01 4.27369259e-01 4.27369259e-01 3.90086409e-01
+ 3.40332679e-01 3.40332679e-01 2.63875046e-01 1.84252746e-01
+ 1.41775153e-01 1.41775153e-01 1.13522339e-01 8.99581037e-02
+ 8.99581037e-02 6.78280482e-02 4.37753687e-02 4.37753687e-02
+ 3.04817117e-02 2.04795160e-02 2.04795160e-02 5.46078793e-04
+ 0.00000000e+00]
+ALL PLCC
+
+    (PLCC): 0.29692459470303745, p-value: 0.000287131987494951, Index PLCC: 0.3470225838738979, p-value: 1.9011521331652962e-05
+    (SRCC): 0.31830018210792177, p-value: 9.554270173220986e-05, Index SRCC: 0.31830018210792177, p-value: 9.554270173220986e-05
+    
+下面的modified
+原始差 ['0', 0.0, 0.0, 0.0, 0.0, 70.0, 0.0, 10.0, -15.0, -25.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, -10.0, 5.0, 20.0, 0.0, -5.0, 0.0, -40.0, 0.0, 0.0, 45.0, 0.0, 0.0, -15.0, 5.0, -5.0, 0.0, 10.0, 0.0, -5.0, 0.0, -5.0, 10.0, -20.0, 5.0, 10.0, 0.0, 0.0, 0.0, 5.0, -10.0, -10.0, 0.0, 0.0, -5.0, 5.0, 5.0, 15.0, -10.0, 15.0, -10.0, 5.0, -10.0, -10.0, 35.0, -5.0, 0.0, 0.0, -25.0, 10.0, 5.0, 0.0, 5.0, 0.0, 0.0, -5.0, 0.0, -5.0, 0.0, -10.0, -5.0, 15.0, -5.0, 10.0, 10.0, -20.0, -10.0, -2.0, -8.0, 35.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -5.0, 5.0, 0.0, 0.0, 5.0, -40.0, 0.0, 30.0, 0.0, -20.0, 15.0, -2.0, 7.0, 5.0, -1.0, 1.0, -5.0, -2.0, -1.0, -1.0, 4.0, 12.0, -17.0, -5.0, -2.0, 4.0, 3.0, 5.0, 5.0, 15.0, -15.0, 0.0, 0.0, -20.0, -5.0, -40.0, 0.0, 0.0, 0.0, 0.0, 0.0, -5.0, -5.0, 5.0, 0.0, 5.0, 5.0, 0.0, 0.0, -20.0]
+处理后差 ['0', 0.0, 0.0, 0.0, 0.0, 33, 0.0, 10.0, -15.0, -25.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, -10.0, 5.0, 20.0, 0.0, -5.0, 0.0, -33, 0.0, 0.0, 33, 0.0, 0.0, -15.0, 5.0, -5.0, 0.0, 10.0, 0.0, -5.0, 0.0, -5.0, 10.0, -20.0, 5.0, 10.0, 0.0, 0.0, 0.0, 5.0, -10.0, -10.0, 0.0, 0.0, -5.0, 5.0, 5.0, 15.0, -10.0, 15.0, -10.0, 5.0, -10.0, -10.0, 33, -5.0, 0.0, 0.0, -25.0, 10.0, 5.0, 0.0, 5.0, 0.0, 0.0, -5.0, 0.0, -5.0, 0.0, -10.0, -5.0, 15.0, -5.0, 10.0, 10.0, -20.0, -10.0, -2.0, -8.0, 33, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -5.0, 5.0, 0.0, 0.0, 5.0, -33, 0.0, 30.0, 0.0, -20.0, 15.0, -2.0, 7.0, 5.0, -1.0, 1.0, -5.0, -2.0, -1.0, -1.0, 4.0, 12.0, -17.0, -5.0, -2.0, 4.0, 3.0, 5.0, 5.0, 15.0, -15.0, 0.0, 0.0, -20.0, -5.0, -33, 0.0, 0.0, 0.0, 0.0, 0.0, -5.0, -5.0, 5.0, 0.0, 5.0, 5.0, 0.0, 0.0, -20.0]
+LLM score: [ 10.   1.   1.   1.   1.   1.   1.   1. -14. -39. -39. -39. -39. -19.
+ -19. -19. -29. -24.  -4.  -4.  -9.  -9. -42. -42. -42.  -9.  -9.  -9.
+ -24. -19. -24. -24. -14. -14. -19. -19. -24. -14. -34. -29. -19. -19.
+ -19. -19. -14. -24. -34. -34. -34. -39. -34. -29. -14. -24.  -9. -19.
+ -14. -24. -34.  -1.  -6.  -6.  -6. -31. -21. -16. -16. -11. -11. -11.
+ -16. -16. -21. -21. -31. -36. -21. -26. -16.  -6. -26. -36. -38. -46.
+ -13. -13. -13. -13. -13. -13. -13. -13. -13. -13. -13. -18. -13. -13.
+ -13.  -8. -41. -41. -11. -11. -31. -16. -18. -11.  -6.  -7.  -6. -11.
+ -13. -14. -15. -11.   1. -16. -21. -23. -19. -16. -11.  -6.   1. -14.
+ -14. -14. -34. -39. -72. -72. -72. -72. -72. -72. -77. -82. -77. -77.
+ -72. -67. -67. -67. -87.] 
+GT score: [9.06406486e-02 9.06406486e-02 6.70570180e-02 7.58903652e-02
+ 7.58903652e-02 8.99163858e-02 1.04500886e-01 1.04500886e-01
+ 1.12111873e-01 1.22867380e-01 1.22867380e-01 1.34581327e-01
+ 1.55774694e-01 1.55774694e-01 1.82687347e-01 2.16329433e-01
+ 2.39918845e-01 2.39918845e-01 2.67203514e-01 2.79153047e-01
+ 2.79153047e-01 2.73573565e-01 2.65022910e-01 2.65022910e-01
+ 2.50428275e-01 2.39625286e-01 2.39625286e-01 2.26668280e-01
+ 2.23589512e-01 2.22360781e-01 2.22360781e-01 2.14711467e-01
+ 2.01819268e-01 2.01819268e-01 1.77501382e-01 1.56972556e-01
+ 1.56972556e-01 1.37417265e-01 1.20321576e-01 1.20321576e-01
+ 1.02187831e-01 9.00954977e-02 9.00954977e-02 8.91599871e-02
+ 8.65856335e-02 7.76320754e-02 7.76320754e-02 7.28147733e-02
+ 7.06587755e-02 7.06587755e-02 6.71359749e-02 6.57929751e-02
+ 6.57929751e-02 6.30998560e-02 6.14404216e-02 6.14404216e-02
+ 6.21028750e-02 6.49551570e-02 6.82628379e-02 6.82628379e-02
+ 7.53551352e-02 8.66770095e-02 8.66770095e-02 9.78683058e-02
+ 1.09439292e-01 1.09439292e-01 1.06568631e-01 9.46533392e-02
+ 9.46533392e-02 8.83779653e-02 8.71693262e-02 8.71693262e-02
+ 9.20212980e-02 9.40401158e-02 9.19186807e-02 9.19186807e-02
+ 9.15035366e-02 9.59726787e-02 9.59726787e-02 1.02618695e-01
+ 1.12739871e-01 1.12739871e-01 1.21758914e-01 1.36601751e-01
+ 1.36601751e-01 1.52246095e-01 1.64513151e-01 1.72494816e-01
+ 1.72494816e-01 1.80263074e-01 1.92301395e-01 1.92301395e-01
+ 2.05638322e-01 2.21283683e-01 2.21283683e-01 2.41611754e-01
+ 2.63773374e-01 2.63773374e-01 2.96902071e-01 3.52495226e-01
+ 3.52495226e-01 4.23608731e-01 4.93650920e-01 5.83209198e-01
+ 5.83209198e-01 7.23545523e-01 8.59046722e-01 8.59046722e-01
+ 9.57534326e-01 9.94450495e-01 9.94450495e-01 1.00000000e+00
+ 9.87863575e-01 9.87863575e-01 9.83604218e-01 9.63441627e-01
+ 7.82618887e-01 7.82618887e-01 6.63502337e-01 5.98774763e-01
+ 5.98774763e-01 5.33468136e-01 4.78323599e-01 4.78323599e-01
+ 4.58161329e-01 4.27369259e-01 4.27369259e-01 3.90086409e-01
+ 3.40332679e-01 3.40332679e-01 2.63875046e-01 1.84252746e-01
+ 1.41775153e-01 1.41775153e-01 1.13522339e-01 8.99581037e-02
+ 8.99581037e-02 6.78280482e-02 4.37753687e-02 4.37753687e-02
+ 3.04817117e-02 2.04795160e-02 2.04795160e-02 5.46078793e-04
+ 0.00000000e+00]
+ALL PLCC
+
+    (PLCC): 0.2774360810315408, p-value: 0.0007290105605132908, Index PLCC: 0.3470225838738979, p-value: 1.9011521331652962e-05
+    (SRCC): 0.25643645584827285, p-value: 0.0018493881161413164, Index SRCC: 0.31830018210792177, p-value: 9.554270173220986e-05
+    
+Weight: [ 10.  10.  10.  10.  10.  80.  80.  90.  75.  50.  50.  50.  50.  70.
+  70.  70.  60.  65.  85.  85.  80.  80.  40.  40.  40.  85.  85.  85.
+  70.  75.  70.  70.  80.  80.  75.  75.  70.  80.  60.  65.  75.  75.
+  75.  75.  80.  70.  60.  60.  60.  55.  60.  65.  80.  70.  85.  75.
+  80.  70.  60.  95.  90.  90.  90.  65.  75.  80.  80.  85.  85.  85.
+  80.  80.  75.  75.  65.  60.  75.  70.  80.  90.  70.  60.  58.  50.
+  85.  85.  85.  85.  85.  85.  85.  85.  85.  85.  85.  80.  85.  85.
+  85.  90.  50.  50.  80.  80.  60.  75.  73.  80.  85.  84.  85.  80.
+  78.  77.  76.  80.  92.  75.  70.  68.  72.  75.  80.  85. 100.  85.
+  85.  85.  65.  60.  20.  20.  20.  20.  20.  20.  15.  10.  15.  15.
+  20.  25.  25.  25.   5.]
+从这里再绘制一次后处理的图片，和PLCC
+{'subscription': {'isActive': True, 'planType': 'yearly', 'id': 'U3Vic2NyaXB0aW9uOjA=', 'purchaseType': 'web', 'isComplimentary': False, 'expiresTime': 1769173621000000, 'willCancelAtPeriodEnd': False, 'isFreeTrial': False, 'purchaseRevocationReason': None}, 'messagePointInfo': {'messagePointResetTime': 1740182518000000, 'messagePointBalance': 319138, 'totalMessagePointAllotment': 1000000, 'id': 'TWVzc2FnZVBvaW50SW5mbzow'}}

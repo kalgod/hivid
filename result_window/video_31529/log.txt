@@ -1,0 +1,3123 @@
+Skipping ProxyFetcher due to No module named 'ballyregan'.
+{'subscription': {'isActive': True, 'planType': 'yearly', 'id': 'U3Vic2NyaXB0aW9uOjA=', 'purchaseType': 'web', 'isComplimentary': False, 'expiresTime': 1769173621000000, 'willCancelAtPeriodEnd': False, 'isFreeTrial': False, 'purchaseRevocationReason': None}, 'messagePointInfo': {'messagePointResetTime': 1740182518000000, 'messagePointBalance': 551122, 'totalMessagePointAllotment': 1000000, 'id': 'TWVzc2FnZVBvaW50SW5mbzow'}}
+num of gtscore: 185
+Processing video_31529
+Video Title: GOLES: Deportivo 0-4 Real Madrid
+Categories: ['Sports']
+Tags: ['realmadrid', 'realmadridfc', 'realmadridcf', 'football', 'soccer', 'Teresa Herrera', 'Deportivo']
+
+0 ['./dataset/youtube/video_31529/frames/0.png', './dataset/youtube/video_31529/frames/1.png', './dataset/youtube/video_31529/frames/2.png', './dataset/youtube/video_31529/frames/3.png', './dataset/youtube/video_31529/frames/4.png']
+### Keywords Summary
+Based on the video information, the following keywords may attract viewers:
+- **Real Madrid**, **Deportivo**, **4-0**, **Victory**, **Football**, **Soccer**, **Team Celebration**, **Trophy Presentation**, **Teresa Herrera Trophy**, **Fans**, **Excitement**.
+
+### JSON Ratings for Frames
+```json
+[
+    {"frame": 0, "rating": 70},
+    {"frame": 1, "rating": 90},
+    {"frame": 2, "rating": 90},
+    {"frame": 3, "rating": 90},
+    {"frame": 4, "rating": 85}
+]
+```
+
+### Analysis and Ratings Explained
+1. **Frame 0 (Rating: 70)**  
+   This frame features the Real Madrid team and the trophy, but it is blurry and overlaid with another image, reducing its clarity. While the scene is important, the quality detracts significantly, leading to a lower score.
+
+2. **Frame 1 (Rating: 90)**  
+   A sharp and vibrant image of the Real Madrid team posing with the trophy, showcasing their victory. The players’ expressions are full of pride and joy, and the trophy is clearly visible, making this frame highly engaging.
+
+3. **Frame 2 (Rating: 90)**  
+   Similar to Frame 1, this frame captures the team and trophy in a well-composed and clear manner. The celebratory atmosphere is maintained, making it equally appealing.
+
+4. **Frame 3 (Rating: 90)**  
+   This frame continues the trend of clear and celebratory imagery, with the team and trophy prominently displayed. It remains visually engaging and maintains the high score.
+
+5. **Frame 4 (Rating: 85)**  
+   While still featuring the team and trophy, this frame is slightly less dynamic than the previous ones. The players’ expressions appear less lively, and the composition feels slightly less engaging, leading to a slightly lower score.
+
+---
+
+### General Observations
+Frames featuring the team and trophy in clear, celebratory poses (Frames 1-3) score the highest as they capture the essence of victory and excitement. Frame 4 is slightly less engaging, and Frame 0's blurry overlay significantly reduces its appeal.
+
+###################################################
+###################################################
+
+1 ['./dataset/youtube/video_31529/tmp/0.png', './dataset/youtube/video_31529/tmp/1.png', './dataset/youtube/video_31529/tmp/2.png', './dataset/youtube/video_31529/tmp/3.png', './dataset/youtube/video_31529/tmp/4.png', './dataset/youtube/video_31529/frames/5.png', './dataset/youtube/video_31529/frames/6.png', './dataset/youtube/video_31529/frames/7.png', './dataset/youtube/video_31529/frames/8.png', './dataset/youtube/video_31529/frames/9.png']
+### Keywords to Attract Viewers:
+- Real Madrid
+- Trophy Celebration
+- Victory Moment
+- Teresa Herrera Cup
+- Team Celebration
+- Football Champions
+- Soccer Highlights
+- Iconic Moments
+- Deportivo vs Real Madrid
+- Winning Ceremony
+
+### JSON Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 70},
+    {"frame": 1, "rating": 90},
+    {"frame": 2, "rating": 90},
+    {"frame": 3, "rating": 90},
+    {"frame": 4, "rating": 85},
+    {"frame": 5, "rating": 75},
+    {"frame": 6, "rating": 75},
+    {"frame": 7, "rating": 70},
+    {"frame": 8, "rating": 70},
+    {"frame": 9, "rating": 65}
+]
+```
+
+### Analysis and Rating Explanation:
+
+1. **Frame 0:**
+   - **Content Analysis:** A somewhat distorted group photo of the Real Madrid team with the trophy, likely due to overlay effects. The trophy is visible but not clear.
+   - **Reason for Rating:** The image captures the team and trophy but lacks clarity, reducing its appeal.
+   - **Rating:** 70
+
+2. **Frame 1:**
+   - **Content Analysis:** A clear group photo of the Real Madrid team with the trophy. Everyone is posing, and the trophy is prominently displayed.
+   - **Reason for Rating:** This frame is highly engaging, showing the team and trophy in a celebratory moment, which is iconic and appealing to fans.
+   - **Rating:** 90
+
+3. **Frame 2:**
+   - **Content Analysis:** A duplicate of Frame 1. The team and trophy are clear and well-positioned.
+   - **Reason for Rating:** Same level of appeal as Frame 1. A solid highlight moment.
+   - **Rating:** 90
+
+4. **Frame 3:**
+   - **Content Analysis:** Another duplicate of Frame 1. The content remains consistent with the celebratory photo.
+   - **Reason for Rating:** Still engaging, though repetition reduces the novelty slightly.
+   - **Rating:** 90
+
+5. **Frame 4:**
+   - **Content Analysis:** The team and trophy are still visible, but the camera angle seems slightly shifted. The clarity remains good but slightly less impactful than the earlier frames.
+   - **Reason for Rating:** While still a good frame, the slight change in angle and repetition lowers its score slightly.
+   - **Rating:** 85
+
+6. **Frame 5:**
+   - **Content Analysis:** A close-up of the trophy. The intricate details are visible, and it’s a good showcase of the prize.
+   - **Reason for Rating:** The focus on the trophy is appealing to fans interested in the details, but it lacks the human element of the team celebration.
+   - **Rating:** 75
+
+7. **Frame 6:**
+   - **Content Analysis:** Another close-up of the trophy, focusing on its base. The human presence is minimal, and the frame feels less dynamic.
+   - **Reason for Rating:** While the trophy is detailed, the lack of excitement compared to team photos reduces its appeal.
+   - **Rating:** 75
+
+8. **Frame 7:**
+   - **Content Analysis:** Close-up of the mid-section of the trophy. The frame feels less focused and has less context.
+   - **Reason for Rating:** The lack of context and dynamism makes it less engaging.
+   - **Rating:** 70
+
+9. **Frame 8:**
+   - **Content Analysis:** Close-up of the upper section of the trophy with minimal context. Similar to Frame 7 but slightly less impactful.
+   - **Reason for Rating:** The absence of players and context reduces its interest further.
+   - **Rating:** 70
+
+10. **Frame 9:**
+    - **Content Analysis:** A zoomed-in view of the top of the trophy. The frame feels static and lacks excitement.
+    - **Reason for Rating:** The absence of dynamic elements and human involvement makes it the least engaging frame.
+    - **Rating:** 65
+
+###################################################
+###################################################
+
+2 ['./dataset/youtube/video_31529/tmp/1.png', './dataset/youtube/video_31529/tmp/2.png', './dataset/youtube/video_31529/tmp/4.png', './dataset/youtube/video_31529/tmp/7.png', './dataset/youtube/video_31529/tmp/9.png', './dataset/youtube/video_31529/frames/10.png', './dataset/youtube/video_31529/frames/11.png', './dataset/youtube/video_31529/frames/12.png', './dataset/youtube/video_31529/frames/13.png', './dataset/youtube/video_31529/frames/14.png']
+### Keywords Summary
+**Keywords to attract viewers**:
+- Real Madrid
+- Trophy Celebration
+- Team Victory
+- Football/Soccer
+- Deportivo vs. Real Madrid
+- Teresa Herrera Trophy
+- Iconic Moments
+- Fans and Players
+
+### JSON Ratings
+```json
+[
+    {"frame": 1, "rating": 90},
+    {"frame": 2, "rating": 90},
+    {"frame": 4, "rating": 85},
+    {"frame": 7, "rating": 70},
+    {"frame": 9, "rating": 65},
+    {"frame": 10, "rating": 65},
+    {"frame": 11, "rating": 65},
+    {"frame": 12, "rating": 80},
+    {"frame": 13, "rating": 78},
+    {"frame": 14, "rating": 78}
+]
+```
+
+---
+
+### Analysis and Explanation of Ratings
+
+#### **Frames 1 & 2**:
+- **Content**: Team group photo with the trophy prominently displayed. This highlights the victorious moment, showcasing the players and the Teresa Herrera Trophy.
+- **Fixed Rating**: 90.
+- **Why High Rating**: Iconic and celebratory, these images are highly engaging for fans. Group photos with trophies resonate strongly with audiences.
+
+---
+
+#### **Frame 4**:
+- **Content**: Another team photo with the trophy but slightly different posture and arrangement.
+- **Fixed Rating**: 85.
+- **Why Slightly Lower**: While still celebratory, it doesn't differ significantly from Frames 1 and 2, making it slightly less unique.
+
+---
+
+#### **Frame 7**:
+- **Content**: Close-up of the trophy with parts of individuals' legs shown.
+- **Fixed Rating**: 70.
+- **Why Lower Rating**: Trophy close-ups are important but less engaging compared to group photos. The lack of player expressions reduces emotional impact.
+
+---
+
+#### **Frames 9, 10, & 11**:
+- **Content**: Trophy close-up from different angles with less context.
+- **Fixed Rating**: 65.
+- **Why Lower Rating**: These frames are repetitive and lack the excitement of player interactions. The focus is solely on the trophy, which limits appeal.
+
+---
+
+#### **Frames 12, 13, & 14**:
+- **Content**: Players entering the field, including notable players and crowd excitement in the background.
+- **Ratings**:
+  - Frame 12: 80 (most engaging of the three due to clearer player visibility).
+  - Frames 13 & 14: 78 (slightly less engaging due to blur and limited clarity of players).
+- **Why Moderate Rating**: These frames capture dynamic moments of players entering, which is exciting but less iconic than trophy moments.
+
+---
+
+### Summary
+Frames with group photos and iconic moments (Frames 1, 2, and 4) scored highest due to their celebratory and emotional appeal. Close-ups of the trophy (Frames 7, 9, 10, 11) scored lower due to limited context. Dynamic frames showing players entering (Frames 12, 13, 14) scored moderately as they depict action but lack the celebratory context of the earlier frames.
+
+###################################################
+###################################################
+
+3 ['./dataset/youtube/video_31529/tmp/1.png', './dataset/youtube/video_31529/tmp/5.png', './dataset/youtube/video_31529/tmp/7.png', './dataset/youtube/video_31529/tmp/9.png', './dataset/youtube/video_31529/tmp/13.png', './dataset/youtube/video_31529/frames/15.png', './dataset/youtube/video_31529/frames/16.png', './dataset/youtube/video_31529/frames/17.png', './dataset/youtube/video_31529/frames/18.png', './dataset/youtube/video_31529/frames/19.png']
+### Keywords:
+Based on the video information, potential keywords to attract viewers include:
+- Real Madrid
+- Deportivo
+- Football
+- Soccer
+- Goals
+- Teresa Herrera Trophy
+- Trophy Celebration
+- Match Highlights
+
+### JSON Output:
+```json
+[
+    {"frame": 1, "rating": 90},
+    {"frame": 5, "rating": 75},
+    {"frame": 7, "rating": 70},
+    {"frame": 9, "rating": 65},
+    {"frame": 13, "rating": 78},
+    {"frame": 15, "rating": 80},
+    {"frame": 16, "rating": 60},
+    {"frame": 17, "rating": 62},
+    {"frame": 18, "rating": 58},
+    {"frame": 19, "rating": 55}
+]
+```
+
+### Analysis and Explanation:
+
+1. **Frame 1 (Rating: 90)**:
+   - Content: Real Madrid team posing with the Teresa Herrera trophy.
+   - Reason: This frame is visually appealing as it features the entire team with the trophy, capturing a celebratory moment. It is engaging to fans and thus deserves a high fixed rating.
+
+2. **Frame 5 (Rating: 75)**:
+   - Content: A detailed close-up of the trophy.
+   - Reason: This frame highlights the trophy's intricate design and importance. While interesting, it is less dynamic than Frame 1.
+
+3. **Frame 7 (Rating: 70)**:
+   - Content: A zoomed-in view of the trophy's midsection.
+   - Reason: While offering a closer look, it lacks broader context and engagement compared to Frame 5.
+
+4. **Frame 9 (Rating: 65)**:
+   - Content: Another close-up of the trophy, showing its upper section.
+   - Reason: Similar to Frame 7, but the focus on a specific part of the trophy makes it slightly less engaging.
+
+5. **Frame 13 (Rating: 78)**:
+   - Content: Players walking onto the field, with fans in the background.
+   - Reason: This frame shows motion and excitement, making it more engaging than static trophy shots.
+
+6. **Frame 15 (Rating: 80)**:
+   - Content: A dynamic view of players entering the field.
+   - Reason: Slightly better than Frame 13 due to more visible players and vibrant action.
+
+7. **Frame 16 (Rating: 60)**:
+   - Content: A coach sitting on the bench, smiling.
+   - Reason: While it shows a notable figure, it lacks the energy and excitement of other frames.
+
+8. **Frame 17 (Rating: 62)**:
+   - Content: A coach conversing with a team staff member.
+   - Reason: Slightly more engaging than Frame 16 due to the interaction depicted.
+
+9. **Frame 18 (Rating: 58)**:
+   - Content: The coach in a contemplative pose.
+   - Reason: This frame is less dynamic compared to previous ones, leading to a lower score.
+
+10. **Frame 19 (Rating: 55)**:
+    - Content: The coach whispering to a staff member.
+    - Reason: This frame has a subdued tone, making it the least engaging of all.
+
+### Summary:
+Frames showing team celebrations or action-related moments (e.g., Frames 1, 13, 15) score higher due to their energy and broader appeal. Static or less dynamic frames (e.g., Frames 16–19) receive lower ratings. Fixed ratings provide a reference for calibrating the relative scores.
+
+###################################################
+###################################################
+
+4 ['./dataset/youtube/video_31529/tmp/0.png', './dataset/youtube/video_31529/tmp/1.png', './dataset/youtube/video_31529/tmp/4.png', './dataset/youtube/video_31529/tmp/10.png', './dataset/youtube/video_31529/tmp/19.png', './dataset/youtube/video_31529/frames/20.png', './dataset/youtube/video_31529/frames/21.png', './dataset/youtube/video_31529/frames/22.png', './dataset/youtube/video_31529/frames/23.png', './dataset/youtube/video_31529/frames/24.png']
+### Keywords for Attracting Viewers
+Based on the video information, here are some keywords that could attract viewers:
+- Real Madrid
+- Trophy celebration
+- Soccer highlights
+- Teresa Herrera Cup
+- Player lineup
+- Ronaldo
+- Football team moments
+- Victory
+
+### JSON Ratings for Frames
+```json
+[
+    {"frame": 0, "rating": 70},
+    {"frame": 1, "rating": 90},
+    {"frame": 4, "rating": 85},
+    {"frame": 10, "rating": 65},
+    {"frame": 19, "rating": 55},
+    {"frame": 20, "rating": 55},
+    {"frame": 21, "rating": 60},
+    {"frame": 22, "rating": 60},
+    {"frame": 23, "rating": 60},
+    {"frame": 24, "rating": 95}
+]
+```
+
+### Analysis and Ratings Explanation
+
+1. **Frame 0 (Rating: 70)**  
+   This frame shows the team posing with the trophy, but the image is blurry and overlaid with another visual. While it conveys the celebratory atmosphere, the lack of clarity reduces its appeal.
+
+2. **Frame 1 (Rating: 90)**  
+   A clear and vibrant frame capturing the entire Real Madrid team with the trophy. This frame is highly engaging for fans as it highlights the victory moment with all players smiling.
+
+3. **Frame 4 (Rating: 85)**  
+   Another clear team photo with the trophy. While similar to Frame 1, it slightly lacks the energetic alignment and vibrant expressions of the previous frame.
+
+4. **Frame 10 (Rating: 65)**  
+   Focuses on the trophy with two individuals partially visible. While the trophy is significant, the lack of full context and absence of players makes this frame less engaging.
+
+5. **Frame 19 (Rating: 55)**  
+   Captures two coaches or staff members in a discussion. This frame is only mildly interesting to viewers unless they are specifically interested in coaching moments.
+
+6. **Frame 20 (Rating: 55)**  
+   Similar to Frame 19, this frame also focuses on the coaching staff. It lacks broader appeal as it doesn't showcase players or action on the field.
+
+7. **Frame 21 (Rating: 60)**  
+   A wide-angle shot of the stadium and the teams lining up. While it provides context to the event, it lacks the close-up details that fans typically find engaging.
+
+8. **Frame 22 (Rating: 60)**  
+   Identical to Frame 21, offering a similar perspective. It provides event context but doesn't stand out for specific moments or individuals.
+
+9. **Frame 23 (Rating: 60)**  
+   Another wide-angle view of the stadium, similar to Frames 21 and 22. The lack of variety keeps the rating consistent.
+
+10. **Frame 24 (Rating: 95)**  
+    A close-up shot of Ronaldo with his jersey name visible. This frame is highly captivating as it focuses on a star player, making it a highlight for viewers and fans of Ronaldo.
+
+### Summary
+Frames with clear team celebrations or iconic player moments (e.g., Ronaldo) scored the highest, while less engaging frames, such as wide-angle shots or coaching moments, scored lower. The clarity, context, and emotional connection to the viewer were the primary factors influencing the ratings.
+
+###################################################
+###################################################
+
+5 ['./dataset/youtube/video_31529/tmp/5.png', './dataset/youtube/video_31529/tmp/13.png', './dataset/youtube/video_31529/tmp/19.png', './dataset/youtube/video_31529/tmp/20.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/frames/25.png', './dataset/youtube/video_31529/frames/26.png', './dataset/youtube/video_31529/frames/27.png', './dataset/youtube/video_31529/frames/28.png', './dataset/youtube/video_31529/frames/29.png']
+### Keywords:
+- **Real Madrid**, **Deportivo**, **Football**, **Soccer**, **Goals**, **Victory**, **Teresa Herrera**, **Match Highlights**, **Trophy**, **Ronaldo**, **Team Players**, **Celebration**.
+
+### JSON Ratings:
+
+```json
+[
+    {"frame": 5, "rating": 75},
+    {"frame": 13, "rating": 78},
+    {"frame": 19, "rating": 55},
+    {"frame": 20, "rating": 55},
+    {"frame": 24, "rating": 95},
+    {"frame": 25, "rating": 70},
+    {"frame": 26, "rating": 65},
+    {"frame": 27, "rating": 68},
+    {"frame": 28, "rating": 60},
+    {"frame": 29, "rating": 63}
+]
+```
+
+### Analysis and Explanation:
+
+1. **Frame 5**: The image showcases a **trophy** with high detail, which is a central element of a victorious event. It evokes a sense of achievement and is relevant to the match's significance. **Rating: 75 (fixed)**.
+
+2. **Frame 13**: This frame depicts Real Madrid players entering the field, highlighting the **team's presence** and the anticipation of the match. It is engaging due to the crowd's energy and the star players in focus. **Rating: 78 (fixed)**.
+
+3. **Frame 19**: The frame shows two coaches in discussion on the bench. While important for strategy, it is less visually engaging compared to action shots or celebrations. **Rating: 55 (fixed)**.
+
+4. **Frame 20**: Similar to Frame 19, this frame continues the conversation between the coaches, adding little novelty compared to the previous frame. **Rating: 55 (fixed)**.
+
+5. **Frame 24**: This frame highlights **Cristiano Ronaldo**, one of the most iconic football players, making it extremely engaging for fans. The focus on Ronaldo significantly boosts the appeal of this frame. **Rating: 95 (fixed)**.
+
+6. **Frame 25**: This image focuses on another player, but the lack of action or direct association with scoring or celebration reduces the engagement compared to Frame 24. **Rating: 70**.
+
+7. **Frame 26**: Similar to Frame 25, this frame features a player but with less clarity or action. It remains engaging but slightly less so. **Rating: 65**.
+
+8. **Frame 27**: This frame captures another Real Madrid player with a clear and focused shot, slightly more engaging than Frame 26 due to better visibility of the player. **Rating: 68**.
+
+9. **Frame 28**: This frame is less dynamic, featuring a mid-action pause. While it still shows a player, the engagement is lower than the prior frames due to the lack of context or specific focus. **Rating: 60**.
+
+10. **Frame 29**: The frame highlights **Morata**, a recognizable player, but the angle and composition make it slightly less engaging than other player-focused frames like Frame 27. **Rating: 63**.
+
+###################################################
+###################################################
+
+6 ['./dataset/youtube/video_31529/tmp/13.png', './dataset/youtube/video_31529/tmp/19.png', './dataset/youtube/video_31529/tmp/23.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/27.png', './dataset/youtube/video_31529/frames/30.png', './dataset/youtube/video_31529/frames/31.png', './dataset/youtube/video_31529/frames/32.png', './dataset/youtube/video_31529/frames/33.png', './dataset/youtube/video_31529/frames/34.png']
+### Step 1: Keywords
+
+Based on the video information, the keywords that may attract viewers are:
+
+- **Real Madrid**
+- **Football**
+- **Soccer**
+- **Goals**
+- **Deportivo vs. Real Madrid**
+- **4-0 Victory**
+- **Ronaldo**
+- **Teresa Herrera Trophy**
+
+---
+
+### Step 2: JSON Ratings
+
+```json
+[
+    {"frame": 13, "rating": 78},
+    {"frame": 19, "rating": 55},
+    {"frame": 23, "rating": 60},
+    {"frame": 24, "rating": 95},
+    {"frame": 27, "rating": 68},
+    {"frame": 30, "rating": 65},
+    {"frame": 31, "rating": 62},
+    {"frame": 32, "rating": 64},
+    {"frame": 33, "rating": 70},
+    {"frame": 34, "rating": 80}
+]
+```
+
+---
+
+### Step 3: Analysis and Rating Explanation
+
+#### Frame 13 (Rating: 78)
+- **Content**: Players walking out, including notable Real Madrid players like Marcelo. The crowd in the background adds excitement.
+- **Reason**: This frame sets the scene with anticipation and features prominent players. The fixed rating of 78 reflects this.
+
+---
+
+#### Frame 19 (Rating: 55)
+- **Content**: Coaches discussing tactics on the bench.
+- **Reason**: This is more subdued and less visually dynamic compared to other frames. The fixed rating of 55 reflects this.
+
+---
+
+#### Frame 23 (Rating: 60)
+- **Content**: A wide-angle view of the stadium, showing both teams lined up.
+- **Reason**: The frame highlights the match's grandeur but lacks specific player focus. The fixed rating of 60 is appropriate.
+
+---
+
+#### Frame 24 (Rating: 95)
+- **Content**: Close-up of Ronaldo with his iconic jersey number "7."
+- **Reason**: Ronaldo is a globally recognized football icon, and this frame has high viewer appeal. The fixed rating of 95 reflects this star power.
+
+---
+
+#### Frame 27 (Rating: 68)
+- **Content**: Close-up of Isco, another notable player.
+- **Reason**: While Isco is a popular player, his appeal is slightly lower than Ronaldo's. The dynamic framing earns this a 68.
+
+---
+
+#### Frame 30 (Rating: 65)
+- **Content**: Morata is seen engaging with another player.
+- **Reason**: The interaction between players adds interest, though it lacks the star power of Ronaldo or Isco. A 65 rating is fitting.
+
+---
+
+#### Frame 31 (Rating: 62)
+- **Content**: Another close-up of players, with a focus on smiles and camaraderie.
+- **Reason**: This frame is slightly less engaging than Frame 30, as it lacks a clear focal player, earning it a 62.
+
+---
+
+#### Frame 32 (Rating: 64)
+- **Content**: Close-up of Carvajal, with opposing players nearby.
+- **Reason**: The presence of Carvajal and the interaction with others make this frame moderately interesting, deserving a 64.
+
+---
+
+#### Frame 33 (Rating: 70)
+- **Content**: An action shot showing players running towards the goal.
+- **Reason**: The dynamic movement makes this frame more engaging, earning it a 70.
+
+---
+
+#### Frame 34 (Rating: 80)
+- **Content**: The scoreboard shows a 4-0 victory for Real Madrid, with players in action.
+- **Reason**: The scoreboard emphasizes Real Madrid's dominant performance, and the action adds excitement. This frame is very appealing, earning an 80.
+
+--- 
+
+### Summary
+
+The ratings reflect the relative interest levels of the frames based on their content, with fixed ratings serving as anchors for comparison. Frames featuring iconic players or dynamic action scored the highest.
+
+###################################################
+###################################################
+
+7 ['./dataset/youtube/video_31529/tmp/1.png', './dataset/youtube/video_31529/tmp/17.png', './dataset/youtube/video_31529/tmp/19.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/29.png', './dataset/youtube/video_31529/frames/35.png', './dataset/youtube/video_31529/frames/36.png', './dataset/youtube/video_31529/frames/37.png', './dataset/youtube/video_31529/frames/38.png', './dataset/youtube/video_31529/frames/39.png']
+### Keywords Summary for Attracting Viewers
+- **Real Madrid**, **Deportivo**, **4-0 victory**, **goals**, **highlights**, **Ronaldo**, **Morata**, **Teresa Herrera**, **football action**, **soccer fans**, **celebration**, **team spirit**.
+
+### JSON Rating Output
+```json
+[
+    {"frame": 1, "rating": 90},
+    {"frame": 17, "rating": 62},
+    {"frame": 19, "rating": 55},
+    {"frame": 24, "rating": 95},
+    {"frame": 29, "rating": 63},
+    {"frame": 35, "rating": 58},
+    {"frame": 36, "rating": 60},
+    {"frame": 37, "rating": 70},
+    {"frame": 38, "rating": 75},
+    {"frame": 39, "rating": 80}
+]
+```
+
+### Analysis of Each Image Content and Ratings
+
+1. **Frame 1 (Rating: 90)**  
+   - **Content**: Real Madrid team posing with a trophy.  
+   - **Analysis**: This is a high-interest frame as it captures team unity, success, and celebration, which are emotional and visually appealing moments for fans. The fixed rating reflects its importance.
+
+2. **Frame 17 (Rating: 62)**  
+   - **Content**: The coach talking casually on the bench.  
+   - **Analysis**: Though relevant, it is less dynamic compared to other frames. The fixed rating reflects moderate interest.
+
+3. **Frame 19 (Rating: 55)**  
+   - **Content**: A coach discussing something secretively with another staff member.  
+   - **Analysis**: The interaction adds a slight layer of intrigue, but it is still less engaging compared to action-packed or celebratory frames. The fixed rating aligns well with its content.
+
+4. **Frame 24 (Rating: 95)**  
+   - **Content**: Cristiano Ronaldo with his iconic jersey.  
+   - **Analysis**: A highly engaging frame due to Ronaldo's global recognition and fan appeal. This is a fixed rating representing its popularity.
+
+5. **Frame 29 (Rating: 63)**  
+   - **Content**: Morata with his jersey visible, walking on the field.  
+   - **Analysis**: Similar to Frame 24 but with a player of less global fame. The fixed rating reflects moderate interest.
+
+6. **Frame 35 (Rating: 58)**  
+   - **Content**: Players moving towards the goal during the game.  
+   - **Analysis**: A moment of action but lacks the intensity of direct goal-scoring or celebratory shots. The rating reflects this relatively lower level of excitement.
+
+7. **Frame 36 (Rating: 60)**  
+   - **Content**: A similar gameplay moment as Frame 35 but slightly more dynamic with more players near the goal.  
+   - **Analysis**: Slightly higher interest due to the positioning of players, hinting at an impending goal.  
+
+8. **Frame 37 (Rating: 70)**  
+   - **Content**: A corner kick situation near the goal.  
+   - **Analysis**: The increased tension and potential for a goal elevate this frame's interest level compared to Frames 35 and 36.
+
+9. **Frame 38 (Rating: 75)**  
+   - **Content**: Players clashing near the goal during an intense play.  
+   - **Analysis**: High excitement as it captures active gameplay with a chance of scoring, progressing from Frame 37.
+
+10. **Frame 39 (Rating: 80)**  
+    - **Content**: A near-goal situation with players in action.  
+    - **Analysis**: The peak of gameplay intensity among the frames, with strong engagement potential due to the proximity to a scoring moment.
+
+###################################################
+###################################################
+
+8 ['./dataset/youtube/video_31529/tmp/5.png', './dataset/youtube/video_31529/tmp/16.png', './dataset/youtube/video_31529/tmp/19.png', './dataset/youtube/video_31529/tmp/20.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/frames/40.png', './dataset/youtube/video_31529/frames/41.png', './dataset/youtube/video_31529/frames/42.png', './dataset/youtube/video_31529/frames/43.png', './dataset/youtube/video_31529/frames/44.png']
+### Keywords Summary
+
+Based on the video information, the following keywords stand out to attract viewers:
+- **Real Madrid**, **Deportivo**, **football**, **soccer**, **Teresa Herrera**, **Cristiano Ronaldo**, **goals**, **trophy**, **match highlights**, **coach interaction**.
+
+---
+
+### JSON Rating Output
+
+```json
+[
+    {"frame": 5, "rating": 75},
+    {"frame": 16, "rating": 60},
+    {"frame": 19, "rating": 55},
+    {"frame": 20, "rating": 55},
+    {"frame": 24, "rating": 95},
+    {"frame": 40, "rating": 85},
+    {"frame": 41, "rating": 80},
+    {"frame": 42, "rating": 80},
+    {"frame": 43, "rating": 75},
+    {"frame": 44, "rating": 70}
+]
+```
+
+---
+
+### Analysis and Explanation of Ratings
+
+1. **Frame 5 (Rating: 75)**  
+   - Content: A trophy is prominently displayed, with "LA CORVNA" engraved. Trophies symbolize victory and achievement, appealing to fans of both teams.  
+   - Justification: A fixed rating of **75** was provided, and it aligns with the content's significance.
+
+2. **Frame 16 (Rating: 60)**  
+   - Content: A coach speaking with visible expressions and subtitles indicating "Elena Peiro."  
+   - Justification: Coaching moments are interesting but less visually dynamic than gameplay or player highlights. This frame emphasizes strategy but doesn't carry high excitement, hence a **60**.
+
+3. **Frame 19 (Rating: 55)**  
+   - Content: Coaches in discussion, showing a moment of strategic planning on the bench.  
+   - Justification: Similar to frame 16 but slightly less dynamic as the image focuses on interaction without broader context. Fixed rating of **55**.
+
+4. **Frame 20 (Rating: 55)**  
+   - Content: A continuation of frame 19, showing similar coaching interactions.  
+   - Justification: Repeated content from frame 19 with no new added interest. Fixed rating of **55**.
+
+5. **Frame 24 (Rating: 95)**  
+   - Content: Cristiano Ronaldo's iconic "Ronaldo 7" jersey is shown.  
+   - Justification: Ronaldo is a global football star, and this frame highlights his presence in the match. Fans would find this frame very engaging. Fixed rating of **95**.
+
+6. **Frame 40 (Rating: 85)**  
+   - Content: Active gameplay showing a critical match moment near the goal area.  
+   - Justification: Action-packed sequences, particularly near the goal, are highly engaging. This represents a key highlight, deserving a high rating of **85**.
+
+7. **Frame 41 (Rating: 80)**  
+   - Content: A continuation of gameplay action with visible players and movement.  
+   - Justification: While still engaging, this frame is slightly less intense compared to frame 40. Rated **80**.
+
+8. **Frame 42 (Rating: 80)**  
+   - Content: Another gameplay shot with players in motion.  
+   - Justification: Similar to frame 41, this frame maintains the action but doesn't show a pivotal moment like a goal or close save. Rated **80**.
+
+9. **Frame 43 (Rating: 75)**  
+   - Content: Gameplay with players moving through the field.  
+   - Justification: This frame is less intense than frames 40–42, as it doesn't focus on a critical moment. Rated **75**.
+
+10. **Frame 44 (Rating: 70)**  
+    - Content: A close-up of two players competing for the ball.  
+    - Justification: While engaging, this frame lacks the broader context of a goal-scoring opportunity or dramatic play. Rated **70**. 
+
+---
+
+### Summary
+
+Frames highlighting key players, trophies, or action-packed moments receive the highest ratings, as they are the most visually and emotionally engaging. Coaching interactions and less intense gameplay moments receive moderate scores.
+
+###################################################
+###################################################
+
+9 ['./dataset/youtube/video_31529/tmp/0.png', './dataset/youtube/video_31529/tmp/13.png', './dataset/youtube/video_31529/tmp/16.png', './dataset/youtube/video_31529/tmp/19.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/frames/45.png', './dataset/youtube/video_31529/frames/46.png', './dataset/youtube/video_31529/frames/47.png', './dataset/youtube/video_31529/frames/48.png', './dataset/youtube/video_31529/frames/49.png']
+### Keywords for Attracting Viewers:
+- **Real Madrid**, **Deportivo**, **4-0 Victory**, **Cristiano Ronaldo**, **Soccer Highlights**, **Team Celebration**, **Match Analysis**, **Goals**, **Teresa Herrera Trophy**, **Football Action**.
+
+---
+
+### JSON Output:
+
+```json
+[
+    {"frame": 0, "rating": 70},
+    {"frame": 13, "rating": 78},
+    {"frame": 16, "rating": 60},
+    {"frame": 19, "rating": 55},
+    {"frame": 24, "rating": 95},
+    {"frame": 45, "rating": 85},
+    {"frame": 46, "rating": 80},
+    {"frame": 47, "rating": 80},
+    {"frame": 48, "rating": 75},
+    {"frame": 49, "rating": 75}
+]
+```
+
+---
+
+### Analysis and Rating Explanation:
+
+1. **Frame 0**:
+   - **Content**: Team photo of Real Madrid players.
+   - **Analysis**: A group photo of the team is engaging, especially for Real Madrid fans. It represents unity and a celebratory moment, but lacks dynamic action.
+   - **Rating**: 70 (Good but not highly exciting).
+
+2. **Frame 13**:
+   - **Content**: Players walking onto the field with a crowd in the background.
+   - **Analysis**: The moment of players entering the field creates excitement and builds anticipation for the match.
+   - **Rating**: 78 (More engaging due to the pre-match atmosphere).
+
+3. **Frame 16**:
+   - **Content**: Close-up of a coach (likely Carlo Ancelotti) smiling.
+   - **Analysis**: While relevant to fans, this frame lacks action or broader appeal.
+   - **Rating**: 60 (Moderately interesting).
+
+4. **Frame 19**:
+   - **Content**: Coaches discussing tactics.
+   - **Analysis**: This tactical moment may appeal to die-hard fans or analysts but lacks widespread excitement.
+   - **Rating**: 55 (Less engaging).
+
+5. **Frame 24**:
+   - **Content**: Back view of Cristiano Ronaldo with his iconic "Ronaldo 7" jersey.
+   - **Analysis**: A highlight for fans, as Ronaldo is a major star and his presence alone generates interest.
+   - **Rating**: 95 (Highly engaging and iconic).
+
+6. **Frame 45**:
+   - **Content**: Real Madrid player in action against Deportivo.
+   - **Analysis**: Dynamic gameplay appeals to viewers, showcasing the intensity of the match.
+   - **Rating**: 85 (Exciting action moment).
+
+7. **Frame 46**:
+   - **Content**: Wide-field view with gameplay in progress.
+   - **Analysis**: Provides context to the match but less focused on individual action.
+   - **Rating**: 80 (Good field perspective).
+
+8. **Frame 47**:
+   - **Content**: Similar wide-field view with active gameplay.
+   - **Analysis**: Comparable to Frame 46, showing game intensity.
+   - **Rating**: 80 (Consistent with prior gameplay scene).
+
+9. **Frame 48**:
+   - **Content**: Wider perspective of the field during play.
+   - **Analysis**: In-game moment, but less focused on specific players or decisive action.
+   - **Rating**: 75 (Moderately engaging).
+
+10. **Frame 49**:
+    - **Content**: Continuation of gameplay with a focus on midfield action.
+    - **Analysis**: Similar to Frame 48; shows ongoing match dynamics but lacks a highlight moment.
+    - **Rating**: 75 (Solid but not thrilling).
+
+---
+
+These ratings are based on the balance of action, iconic moments, and overall engagement potential for soccer fans. Frames with dynamic gameplay or star players, like Ronaldo, naturally score higher.
+
+###################################################
+###################################################
+
+10 ['./dataset/youtube/video_31529/tmp/9.png', './dataset/youtube/video_31529/tmp/12.png', './dataset/youtube/video_31529/tmp/19.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/45.png', './dataset/youtube/video_31529/frames/50.png', './dataset/youtube/video_31529/frames/51.png', './dataset/youtube/video_31529/frames/52.png', './dataset/youtube/video_31529/frames/53.png', './dataset/youtube/video_31529/frames/54.png']
+### Step 1: Keywords to Attract Viewers
+From the video information, keywords that may attract viewers are:
+- **Real Madrid**
+- **Goals**
+- **Football/Soccer**
+- **Cristiano Ronaldo**
+- **Deportivo**
+- **Teresa Herrera**
+- **Match Highlights**
+
+### Step 2: JSON Output with Ratings
+
+```json
+[
+    {"frame": 9, "rating": 65},
+    {"frame": 12, "rating": 80},
+    {"frame": 19, "rating": 55},
+    {"frame": 24, "rating": 95},
+    {"frame": 45, "rating": 85},
+    {"frame": 50, "rating": 70},
+    {"frame": 51, "rating": 72},
+    {"frame": 52, "rating": 75},
+    {"frame": 53, "rating": 78},
+    {"frame": 54, "rating": 90}
+]
+```
+
+---
+
+### Step 3: Image Analysis and Explanation of Ratings
+
+1. **Frame 9 (Rating: 65)**  
+   This frame shows the Teresa Herrera trophy, which is symbolic and interesting for fans of the event or tournament. However, it’s not action-packed, so the rating is moderate.
+
+2. **Frame 12 (Rating: 80)**  
+   Players walking out onto the field is a moment of anticipation, showing the start of the match. The presence of Real Madrid players increases its appeal, resulting in a high rating.
+
+3. **Frame 19 (Rating: 55)**  
+   A casual moment of discussion between coaching staff. While it provides some behind-the-scenes insight, it’s less engaging than action-packed or celebratory frames.
+
+4. **Frame 24 (Rating: 95)**  
+   Cristiano Ronaldo is prominently featured with his iconic jersey number visible. This is highly appealing to fans of Ronaldo and Real Madrid, making it one of the most interesting frames.
+
+5. **Frame 45 (Rating: 85)**  
+   This frame captures in-game action with players actively involved. It’s dynamic and engaging, appealing to viewers interested in the match’s critical moments.
+
+6. **Frame 50 (Rating: 70)**  
+   This appears to show a developing play on the field. While not as climactic as a goal, it still holds interest due to the tension of the moment.
+
+7. **Frame 51 (Rating: 72)**  
+   The play intensifies with players moving closer to the goal. The increased anticipation slightly boosts its rating compared to Frame 50.
+
+8. **Frame 52 (Rating: 75)**  
+   The action gets closer to the goal area, heightening the excitement. This is a key moment in the game, warranting a higher score.
+
+9. **Frame 53 (Rating: 78)**  
+   The attacking team is now in a critical scoring position. The tension and engagement are high, making it more compelling than the preceding frames.
+
+10. **Frame 54 (Rating: 90)**  
+    This frame likely depicts the scoring moment or a near-goal attempt. Such moments are highly engaging and among the most interesting highlights of any match.
+
+###################################################
+###################################################
+
+11 ['./dataset/youtube/video_31529/tmp/19.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/27.png', './dataset/youtube/video_31529/tmp/29.png', './dataset/youtube/video_31529/tmp/51.png', './dataset/youtube/video_31529/frames/55.png', './dataset/youtube/video_31529/frames/56.png', './dataset/youtube/video_31529/frames/57.png', './dataset/youtube/video_31529/frames/58.png', './dataset/youtube/video_31529/frames/59.png']
+### Keywords Summary
+
+Based on the video information, the following keywords may attract viewers:
+- **Real Madrid**: Iconic football team.
+- **Ronaldo**: Famous player.
+- **Goals**: Highlights of scoring moments.
+- **Football/Soccer**: General sport keywords.
+- **Deportivo**: Opponent team.
+- **Teresa Herrera**: Tournament name.
+- **Players**: Specific mentions like Isco, Morata, etc.
+
+---
+
+### JSON Rating Output
+
+```json
+[
+    {"frame": 19, "rating": 55},
+    {"frame": 24, "rating": 95},
+    {"frame": 27, "rating": 68},
+    {"frame": 29, "rating": 63},
+    {"frame": 51, "rating": 72},
+    {"frame": 55, "rating": 85},
+    {"frame": 56, "rating": 90},
+    {"frame": 57, "rating": 92},
+    {"frame": 58, "rating": 80},
+    {"frame": 59, "rating": 75}
+]
+```
+
+---
+
+### Analysis and Rating Explanation
+
+1. **Frame 19 (Rating: 55)**  
+   - Content: Two coaches discussing on the bench.  
+   - Explanation: While interesting to fans following the tactics, it lacks the high-action appeal of gameplay or goals. Fixed rating of 55.
+
+2. **Frame 24 (Rating: 95)**  
+   - Content: Close-up of Ronaldo with his iconic jersey.  
+   - Explanation: Ronaldo is a globally recognized figure in football, and his presence significantly boosts viewer interest. Fixed rating of 95.
+
+3. **Frame 27 (Rating: 68)**  
+   - Content: Close-up of Isco during the game.  
+   - Explanation: Isco is a notable player, but his popularity does not match Ronaldo's. Hence, it is rated lower. Fixed rating of 68.
+
+4. **Frame 29 (Rating: 63)**  
+   - Content: Close-up of Morata during the game.  
+   - Explanation: Similar to Isco but slightly less impactful due to relative fame. Fixed rating of 63.
+
+5. **Frame 51 (Rating: 72)**  
+   - Content: Wide shot of the field showing an attacking play.  
+   - Explanation: Gameplay action is visually engaging, particularly for fans interested in team dynamics.
+
+6. **Frame 55 (Rating: 85)**  
+   - Content: A player is about to shoot on goal.  
+   - Explanation: The anticipation of a goal is exciting for viewers, making it a high-interest moment.
+
+7. **Frame 56 (Rating: 90)**  
+   - Content: A goal-scoring moment (ball heading towards the net).  
+   - Explanation: Goals are peak moments in football, and this frame captures the essence of the action.
+
+8. **Frame 57 (Rating: 92)**  
+   - Content: The ball scores, and players react.  
+   - Explanation: The celebration of a goal is exhilarating for fans, slightly more engaging than the shot itself.
+
+9. **Frame 58 (Rating: 80)**  
+   - Content: Close-up of a celebrating player.  
+   - Explanation: Celebrations are thrilling but less impactful than the actual goal-scoring moment.
+
+10. **Frame 59 (Rating: 75)**  
+    - Content: Continuation of celebrations with teammates.  
+    - Explanation: Team celebrations are engaging but become less dynamic over time compared to the initial goal reaction.
+
+###################################################
+###################################################
+
+12 ['./dataset/youtube/video_31529/tmp/12.png', './dataset/youtube/video_31529/tmp/19.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/32.png', './dataset/youtube/video_31529/tmp/51.png', './dataset/youtube/video_31529/frames/60.png', './dataset/youtube/video_31529/frames/61.png', './dataset/youtube/video_31529/frames/62.png', './dataset/youtube/video_31529/frames/63.png', './dataset/youtube/video_31529/frames/64.png']
+### Step 1: Keywords Summary
+Based on the video information, the following keywords are likely to attract viewers:
+- Real Madrid
+- Football
+- Soccer
+- Goals
+- Cristiano Ronaldo
+- Deportivo
+- Teresa Herrera
+- Match Highlights
+- Victory
+
+### Step 2: JSON Ratings
+
+```json
+[
+    {"frame": 12, "rating": 80},
+    {"frame": 19, "rating": 55},
+    {"frame": 24, "rating": 95},
+    {"frame": 32, "rating": 64},
+    {"frame": 51, "rating": 72},
+    {"frame": 60, "rating": 70},
+    {"frame": 61, "rating": 92},
+    {"frame": 62, "rating": 90},
+    {"frame": 63, "rating": 30},
+    {"frame": 64, "rating": 85}
+]
+```
+
+---
+
+### Step 3: Analysis and Explanation of Ratings
+
+1. **Frame 12 (Rating: 80, Fixed)**  
+   **Analysis**: This frame shows players entering the field, which is typically an exciting moment for fans as it builds anticipation for the match. The fixed rating of 80 reflects this moment’s significance.
+
+2. **Frame 19 (Rating: 55, Fixed)**  
+   **Analysis**: A conversation between two team staff members (likely coaches) on the bench. While it provides insight into strategy, it is less visually engaging compared to action moments, hence the lower fixed score.
+
+3. **Frame 24 (Rating: 95, Fixed)**  
+   **Analysis**: Featuring the back of Ronaldo's jersey, this frame highlights one of the most iconic players in football history. This fixed rating reflects the immense interest fans have in Ronaldo.
+
+4. **Frame 32 (Rating: 64, Fixed)**  
+   **Analysis**: This frame shows Carvajal with opposing players in the background. While it captures a moment of interaction and has some contextual interest, it’s less engaging compared to goal or action shots.
+
+5. **Frame 51 (Rating: 72)**  
+   **Analysis**: A midfield action shot showing players positioning themselves for a play. This frame captures the dynamics of the game and offers moderate excitement, slightly higher than Frame 32 due to the action depicted.
+
+6. **Frame 60 (Rating: 70)**  
+   **Analysis**: A close-up shot of a player (likely a substitution or tactical discussion). While moderately interesting, it lacks the energy of frames showing goals or key actions.
+
+7. **Frame 61 (Rating: 92)**  
+   **Analysis**: A group celebration after a goal, featuring multiple Real Madrid players, including Ronaldo. This is a highly engaging moment as it captures the emotion and excitement of the match.
+
+8. **Frame 62 (Rating: 90)**  
+   **Analysis**: This frame shows Ronaldo in action, preparing for a significant play. It’s highly engaging due to the focus on one of football’s legends and the anticipation it creates.
+
+9. **Frame 63 (Rating: 30)**  
+   **Analysis**: An empty field section, likely a transitional or unintentional frame. This lacks any significant content and has the lowest score.
+
+10. **Frame 64 (Rating: 85)**  
+    **Analysis**: A dynamic action shot featuring a player controlling the ball near the opponent's goal. This highlights skill and anticipation, making it visually appealing and engaging.
+
+---
+
+### Summary
+Frames involving Ronaldo (24, 62), celebrations (61), and dynamic plays (64, 51) score the highest due to their appeal to football fans. Frames with less action or focus on non-playing moments (19, 60, 63) score lower. The fixed ratings for Frames 12, 19, 24, and 32 were incorporated as anchors for the relative scoring.
+
+###################################################
+###################################################
+
+13 ['./dataset/youtube/video_31529/tmp/4.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/27.png', './dataset/youtube/video_31529/tmp/51.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/frames/65.png', './dataset/youtube/video_31529/frames/66.png', './dataset/youtube/video_31529/frames/67.png', './dataset/youtube/video_31529/frames/68.png', './dataset/youtube/video_31529/frames/69.png']
+### Keywords Summary:
+- **Keywords**: Real Madrid, Ronaldo, Isco, goals, victory, trophy, football highlights, match moments, soccer action, Teresa Herrera.
+
+### JSON Output:
+```json
+[
+    {"frame": 4, "rating": 85},
+    {"frame": 24, "rating": 95},
+    {"frame": 27, "rating": 68},
+    {"frame": 51, "rating": 72},
+    {"frame": 63, "rating": 30},
+    {"frame": 65, "rating": 80},
+    {"frame": 66, "rating": 90},
+    {"frame": 67, "rating": 78},
+    {"frame": 68, "rating": 76},
+    {"frame": 69, "rating": 74}
+]
+```
+
+### Analysis and Explanation:
+
+1. **Frame 4: Rating 85 (Fixed)**
+   - **Analysis**: This image shows the Real Madrid team posing with the Teresa Herrera trophy. It highlights the team's achievement and is highly engaging for fans of the club. The rating is justified and remains fixed.
+
+2. **Frame 24: Rating 95 (Fixed)**
+   - **Analysis**: A close-up shot of Ronaldo, one of the most iconic players in football history, wearing his famous number 7 jersey. This frame is highly appealing due to Ronaldo's immense popularity and significance in the game. The rating is fixed at an appropriate level.
+
+3. **Frame 27: Rating 68 (Fixed)**
+   - **Analysis**: A close-up of Isco, another prominent player. While notable, it doesn’t carry the same level of high interest as Ronaldo’s frame. The fixed rating reflects this secondary but still valuable interest.
+
+4. **Frame 51: Rating 72**
+   - **Analysis**: This frame captures a dynamic game moment with players running towards the goal. Such action shots are appealing to fans who enjoy the thrill of soccer matches. Rated slightly higher than Isco's frame but lower than trophy or Ronaldo-focused frames.
+
+5. **Frame 63: Rating 30 (Fixed)**
+   - **Analysis**: A blurry image with no identifiable content, making it the least engaging. The fixed low rating is appropriate due to the lack of visual or contextual significance.
+
+6. **Frame 65: Rating 80**
+   - **Analysis**: A clear shot of a player controlling the ball near the goal area. This action shot hints at a scoring opportunity, which is inherently interesting to viewers. Rated high but below Ronaldo and the trophy frames.
+
+7. **Frame 66: Rating 90**
+   - **Analysis**: A goal moment with the ball entering the net. This is one of the most exciting moments in a football match, making it highly engaging for viewers. Rated just below Ronaldo's frame due to its universal appeal.
+
+8. **Frame 67: Rating 78**
+   - **Analysis**: A tactical build-up scene with players positioning themselves for an attack. While engaging, it lacks the excitement of a goal moment and is rated slightly lower than Frame 66.
+
+9. **Frame 68: Rating 76**
+   - **Analysis**: A continuation of the attack build-up, still interesting but slightly less impactful as it doesn’t capture a decisive moment like Frame 66.
+
+10. **Frame 69: Rating 74**
+    - **Analysis**: Another scene from the build-up of an attack. While it maintains viewer interest, it is rated slightly lower than Frames 67 and 68 due to diminishing novelty as the sequence progresses.
+
+###################################################
+###################################################
+
+14 ['./dataset/youtube/video_31529/tmp/12.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/51.png', './dataset/youtube/video_31529/tmp/60.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/frames/70.png', './dataset/youtube/video_31529/frames/71.png', './dataset/youtube/video_31529/frames/72.png', './dataset/youtube/video_31529/frames/73.png', './dataset/youtube/video_31529/frames/74.png']
+### Step 1: Keywords for Viewers
+Based on the video information, keywords that may attract viewers include:
+- **Real Madrid**
+- **Goal Highlights**
+- **Deportivo**
+- **Cristiano Ronaldo**
+- **Football/Soccer Match**
+- **Victory**
+- **Teresa Herrera Trophy**
+
+These keywords emphasize the excitement of the match, the dominance of Real Madrid, and the star players involved.
+
+---
+
+### Step 2: JSON Ratings
+
+```json
+[
+    {"frame": 12, "rating": 80},
+    {"frame": 24, "rating": 95},
+    {"frame": 51, "rating": 72},
+    {"frame": 60, "rating": 70},
+    {"frame": 63, "rating": 30},
+    {"frame": 70, "rating": 85},
+    {"frame": 71, "rating": 88},
+    {"frame": 72, "rating": 90},
+    {"frame": 73, "rating": 92},
+    {"frame": 74, "rating": 87}
+]
+```
+
+---
+
+### Step 3: Analysis and Ratings Explanation
+
+1. **Frame 12 (Rating: 80)**  
+   - **Content:** Players walking onto the field, showcasing the team and the atmosphere of the match.  
+   - **Analysis:** A good starter frame with recognizable team players and crowd energy. Rated high for setting the stage but not the most exciting moment.
+
+2. **Frame 24 (Rating: 95)**  
+   - **Content:** Close-up of Cristiano Ronaldo's jersey, emphasizing his presence.  
+   - **Analysis:** A highly exciting frame due to the focus on Ronaldo, a key figure and fan favorite. The fixed rating reflects the frame's significance.
+
+3. **Frame 51 (Rating: 72)**  
+   - **Content:** Action shot of Real Madrid players advancing with the ball.  
+   - **Analysis:** A dynamic moment, showing a potential goal opportunity. Rated moderately high for the gameplay action but lacks a decisive moment.
+
+4. **Frame 60 (Rating: 70)**  
+   - **Content:** A player walking with others in the background.  
+   - **Analysis:** Less action-oriented but still relevant to the progression of the game. Rated lower than gameplay moments.
+
+5. **Frame 63 (Rating: 30)**  
+   - **Content:** Empty field with no visible players or action.  
+   - **Analysis:** A dull frame with no significant action or context. Rated the lowest.
+
+6. **Frame 70 (Rating: 85)**  
+   - **Content:** A goal-scoring opportunity with players near the goal box.  
+   - **Analysis:** Exciting moment as tension builds toward a potential goal. Rated high for the engaging gameplay.
+
+7. **Frame 71 (Rating: 88)**  
+   - **Content:** Players in a critical position, close to scoring.  
+   - **Analysis:** Builds upon the excitement of the previous frame, with the action intensifying. Rated slightly higher.
+
+8. **Frame 72 (Rating: 90)**  
+   - **Content:** A shot on goal with the goalkeeper reacting.  
+   - **Analysis:** A climactic moment of action. Rated very high for the dramatic gameplay.
+
+9. **Frame 73 (Rating: 92)**  
+   - **Content:** Follow-through of a goal attempt, focusing on the decisive moment.  
+   - **Analysis:** A peak moment in the sequence. Rated just slightly higher than the previous frame for the importance of the action.
+
+10. **Frame 74 (Rating: 87)**  
+    - **Content:** Aftermath of the action, showing the players' reactions.  
+    - **Analysis:** While still engaging, it slightly dips in excitement compared to the decisive moments before it.
+
+---
+
+### Summary
+Frames 70-73 form the most exciting sequence, showing critical gameplay moments. Frame 24 is highly rated due to Ronaldo's prominence, while frame 63 is the least interesting due to a lack of action.
+
+###################################################
+###################################################
+
+15 ['./dataset/youtube/video_31529/tmp/4.png', './dataset/youtube/video_31529/tmp/5.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/57.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/frames/75.png', './dataset/youtube/video_31529/frames/76.png', './dataset/youtube/video_31529/frames/77.png', './dataset/youtube/video_31529/frames/78.png', './dataset/youtube/video_31529/frames/79.png']
+### Keywords to Attract Viewers:
+Based on the video information:
+- **Keywords**: "Real Madrid," "victory," "4-0," "trophy celebration," "Cristiano Ronaldo," "goals," "Teresa Herrera," "football highlights," "Deportivo vs Real Madrid," "soccer action."
+
+---
+
+### JSON Output of Ratings:
+
+```json
+[
+    {"frame": 4, "rating": 85},
+    {"frame": 5, "rating": 75},
+    {"frame": 24, "rating": 95},
+    {"frame": 57, "rating": 92},
+    {"frame": 63, "rating": 30},
+    {"frame": 75, "rating": 90},
+    {"frame": 76, "rating": 87},
+    {"frame": 77, "rating": 83},
+    {"frame": 78, "rating": 82},
+    {"frame": 79, "rating": 80}
+]
+```
+
+---
+
+### Analysis and Explanation of Ratings:
+
+1. **Frame 4 (Rating: 85)**  
+   - **Content**: Team photo with the trophy.  
+   - **Analysis**: Depicts a celebratory moment with the entire Real Madrid squad and the trophy. This is highly engaging for fans but slightly less dynamic compared to in-game action.  
+   - **Fixed Rating**: 85.
+
+2. **Frame 5 (Rating: 75)**  
+   - **Content**: Close-up of the trophy.  
+   - **Analysis**: Appeals to viewers interested in the awards but lacks action or player involvement, making it less engaging than team celebrations.  
+   - **Fixed Rating**: 75.
+
+3. **Frame 24 (Rating: 95)**  
+   - **Content**: Back view of Cristiano Ronaldo with his name and jersey number.  
+   - **Analysis**: Ronaldo is a global icon, and this frame directly highlights him, making it the most engaging for fans.  
+   - **Fixed Rating**: 95.
+
+4. **Frame 57 (Rating: 92)**  
+   - **Content**: A goal-scoring moment with the ball entering the net.  
+   - **Analysis**: Captures the essence of football excitement—scoring a goal. The emotion and action make this frame very engaging, second only to Ronaldo's frame.  
+   - **Fixed Rating**: 92.
+
+5. **Frame 63 (Rating: 30)**  
+   - **Content**: A blank or unclear green field.  
+   - **Analysis**: Lacks players, action, or context, making it the least engaging frame.  
+   - **Fixed Rating**: 30.
+
+6. **Frame 75 (Rating: 90)**  
+   - **Content**: A goalkeeper attempting to save a shot.  
+   - **Analysis**: Displays intense action and suspense, which is highly captivating for viewers. Slightly less engaging than a goal moment.  
+
+7. **Frame 76 (Rating: 87)**  
+   - **Content**: A diving goalkeeper unable to save the ball.  
+   - **Analysis**: Follows the action in Frame 75, with a clear focus on the dramatic save attempt. Slightly less engaging than the goal-scoring frame.  
+
+8. **Frame 77 (Rating: 83)**  
+   - **Content**: A player celebrating after scoring a goal.  
+   - **Analysis**: Celebratory moments are engaging but slightly less intense than the action leading up to the goal.  
+
+9. **Frame 78 (Rating: 82)**  
+   - **Content**: A wide view of players moving towards the goal.  
+   - **Analysis**: Shows build-up action, which is engaging but not as intense as close-up or scoring moments.  
+
+10. **Frame 79 (Rating: 80)**  
+    - **Content**: Continuation of the attacking play.  
+    - **Analysis**: Similar to Frame 78, with engaging play-building action, but lacks the climax of a goal or save.  
+
+---
+
+This rating structure emphasizes exciting moments like goals, iconic player highlights, and team celebrations while downgrading static or unclear frames.
+
+###################################################
+###################################################
+
+16 ['./dataset/youtube/video_31529/tmp/16.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/51.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/69.png', './dataset/youtube/video_31529/frames/80.png', './dataset/youtube/video_31529/frames/81.png', './dataset/youtube/video_31529/frames/82.png', './dataset/youtube/video_31529/frames/83.png', './dataset/youtube/video_31529/frames/84.png']
+### Step 1: Keywords for Analysis
+Based on the video title, categories, and tags, the following keywords are identified to attract viewers:
+- **Real Madrid**, **Football**, **Soccer**, **Goals**, **Ronaldo**, **Deportivo**, **Highlights**, **Teresa Herrera Trophy**.
+
+### Step 2: JSON Response with Ratings
+```json
+[
+    {"frame": 16, "rating": 60},
+    {"frame": 24, "rating": 95},
+    {"frame": 51, "rating": 72},
+    {"frame": 63, "rating": 30},
+    {"frame": 69, "rating": 74},
+    {"frame": 80, "rating": 78},
+    {"frame": 81, "rating": 80},
+    {"frame": 82, "rating": 85},
+    {"frame": 83, "rating": 88},
+    {"frame": 84, "rating": 90}
+]
+```
+
+---
+
+### Step 3: Analysis and Justification of Ratings
+
+#### **Frame 16**
+- **Content**: A coach or staff member appears in a casual moment, likely during a pre-match or post-match interaction.
+- **Keywords Match**: Limited connection to the excitement of the match itself.
+- **Rating**: Fixed at **60**.
+
+---
+
+#### **Frame 24**
+- **Content**: The back of Ronaldo's jersey is featured prominently, showcasing his iconic "7."
+- **Keywords Match**: Ronaldo is a star figure for Real Madrid, which grabs significant attention.
+- **Rating**: Fixed at **95**.
+
+---
+
+#### **Frame 51**
+- **Content**: A wide-angle view of active gameplay with Real Madrid on the attack.
+- **Keywords Match**: Gameplay action fits the theme of football highlights but lacks a close-up or dramatic moment.
+- **Rating**: Fixed at **72**.
+
+---
+
+#### **Frame 63**
+- **Content**: A blurry or unclear frame with minimal visible content.
+- **Keywords Match**: Very low relevance to the theme of exciting gameplay or dramatic moments.
+- **Rating**: Fixed at **30**.
+
+---
+
+#### **Frame 69**
+- **Content**: A mid-field action shot with players from both teams actively engaged.
+- **Keywords Match**: Decent relevance to football highlights but slightly less exciting than a goal attempt.
+- **Rating**: Fixed at **74**.
+
+---
+
+#### **Frame 80**
+- **Content**: A build-up to an attack near Deportivo's goal area. The tension of a scoring opportunity is evident.
+- **Keywords Match**: Strong anticipation of a goal-scoring moment, keeping viewers engaged.
+- **Rating**: **78**.
+
+---
+
+#### **Frame 81**
+- **Content**: A closer approach to goal, with players set up for a potential strike.
+- **Keywords Match**: High relevance, as it builds further tension toward a scoring highlight.
+- **Rating**: **80**.
+
+---
+
+#### **Frame 82**
+- **Content**: The ball is about to be struck toward the goal, a critical moment in the gameplay.
+- **Keywords Match**: Highly engaging, as it represents a decisive moment in the match.
+- **Rating**: **85**.
+
+---
+
+#### **Frame 83**
+- **Content**: The ball is in the goal, showcasing a confirmed score.
+- **Keywords Match**: Extremely relevant, as goals are the peak highlights in football.
+- **Rating**: **88**.
+
+---
+
+#### **Frame 84**
+- **Content**: Players and fans celebrating the goal, adding emotional intensity.
+- **Keywords Match**: Celebrations are a vital part of match highlights, generating excitement.
+- **Rating**: **90**.
+
+###################################################
+###################################################
+
+17 ['./dataset/youtube/video_31529/tmp/19.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/51.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/68.png', './dataset/youtube/video_31529/frames/85.png', './dataset/youtube/video_31529/frames/86.png', './dataset/youtube/video_31529/frames/87.png', './dataset/youtube/video_31529/frames/88.png', './dataset/youtube/video_31529/frames/89.png']
+### Step 1: Keywords to Attract Viewers
+Based on the video background, some keywords to attract viewers could include:
+- **Real Madrid**, **Deportivo**, **Football**, **Soccer**, **Goals**, **Highlights**, **Cristiano Ronaldo**, **Victory**, **Teresa Herrera Trophy**, **4-0 Win**.
+
+### Step 2: JSON Ratings for Frames
+Using the fixed ratings as anchors, the remaining frames are scored relatively based on their content and viewer interest factor:
+
+```json
+[
+    {"frame": 19, "rating": 55},
+    {"frame": 24, "rating": 95},
+    {"frame": 51, "rating": 72},
+    {"frame": 63, "rating": 30},
+    {"frame": 68, "rating": 76},
+    {"frame": 85, "rating": 88},
+    {"frame": 86, "rating": 88},
+    {"frame": 87, "rating": 90},
+    {"frame": 88, "rating": 90},
+    {"frame": 89, "rating": 80}
+]
+```
+
+---
+
+### Step 3: Analysis and Explanation of Ratings
+
+1. **Frame 19 (Rating: 55)**  
+   - **Content**: Two coaches (likely Real Madrid's staff) discussing strategy on the bench.  
+   - **Analysis**: While this provides context, it is less action-packed than gameplay or celebrations. Fixed rating of 55 reflects moderate interest.
+
+2. **Frame 24 (Rating: 95)**  
+   - **Content**: Cristiano Ronaldo from the back with his iconic number 7 jersey.  
+   - **Analysis**: Ronaldo is a global star, and this frame's rating is fixed at 95, representing high viewer interest.
+
+3. **Frame 51 (Rating: 72)**  
+   - **Content**: A wide-angle shot of gameplay, showing Real Madrid players advancing with the ball.  
+   - **Analysis**: Gameplay shots are engaging but lack the emotional or iconic appeal of other frames like goals or celebrations.
+
+4. **Frame 63 (Rating: 30)**  
+   - **Content**: A blurred shot of the field with little discernible action.  
+   - **Analysis**: Fixed rating of 30 reflects low interest due to lack of clear focus or action.
+
+5. **Frame 68 (Rating: 76)**  
+   - **Content**: A close-up of gameplay with a potential scoring opportunity for Real Madrid.  
+   - **Analysis**: Action-focused and engaging, showing an exciting moment. Rated higher than general gameplay but lower than goals or celebrations.
+
+6. **Frame 85 (Rating: 88)**  
+   - **Content**: A goal-scoring moment with the ball entering the net.  
+   - **Analysis**: Fixed rating of 88 indicates high interest, as goals are the highlight of any match.
+
+7. **Frame 86 (Rating: 88)**  
+   - **Content**: Continuation of the goal scene, showing post-goal reactions.  
+   - **Analysis**: Similar in excitement to frame 85, hence the same fixed rating.
+
+8. **Frame 87 (Rating: 90)**  
+   - **Content**: Players celebrating after scoring, showing emotion and camaraderie.  
+   - **Analysis**: Celebrations resonate strongly with viewers, earning a slightly higher score than goal moments.
+
+9. **Frame 88 (Rating: 90)**  
+   - **Content**: Continuation of the celebration scene with players interacting.  
+   - **Analysis**: Equally engaging as the previous frame due to the emotional connection of celebrations.
+
+10. **Frame 89 (Rating: 80)**  
+    - **Content**: A Real Madrid player skillfully dribbling the ball.  
+    - **Analysis**: While skill displays are captivating, they are less iconic than goals or celebrations, leading to a slightly lower score. 
+
+---
+
+### Summary
+The ratings are distributed based on the fixed anchors and relative interest levels of the frames. Goal-related and celebration scenes score the highest, followed by gameplay and strategy discussions.
+
+###################################################
+###################################################
+
+18 ['./dataset/youtube/video_31529/tmp/5.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/27.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/78.png', './dataset/youtube/video_31529/frames/90.png', './dataset/youtube/video_31529/frames/91.png', './dataset/youtube/video_31529/frames/92.png', './dataset/youtube/video_31529/frames/93.png', './dataset/youtube/video_31529/frames/94.png']
+### Keywords Summary:
+Based on the video title, categories, and tags, the following keywords can attract viewers:
+- **Real Madrid**, **Deportivo**
+- **Goals**, **Football**, **Soccer**
+- **Cristiano Ronaldo**, **Isco**
+- **Teresa Herrera Trophy**
+- **Action**, **Victory**, **Celebration**
+
+### JSON Ratings:
+```json
+[
+    {"frame": 5, "rating": 75},
+    {"frame": 24, "rating": 95},
+    {"frame": 27, "rating": 68},
+    {"frame": 63, "rating": 30},
+    {"frame": 78, "rating": 82},
+    {"frame": 90, "rating": 88},
+    {"frame": 91, "rating": 90},
+    {"frame": 92, "rating": 92},
+    {"frame": 93, "rating": 92},
+    {"frame": 94, "rating": 85}
+]
+```
+
+### Analysis and Explanation:
+
+1. **Frame 5**: Fixed rating of 75.  
+   This frame shows the **Teresa Herrera Trophy**, which is significant for fans and symbolizes victory. Its established rating reflects moderate interest.
+
+2. **Frame 24**: Fixed rating of 95.  
+   This frame highlights **Ronaldo** prominently, one of the most famous football players. It naturally garners high interest due to his global recognition and impact in the game.
+
+3. **Frame 27**: Fixed rating of 68.  
+   This frame shows **Isco**, a notable player but less globally iconic than Ronaldo. The score reflects moderate interest.
+
+4. **Frame 63**: Rating 30.  
+   This frame mostly displays a plain green field with no notable action or players. It is the least interesting frame, as it lacks any engaging elements.
+
+5. **Frame 78**: Rating 82.  
+   This frame captures a dynamic **match moment**, showing players in action on the field. Action shots generally attract more interest.
+
+6. **Frame 90**: Rating 88.  
+   A close-up of a goal-scoring moment, with the ball near the net. This frame is highly engaging as it captures the essence of the game—scoring goals.
+
+7. **Frame 91**: Rating 90.  
+   Similar to frame 90 but even closer to the decisive moment of the ball entering the net. The slight increase in score reflects this.
+
+8. **Frame 92**: Rating 92.  
+   This frame shows the exact moment the ball crosses the goal line. It’s the climax of a goal-scoring sequence, making it very interesting.
+
+9. **Frame 93**: Rating 92.  
+   Continuation of the goal-scoring moment, still very engaging. The rating remains consistent with frame 92.
+
+10. **Frame 94**: Rating 85.  
+    This frame shows the goal-scoring moment from a wider perspective, including players and the crowd. While it’s exciting, the wider view reduces the intensity slightly compared to the close-ups.
+
+The ratings are distributed to reflect the relative engagement levels, with fixed scores serving as reference points for the other frames.
+
+###################################################
+###################################################
+
+19 ['./dataset/youtube/video_31529/tmp/9.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/27.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/71.png', './dataset/youtube/video_31529/frames/95.png', './dataset/youtube/video_31529/frames/96.png', './dataset/youtube/video_31529/frames/97.png', './dataset/youtube/video_31529/frames/98.png', './dataset/youtube/video_31529/frames/99.png']
+### Step 1: Keywords to Attract Viewers
+Based on the video information, the following keywords may attract viewers:
+- **"Real Madrid," "Deportivo," "4-0," "goals," "highlights," "Cristiano Ronaldo," "Isco," "Teresa Herrera Trophy," "football," "soccer," "match moments," "goal celebration."**
+
+These keywords emphasize the team, players, scoreline, and iconic moments, which are likely to appeal to fans.
+
+---
+
+### Step 2: JSON Rating Output
+
+```json
+[
+    {"frame": 9, "rating": 65},
+    {"frame": 24, "rating": 95},
+    {"frame": 27, "rating": 68},
+    {"frame": 63, "rating": 30},
+    {"frame": 71, "rating": 88},
+    {"frame": 95, "rating": 90},
+    {"frame": 96, "rating": 89},
+    {"frame": 97, "rating": 85},
+    {"frame": 98, "rating": 84},
+    {"frame": 99, "rating": 83}
+]
+```
+
+---
+
+### Step 3: Analysis and Rating Explanation
+
+1. **Frame 9 (Rating: 65)**  
+   - **Content:** A trophy is displayed, likely the Teresa Herrera Trophy.  
+   - **Analysis:** The trophy scene is moderately interesting as it represents the importance of the match but does not directly engage fans as much as action-packed moments.  
+   - **Rating Justification:** Fixed rating of 65.
+
+2. **Frame 24 (Rating: 95)**  
+   - **Content:** Cristiano Ronaldo, a globally recognized player, is shown with his name and iconic "7" jersey.  
+   - **Analysis:** Ronaldo is highly popular, and his presence significantly boosts viewer interest.  
+   - **Rating Justification:** Fixed rating of 95.
+
+3. **Frame 27 (Rating: 68)**  
+   - **Content:** Isco, another notable player, is shown.  
+   - **Analysis:** While Isco is a prominent player, his popularity does not reach Ronaldo’s level, making this frame slightly less engaging.  
+   - **Rating Justification:** Fixed rating of 68.
+
+4. **Frame 63 (Rating: 30)**  
+   - **Content:** A plain green field with little to no action.  
+   - **Analysis:** This frame lacks any engaging content, making it the least interesting.  
+   - **Rating Justification:** Fixed rating of 30.
+
+5. **Frame 71 (Rating: 88)**  
+   - **Content:** A shot on goal with multiple players in action.  
+   - **Analysis:** Action moments like shots on goal are very engaging as they highlight the intensity of the match.  
+   - **Rating Justification:** High score reflects the exciting gameplay moment.
+
+6. **Frame 95 (Rating: 90)**  
+   - **Content:** A goal celebration begins, with players and fans reacting.  
+   - **Analysis:** Goal celebrations are emotionally impactful and highly engaging for viewers.  
+   - **Rating Justification:** Higher score due to the emotional and celebratory nature of the frame.
+
+7. **Frame 96 (Rating: 89)**  
+   - **Content:** Continuation of the goal celebration.  
+   - **Analysis:** Slightly less impactful than the initial celebration but still engaging.  
+   - **Rating Justification:** Slightly lower score than Frame 95 due to reduced novelty.
+
+8. **Frame 97 (Rating: 85)**  
+   - **Content:** Players regroup after the celebration.  
+   - **Analysis:** This frame transitions away from the high-energy moment, leading to a somewhat lower interest level.  
+   - **Rating Justification:** Lower score compared to the celebration frames.
+
+9. **Frame 98 (Rating: 84)**  
+   - **Content:** Players begin dispersing after the celebration.  
+   - **Analysis:** The excitement diminishes further as the moment concludes.  
+   - **Rating Justification:** Reduced score reflects the declining emotional intensity.
+
+10. **Frame 99 (Rating: 83)**  
+    - **Content:** Players return to their positions.  
+    - **Analysis:** This frame marks the end of the celebratory period, losing much of the engagement.  
+    - **Rating Justification:** The lowest score among the celebration-related frames, as it lacks action or emotional impact.
+
+---
+
+### Summary
+The ratings prioritize action sequences, iconic players, and emotional moments like goal celebrations. Frames with plain or transitional content naturally score lower. Fixed ratings are maintained for consistency.
+
+###################################################
+###################################################
+
+20 ['./dataset/youtube/video_31529/tmp/0.png', './dataset/youtube/video_31529/tmp/4.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/25.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/frames/100.png', './dataset/youtube/video_31529/frames/101.png', './dataset/youtube/video_31529/frames/102.png', './dataset/youtube/video_31529/frames/103.png', './dataset/youtube/video_31529/frames/104.png']
+### Keywords:
+Based on the video information, the following keywords are likely to attract viewers: **Real Madrid**, **Cristiano Ronaldo**, **football**, **soccer**, **match highlights**, **Deportivo**, **Teresa Herrera Trophy**, **goals**, **4-0 victory**, **team celebration**, and **sports action**.
+
+### JSON Rating Output:
+```json
+[
+    {"frame": 0, "rating": 70},
+    {"frame": 4, "rating": 85},
+    {"frame": 24, "rating": 95},
+    {"frame": 25, "rating": 70},
+    {"frame": 63, "rating": 30},
+    {"frame": 100, "rating": 80},
+    {"frame": 101, "rating": 80},
+    {"frame": 102, "rating": 80},
+    {"frame": 103, "rating": 80},
+    {"frame": 104, "rating": 75}
+]
+```
+
+---
+
+### Analysis and Explanation:
+
+#### **Frame 0**:
+- **Content**: The Real Madrid team is in a group, likely posing for a photo. The frame appears cluttered with overlapping content, slightly reducing its visual appeal.
+- **Rating**: 70
+  - The team presence is interesting, but the clutter detracts from its impact.
+
+#### **Frame 4**:
+- **Content**: A clear team photo of Real Madrid players with a trophy prominently displayed in the foreground.
+- **Rating**: 85
+  - The clarity, trophy presence, and celebratory nature make this frame highly appealing.
+
+#### **Frame 24**:
+- **Content**: A close-up of Cristiano Ronaldo with his iconic "Ronaldo 7" jersey visible from the back.
+- **Rating**: 95
+  - Ronaldo is a highly recognizable and influential figure, making this frame extremely engaging for football fans.
+
+#### **Frame 25**:
+- **Content**: A close-up of other players, but without much action or emotion visible.
+- **Rating**: 70
+  - The frame is moderately interesting, but lacks the star power and dynamic appeal.
+
+#### **Frame 63**:
+- **Content**: A blank green field with no visible players or action.
+- **Rating**: 30
+  - This frame is the least interesting as it does not contribute to the narrative or excitement.
+
+#### **Frames 100-103**:
+- **Content**: Players celebrating a goal near the goalpost, with some interaction visible between teammates.
+- **Rating**: 80
+  - These frames capture the essence of the game (goal celebration), making them exciting for viewers.
+
+#### **Frame 104**:
+- **Content**: A close-up of players celebrating, with visible emotions and interaction after a goal.
+- **Rating**: 75
+  - The frame is engaging but slightly less dynamic compared to the previous celebration frames.
+
+---
+
+This analysis considers the visual appeal, relevance to football fans, and the presence of key figures and actions in the frames.
+
+###################################################
+###################################################
+
+21 ['./dataset/youtube/video_31529/tmp/19.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/32.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/68.png', './dataset/youtube/video_31529/frames/105.png', './dataset/youtube/video_31529/frames/106.png', './dataset/youtube/video_31529/frames/107.png', './dataset/youtube/video_31529/frames/108.png', './dataset/youtube/video_31529/frames/109.png']
+### Step 1: Keywords Analysis
+Based on the video information, the keywords that may attract viewers are:
+- **Real Madrid**
+- **Deportivo**
+- **Ronaldo**
+- **Goals**
+- **Highlights**
+- **Football**
+- **Soccer**
+- **Match Action**
+- **Victory**
+
+### Step 2: JSON Rating Output
+```json
+[
+    {"frame": 19, "rating": 55},
+    {"frame": 24, "rating": 95},
+    {"frame": 32, "rating": 64},
+    {"frame": 63, "rating": 30},
+    {"frame": 68, "rating": 76},
+    {"frame": 105, "rating": 85},
+    {"frame": 106, "rating": 82},
+    {"frame": 107, "rating": 88},
+    {"frame": 108, "rating": 90},
+    {"frame": 109, "rating": 92}
+]
+```
+
+### Step 3: Frame Analysis and Rating Explanation
+
+1. **Frame 19** (Rating: 55, Fixed):
+   - **Content**: Two Real Madrid staff members in discussion on the bench.
+   - **Analysis**: While it shows behind-the-scenes moments, it is less action-packed compared to other frames.
+
+2. **Frame 24** (Rating: 95, Fixed):
+   - **Content**: Ronaldo, a key player, wearing the iconic number 7 jersey.
+   - **Analysis**: High interest due to the prominence of Ronaldo, a fan-favorite and globally recognized football star.
+
+3. **Frame 32** (Rating: 64, Fixed):
+   - **Content**: Carvajal in focus with Deportivo players in the background.
+   - **Analysis**: Shows player interaction, but less iconic than Ronaldo or goal-related moments.
+
+4. **Frame 63** (Rating: 30, Fixed):
+   - **Content**: A plain green field with no visible action.
+   - **Analysis**: Least interesting frame due to lack of visible players or action.
+
+5. **Frame 68** (Rating: 76):
+   - **Content**: A wide-angle shot of an ongoing attack near the penalty area.
+   - **Analysis**: Captures the action of the game, with potential for a goal-scoring opportunity.
+
+6. **Frame 105** (Rating: 85):
+   - **Content**: Players celebrating near the goalpost.
+   - **Analysis**: Celebrations are highly engaging and signify a scoring moment, increasing viewer interest.
+
+7. **Frame 106** (Rating: 82):
+   - **Content**: A player shooting towards the goal.
+   - **Analysis**: Captures the intensity of goal-scoring action but lacks the emotional impact of celebration.
+
+8. **Frame 107** (Rating: 88):
+   - **Content**: A close-up of players in the penalty box during an action-packed moment.
+   - **Analysis**: Highlights the tension and excitement of the game, making it highly engaging.
+
+9. **Frame 108** (Rating: 90):
+   - **Content**: A dynamic moment near the goal with multiple players involved.
+   - **Analysis**: High viewer interest due to the proximity to the goal and potential scoring.
+
+10. **Frame 109** (Rating: 92):
+    - **Content**: A player leaping high for a header near the goal.
+    - **Analysis**: The athleticism and potential for scoring make this frame highly captivating, but slightly less impactful than Ronaldo's frame.
+
+###################################################
+###################################################
+
+22 ['./dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/57.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/68.png', './dataset/youtube/video_31529/tmp/74.png', './dataset/youtube/video_31529/frames/110.png', './dataset/youtube/video_31529/frames/111.png', './dataset/youtube/video_31529/frames/112.png', './dataset/youtube/video_31529/frames/113.png', './dataset/youtube/video_31529/frames/114.png']
+### Step 1: Summarize Keywords
+Based on the video information, the following keywords may attract viewers:
+- **Real Madrid**, **Cristiano Ronaldo**, **football goals**, **Teresa Herrera**, **Deportivo**, **victory**, **soccer highlights**, **4-0 match**, **exciting plays**, **sports action**.
+
+### Step 2: Assign Ratings to Frames
+Here is the JSON output with the ratings:
+
+```json
+[
+    {"frame": 24, "rating": 95},
+    {"frame": 57, "rating": 92},
+    {"frame": 63, "rating": 30},
+    {"frame": 68, "rating": 76},
+    {"frame": 74, "rating": 87},
+    {"frame": 110, "rating": 90},
+    {"frame": 111, "rating": 85},
+    {"frame": 112, "rating": 50},
+    {"frame": 113, "rating": 55},
+    {"frame": 114, "rating": 53}
+]
+```
+
+---
+
+### Step 3: Analyze Each Frame and Explain Ratings
+
+1. **Frame 24**:
+   - **Content**: Close-up of Cristiano Ronaldo, an iconic player for Real Madrid.
+   - **Rating**: Fixed at 95. This is an extremely engaging frame for soccer fans, as Ronaldo's presence is a major highlight.
+
+2. **Frame 57**:
+   - **Content**: Dramatic goal scored with the ball inside the net. Action-packed and thrilling.
+   - **Rating**: Fixed at 92. Goals are the peak moments in matches, making this frame highly interesting.
+
+3. **Frame 63**:
+   - **Content**: A plain, green field with no significant action.
+   - **Rating**: Fixed at 30. A low-interest frame as it lacks action or context.
+
+4. **Frame 68**:
+   - **Content**: Mid-action frame showing players in a competitive scenario.
+   - **Rating**: 76. While not as impactful as a goal, it captures dynamic gameplay, appealing to viewers.
+
+5. **Frame 74**:
+   - **Content**: A near-goal moment with players in intense action near the penalty area.
+   - **Rating**: 87. The tension and anticipation of this scene make it engaging for fans.
+
+6. **Frame 110**:
+   - **Content**: A spectacular jump by a Real Madrid player attempting a header.
+   - **Rating**: 90. This frame showcases athleticism and intensity, making it highly appealing.
+
+7. **Frame 111**:
+   - **Content**: A follow-up to the header attempt, focusing on the ball's trajectory and players.
+   - **Rating**: 85. Slightly less impactful than the jump, but still engaging due to the context.
+
+8. **Frame 112**:
+   - **Content**: Players walking off the field, indicating a transition moment.
+   - **Rating**: 50. This frame lacks action and excitement, making it moderately interesting.
+
+9. **Frame 113**:
+   - **Content**: Similar to Frame 112, showing players in a casual moment.
+   - **Rating**: 55. Slightly higher due to better composition and player interaction.
+
+10. **Frame 114**:
+    - **Content**: Continuation of the post-match scene, with no new elements added.
+    - **Rating**: 53. Slightly less interesting than Frame 113, as it feels repetitive.
+
+---
+
+### Summary
+Frames with direct action (goals, near-goals, or iconic players) received higher ratings, while static or transitional moments scored lower. Fixed ratings were respected and served as benchmarks for relative scoring.
+
+###################################################
+###################################################
+
+23 ['./dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/27.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/68.png', './dataset/youtube/video_31529/tmp/74.png', './dataset/youtube/video_31529/frames/115.png', './dataset/youtube/video_31529/frames/116.png', './dataset/youtube/video_31529/frames/117.png', './dataset/youtube/video_31529/frames/118.png', './dataset/youtube/video_31529/frames/119.png']
+### Keywords Summary
+Based on the video information, the following keywords may attract viewers:
+- **Real Madrid**, **Deportivo**, **goals**, **Teresa Herrera**, **football highlights**, **soccer match**, **Ronaldo**, **Isco**, **Özil**, **action**, **intense moments**, **4-0 victory**.
+
+---
+
+### JSON Ratings
+
+```json
+[
+    {"frame": 24, "rating": 95},
+    {"frame": 27, "rating": 68},
+    {"frame": 63, "rating": 30},
+    {"frame": 68, "rating": 76},
+    {"frame": 74, "rating": 87},
+    {"frame": 115, "rating": 50},
+    {"frame": 116, "rating": 40},
+    {"frame": 117, "rating": 45},
+    {"frame": 118, "rating": 60},
+    {"frame": 119, "rating": 65}
+]
+```
+
+---
+
+### Analysis of Each Frame and Ratings Explanation
+
+1. **Frame 24 (Rating: 95)**:
+   - **Content**: The frame prominently features "Ronaldo" with his iconic number 7 jersey, which is highly engaging for Real Madrid fans and football enthusiasts.
+   - **Reasoning**: Ronaldo's global popularity makes this frame extremely interesting. The fixed high rating (95) reflects this.
+
+2. **Frame 27 (Rating: 68)**:
+   - **Content**: Features "Isco," another well-known player, though not as globally iconic as Ronaldo.
+   - **Reasoning**: While this frame is appealing, it is relatively less interesting compared to Frame 24. The fixed rating (68) aligns with this assessment.
+
+3. **Frame 63 (Rating: 30)**:
+   - **Content**: A blank green field without significant action or players.
+   - **Reasoning**: Lacks engaging content, making it the least interesting among all frames. The fixed rating (30) is appropriate.
+
+4. **Frame 68 (Rating: 76)**:
+   - **Content**: Displays an active gameplay moment with players from both teams near the goal.
+   - **Reasoning**: Gameplay frames are naturally more exciting. The fixed rating (76) reflects the importance of game action.
+
+5. **Frame 74 (Rating: 87)**:
+   - **Content**: A close-up of intense action with multiple players near the goal and a potential scoring moment.
+   - **Reasoning**: Intense moments closer to the goal attract more attention, making this frame more interesting than Frame 68. The fixed rating (87) matches this.
+
+6. **Frame 115 (Rating: 50)**:
+   - **Content**: Players walking, possibly post-match or during a pause.
+   - **Reasoning**: While it includes players, the lack of action reduces its appeal. A mid-range rating (50) is appropriate.
+
+7. **Frame 116 (Rating: 40)**:
+   - **Content**: A player bending down, possibly in preparation or recovery.
+   - **Reasoning**: The frame is less engaging due to the lack of dynamic action or player recognition. A slightly lower rating (40) reflects this.
+
+8. **Frame 117 (Rating: 45)**:
+   - **Content**: Similar to Frame 116 but includes more context of the player.
+   - **Reasoning**: Slightly more engaging than Frame 116, resulting in a marginally higher score (45).
+
+9. **Frame 118 (Rating: 60)**:
+   - **Content**: Displays "Özil" prominently, a recognized player with his number 10 jersey.
+   - **Reasoning**: Özil’s visibility and recognition make this frame more engaging than Frames 115-117. A rating of 60 reflects this.
+
+10. **Frame 119 (Rating: 65)**:
+    - **Content**: A clearer view of "Özil" with focus on the player against the background of the crowd.
+    - **Reasoning**: Slightly more appealing than Frame 118 due to better framing and clarity. A score of 65 is appropriate.
+
+---
+
+### Summary
+The ratings are based on the relative interestingness of the frames, considering the fixed ratings as baselines. Frames featuring iconic players (e.g., Ronaldo, Özil) or intense gameplay moments naturally score higher.
+
+###################################################
+###################################################
+
+24 ['./dataset/youtube/video_31529/tmp/13.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/51.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/117.png', './dataset/youtube/video_31529/frames/120.png', './dataset/youtube/video_31529/frames/121.png', './dataset/youtube/video_31529/frames/122.png', './dataset/youtube/video_31529/frames/123.png', './dataset/youtube/video_31529/frames/124.png']
+### Keywords for Attracting Viewers:
+Based on the video information, the following keywords are likely to attract viewers:
+
+- **Real Madrid**
+- **Deportivo**
+- **Football**
+- **Soccer**
+- **Goals**
+- **Cristiano Ronaldo**
+- **Teresa Herrera**
+- **Match Highlights**
+- **4-0 Victory**
+
+### JSON Rating Output:
+```json
+[
+    {"frame": 13, "rating": 78},
+    {"frame": 24, "rating": 95},
+    {"frame": 51, "rating": 72},
+    {"frame": 63, "rating": 30},
+    {"frame": 117, "rating": 45},
+    {"frame": 120, "rating": 50},
+    {"frame": 121, "rating": 55},
+    {"frame": 122, "rating": 60},
+    {"frame": 123, "rating": 70},
+    {"frame": 124, "rating": 80}
+]
+```
+
+### Analysis and Explanation of Ratings:
+
+1. **Frame 13 (Rating: 78 - Fixed):**
+   - This frame shows the players entering the field, highlighting the team and the match's atmosphere. It is significant for setting up the context and engaging viewers with the team lineup. The score is fixed at 78.
+
+2. **Frame 24 (Rating: 95 - Fixed):**
+   - This frame prominently displays Cristiano Ronaldo, one of the most famous football players. His presence is a major attraction for football fans, and the fixed score of 95 reflects the high level of interest this frame generates.
+
+3. **Frame 51 (Rating: 72 - Fixed):**
+   - This frame shows action on the field, with players running and the ball in play. It reflects game dynamics and is attractive to viewers interested in gameplay. The score is fixed at 72.
+
+4. **Frame 63 (Rating: 30 - Fixed):**
+   - This frame is less visually engaging, showing an uninteresting part of the field with no significant action. The fixed score of 30 reflects its lower appeal.
+
+5. **Frame 117 (Rating: 45):**
+   - This frame captures a player bending over, possibly after a play. While it conveys some player activity, it lacks the excitement of a goal or dynamic action. The relative score of 45 reflects its moderate interest.
+
+6. **Frame 120 (Rating: 50):**
+   - This frame shows the game in progress from a distant perspective. It offers context but lacks specific focal points of interest, such as goals or close-up action.
+
+7. **Frame 121 (Rating: 55):**
+   - This frame starts to show more structured gameplay, with players positioned dynamically. The score is slightly higher than the previous frame to reflect increased viewer interest in the unfolding action.
+
+8. **Frame 122 (Rating: 60):**
+   - This frame builds on the previous frame, showing more coordinated gameplay and a potential setup for an attack. The interest level is higher, hence the score of 60.
+
+9. **Frame 123 (Rating: 70):**
+   - This frame depicts a more exciting moment as action intensifies, with a potential goal-scoring opportunity developing. The score reflects the increasing viewer engagement.
+
+10. **Frame 124 (Rating: 80):**
+    - This frame captures a key moment of gameplay, possibly leading to a goal. The increased tension and excitement make it one of the higher-rated frames, second only to the highly engaging moments like Ronaldo's frame.
+
+###################################################
+###################################################
+
+25 ['./dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/29.png', './dataset/youtube/video_31529/tmp/32.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/114.png', './dataset/youtube/video_31529/frames/125.png', './dataset/youtube/video_31529/frames/126.png', './dataset/youtube/video_31529/frames/127.png', './dataset/youtube/video_31529/frames/128.png', './dataset/youtube/video_31529/frames/129.png']
+### Keywords for Attracting Viewers:
+Based on the video title, categories, and tags, the following keywords can attract viewers:
+- Real Madrid
+- Cristiano Ronaldo
+- Goals
+- Football/Soccer highlights
+- Deportivo vs. Real Madrid
+- Teresa Herrera
+- Amazing goals
+- Victory celebration
+
+### JSON Ratings:
+```json
+[
+    {"frame": 24, "rating": 95},
+    {"frame": 29, "rating": 63},
+    {"frame": 32, "rating": 64},
+    {"frame": 63, "rating": 30},
+    {"frame": 114, "rating": 53},
+    {"frame": 125, "rating": 85},
+    {"frame": 126, "rating": 88},
+    {"frame": 127, "rating": 90},
+    {"frame": 128, "rating": 92},
+    {"frame": 129, "rating": 91}
+]
+```
+
+### Analysis of Each Image and Explanation of Ratings:
+
+1. **Frame 24 (Rating: 95)**  
+   - **Content**: Cristiano Ronaldo's jersey prominently displayed.  
+   - **Reasoning**: Ronaldo is a highly recognized football icon. This frame appeals to fans and creates excitement. Its fixed rating of 95 reflects its high interestingness.
+
+2. **Frame 29 (Rating: 63)**  
+   - **Content**: Morata's jersey is visible.  
+   - **Reasoning**: While Morata is a known player, he does not generate the same level of excitement as Ronaldo. The fixed rating of 63 reflects moderate interest.
+
+3. **Frame 32 (Rating: 64)**  
+   - **Content**: Carvajal's jersey is visible, with other players in the background.  
+   - **Reasoning**: Similar to Frame 29, this frame showcases a lesser-known player. The fixed rating of 64 is slightly higher due to more visible player interaction.
+
+4. **Frame 63 (Rating: 30)**  
+   - **Content**: A plain green field with no significant action.  
+   - **Reasoning**: This frame is the least interesting as it lacks any player or game action. Its fixed rating of 30 reflects this.
+
+5. **Frame 114 (Rating: 53)**  
+   - **Content**: A group of Real Madrid players, engaging in casual interaction.  
+   - **Reasoning**: While it shows multiple players, the lack of action or a specific highlight makes this moderately engaging.
+
+6. **Frame 125 (Rating: 85)**  
+   - **Content**: Players running towards the goal, with a clear sense of action building up.  
+   - **Reasoning**: This frame shows the prelude to an exciting moment (goal or key play), which increases viewer interest.
+
+7. **Frame 126 (Rating: 88)**  
+   - **Content**: The action is closer to the goal, with players and the goalkeeper in focus.  
+   - **Reasoning**: The tension and proximity to a scoring moment make this frame more engaging than Frame 125.
+
+8. **Frame 127 (Rating: 90)**  
+   - **Content**: A player is about to score, with the ball near the goal.  
+   - **Reasoning**: The peak of action captures significant interest, as it likely depicts a pivotal moment in the game.
+
+9. **Frame 128 (Rating: 92)**  
+   - **Content**: The ball is in the net, clearly showing a goal scored.  
+   - **Reasoning**: A scored goal is one of the most exciting parts of a match, making this frame highly engaging.
+
+10. **Frame 129 (Rating: 91)**  
+    - **Content**: The immediate aftermath of the goal, with players reacting.  
+    - **Reasoning**: While slightly less exciting than the goal itself, the celebration and reactions still hold significant interest.
+
+### Summary:
+Frames showing iconic players (like Ronaldo) or key game moments (like goals) receive the highest ratings. Frames with lesser-known players or no visible action (like Frame 63) receive lower scores.
+
+###################################################
+###################################################
+
+26 ['./dataset/youtube/video_31529/tmp/13.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/69.png', './dataset/youtube/video_31529/tmp/74.png', './dataset/youtube/video_31529/frames/130.png', './dataset/youtube/video_31529/frames/131.png', './dataset/youtube/video_31529/frames/132.png', './dataset/youtube/video_31529/frames/133.png', './dataset/youtube/video_31529/frames/134.png']
+### Step 1: Keywords
+Based on the video information, here are some keywords that may attract viewers:
+- **Real Madrid**
+- **Deportivo**
+- **Goals**
+- **Football/Soccer**
+- **Teresa Herrera**
+- **Highlights**
+- **Cristiano Ronaldo**
+- **Victory**
+- **4-0**
+
+### Step 2: JSON Ratings
+
+```json
+[
+    {"frame": 13, "rating": 78},
+    {"frame": 24, "rating": 95},
+    {"frame": 63, "rating": 30},
+    {"frame": 69, "rating": 74},
+    {"frame": 74, "rating": 87},
+    {"frame": 130, "rating": 60},
+    {"frame": 131, "rating": 60},
+    {"frame": 132, "rating": 60},
+    {"frame": 133, "rating": 89},
+    {"frame": 134, "rating": 92}
+]
+```
+
+### Step 3: Analysis and Explanation
+
+#### Frame 13 (Rating: 78)
+- **Content**: Players entering the field, with a clear focus on Real Madrid players and a stadium atmosphere.
+- **Reason**: This is an engaging moment as it sets the scene for the match. The fixed score of 78 reflects the moderate interest in a pre-match buildup.
+
+#### Frame 24 (Rating: 95)
+- **Content**: Cristiano Ronaldo's jersey with his iconic number "7" is prominently displayed.
+- **Reason**: Ronaldo is a globally recognized player, and this frame highlights his presence, which attracts high viewer interest. The fixed rating of 95 reflects this popularity.
+
+#### Frame 63 (Rating: 30)
+- **Content**: A blank green field with no visible players or action.
+- **Reason**: This frame lacks any engaging content and is appropriately rated with a low fixed score of 30.
+
+#### Frame 69 (Rating: 74)
+- **Content**: Gameplay action showing Deportivo attacking Real Madrid's defense.
+- **Reason**: Action scenes are generally more engaging, but this is less dramatic compared to a scoring moment. The fixed score of 74 reflects its moderate interest.
+
+#### Frame 74 (Rating: 87)
+- **Content**: A critical moment as Deportivo attempts to score against Real Madrid.
+- **Reason**: The frame captures the intensity of an in-game situation, leading to a high fixed rating of 87.
+
+#### Frames 130, 131, 132 (Rating: 60)
+- **Content**: The scoreboard showing a dominant 4-0 victory for Real Madrid.
+- **Reason**: While the scoreboard demonstrates the match's outcome, it lacks dynamic action. These frames are rated consistently at 60 to reflect their informational rather than engaging nature.
+
+#### Frame 133 (Rating: 89)
+- **Content**: Real Madrid players in a goal-scoring situation, with the goalkeeper visibly preparing for a save attempt.
+- **Reason**: This is a critical and exciting moment in the match. The dynamic action makes this frame highly engaging, earning a score of 89.
+
+#### Frame 134 (Rating: 92)
+- **Content**: A closer moment of the goal-scoring action, with the ball nearing the goal.
+- **Reason**: The culmination of a scoring opportunity is highly engaging, making this frame one of the highlights of the video, earning a high score of 92.
+
+###################################################
+###################################################
+
+27 ['./dataset/youtube/video_31529/tmp/12.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/111.png', './dataset/youtube/video_31529/tmp/112.png', './dataset/youtube/video_31529/frames/135.png', './dataset/youtube/video_31529/frames/136.png', './dataset/youtube/video_31529/frames/137.png', './dataset/youtube/video_31529/frames/138.png', './dataset/youtube/video_31529/frames/139.png']
+### Step 1: Keywords Analysis
+Based on the video information, the following keywords are most likely to attract viewers:
+- **Real Madrid**
+- **Cristiano Ronaldo**
+- **Goals**
+- **Highlights**
+- **Football/Soccer**
+- **Deportivo**
+- **Victory**
+- **Match Event**
+- **Teresa Herrera**
+
+These keywords focus on major players, goals, match highlights, and the victory. 
+
+### Step 2: JSON Ratings and Explanation
+
+```json
+[
+    {"frame": 12, "rating": 80},
+    {"frame": 24, "rating": 95},
+    {"frame": 63, "rating": 30},
+    {"frame": 111, "rating": 85},
+    {"frame": 112, "rating": 50},
+    {"frame": 135, "rating": 90},
+    {"frame": 136, "rating": 70},
+    {"frame": 137, "rating": 75},
+    {"frame": 138, "rating": 75},
+    {"frame": 139, "rating": 65}
+]
+```
+
+### Explanation of Ratings:
+
+1. **Frame 12 (Rating: 80)**:
+   - Fixed rating. This frame shows players entering the pitch, indicating the start of the match, which is an engaging moment. The crowd and players create excitement.
+
+2. **Frame 24 (Rating: 95)**:
+   - Fixed rating. This frame highlights Cristiano Ronaldo, one of the most famous players, making it highly interesting for fans. It’s a focal point for Real Madrid supporters.
+
+3. **Frame 63 (Rating: 30)**:
+   - Fixed rating. The frame shows an uninteresting segment with a plain green field and no action. It scores the lowest.
+
+4. **Frame 111 (Rating: 85)**:
+   - Fixed rating. This frame captures a goal moment or a scene near the goalpost, which is an exciting and crucial part of the match.
+
+5. **Frame 112 (Rating: 50)**:
+   - Fixed rating. It shows players interacting post-goal or during a transition. The scene is moderately engaging but lacks dramatic action.
+
+6. **Frame 135 (Rating: 90)**:
+   - Shows the ball entering the net, representing a goal. Goals are highlights of football matches, making this frame highly interesting, second only to Ronaldo’s frame.
+
+7. **Frame 136 (Rating: 70)**:
+   - Focuses on a Deportivo player, which might interest Deportivo fans. However, it lacks the same level of engagement as Real Madrid highlights.
+
+8. **Frame 137 (Rating: 75)**:
+   - Shows Benzema, a prominent Real Madrid player, in action. This appeals to fans but isn’t as dramatic as a goal or Ronaldo.
+
+9. **Frame 138 (Rating: 75)**:
+   - Another frame of a Real Madrid player in motion, similar to Frame 137. It maintains the same level of interest.
+
+10. **Frame 139 (Rating: 65)**:
+    - Focuses on a less prominent player, Jose Rodriguez. While it’s still engaging for fans, it’s less interesting compared to Frames 137 and 138.
+
+### Conclusion:
+The fixed ratings were adhered to, and the remaining frames were rated based on their relative importance and engagement level. Dramatic action (goals and key players) received the highest ratings, while less dynamic scenes scored lower.
+
+###################################################
+###################################################
+
+28 ['./dataset/youtube/video_31529/tmp/5.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/96.png', './dataset/youtube/video_31529/tmp/117.png', './dataset/youtube/video_31529/frames/140.png', './dataset/youtube/video_31529/frames/141.png', './dataset/youtube/video_31529/frames/142.png', './dataset/youtube/video_31529/frames/143.png', './dataset/youtube/video_31529/frames/144.png']
+### Keywords:
+Based on the video information, these keywords might attract viewers:
+- **Real Madrid**, **Deportivo**, **football**, **soccer**, **goals**, **big win**, **Teresa Herrera**, **match highlights**, **Ronaldo**, **team victory**, **trophy celebration**.
+
+### JSON Ratings:
+```json
+[
+    {"frame": 5, "rating": 75},
+    {"frame": 24, "rating": 95},
+    {"frame": 63, "rating": 30},
+    {"frame": 96, "rating": 89},
+    {"frame": 117, "rating": 45},
+    {"frame": 140, "rating": 70},
+    {"frame": 141, "rating": 70},
+    {"frame": 142, "rating": 85},
+    {"frame": 143, "rating": 85},
+    {"frame": 144, "rating": 85}
+]
+```
+
+### Analysis and Explanation:
+
+1. **Frame 5: Rating 75 (Fixed)**  
+   - Content: A trophy is prominently displayed, symbolizing victory and achievement. This is highly engaging for sports fans as it highlights a moment of accomplishment.  
+   - Rating: Fixed at 75.
+
+2. **Frame 24: Rating 95 (Fixed)**  
+   - Content: A close-up of a famous player wearing the iconic "Ronaldo 7" jersey. This appeals to Real Madrid and Ronaldo fans, significantly boosting interest.  
+   - Rating: Fixed at 95.
+
+3. **Frame 63: Rating 30 (Fixed)**  
+   - Content: A plain view of the field with no significant action or focus. This is less engaging compared to other frames.  
+   - Rating: Fixed at 30.
+
+4. **Frame 96: Rating 89 (Fixed)**  
+   - Content: A goal-scoring moment, showcasing players near the goalpost with action unfolding. This is exciting and captures the essence of the match.  
+   - Rating: Fixed at 89.
+
+5. **Frame 117: Rating 45**  
+   - Content: A player is seen adjusting or crouching, which lacks the dynamic or emotional appeal of other frames.  
+   - Rating: Slightly higher than frame 63 but less engaging than others, rated at 45.
+
+6. **Frame 140: Rating 70**  
+   - Content: A player is captured in a celebratory or intense moment, which is moderately engaging but not as thrilling as a goal-scoring scene.  
+   - Rating: 70.
+
+7. **Frame 141: Rating 70**  
+   - Content: Continuation of frame 140, maintaining a similar intensity and appeal.  
+   - Rating: 70.
+
+8. **Frame 142: Rating 85**  
+   - Content: A free-kick moment, showing anticipation and action. This is an exciting frame for fans, as it builds tension.  
+   - Rating: 85.
+
+9. **Frame 143: Rating 85**  
+   - Content: A continuation of the free-kick action, keeping the same level of interest as frame 142.  
+   - Rating: 85.
+
+10. **Frame 144: Rating 85**  
+    - Content: The ball approaching the goal, concluding the free-kick sequence. The excitement level remains high, as it shows the culmination of the play.  
+    - Rating: 85.
+
+###################################################
+###################################################
+
+29 ['./dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/69.png', './dataset/youtube/video_31529/tmp/77.png', './dataset/youtube/video_31529/tmp/78.png', './dataset/youtube/video_31529/frames/145.png', './dataset/youtube/video_31529/frames/146.png', './dataset/youtube/video_31529/frames/147.png', './dataset/youtube/video_31529/frames/148.png', './dataset/youtube/video_31529/frames/149.png']
+### Step 1: Keywords Extraction
+Based on the video information, the following keywords may attract viewers:
+- **Real Madrid**
+- **Deportivo**
+- **Cristiano Ronaldo**
+- **Goals**
+- **Football Match**
+- **Teresa Herrera Trophy**
+- **Soccer**
+- **Highlights**
+
+---
+
+### Step 2: JSON Ratings Output
+
+```json
+[
+    {"frame": 24, "rating": 95},
+    {"frame": 63, "rating": 30},
+    {"frame": 69, "rating": 74},
+    {"frame": 77, "rating": 83},
+    {"frame": 78, "rating": 82},
+    {"frame": 145, "rating": 87},
+    {"frame": 146, "rating": 84},
+    {"frame": 147, "rating": 81},
+    {"frame": 148, "rating": 72},
+    {"frame": 149, "rating": 73}
+]
+```
+
+---
+
+### Step 3: Analysis of Each Frame and Explanation of Ratings
+
+1. **Frame 24 (Rating: 95)**  
+   - **Content**: Close-up shot of Cristiano Ronaldo with his iconic jersey number "7".  
+   - **Reasoning**: Ronaldo is a globally recognized football star, which guarantees high interest. The frame is already rated 95, and the score is fixed.
+
+2. **Frame 63 (Rating: 30)**  
+   - **Content**: A plain green pitch with no action visible.  
+   - **Reasoning**: This frame lacks any exciting elements, making it the least engaging. The fixed rating of 30 is appropriate.
+
+3. **Frame 69 (Rating: 74)**  
+   - **Content**: A wide shot showing active gameplay near the penalty area, with multiple players involved.  
+   - **Reasoning**: Gameplay action near the goal zone is moderately exciting and relevant to football fans. The fixed rating of 74 reflects this well.
+
+4. **Frame 77 (Rating: 83)**  
+   - **Content**: A close-up of a goal attempt with players and the goalkeeper in motion.  
+   - **Reasoning**: A goal attempt is a highlight moment in football, making this frame very engaging. The fixed rating of 83 is justified.
+
+5. **Frame 78 (Rating: 82)**  
+   - **Content**: A wide-angle view of gameplay showing Real Madrid attacking.  
+   - **Reasoning**: While slightly less dramatic than a close-up of a goal attempt, this frame still contains significant gameplay action. The fixed rating of 82 is appropriate.
+
+6. **Frame 145 (Rating: 87)**  
+   - **Content**: A moment of triumph with players celebrating near the goalpost.  
+   - **Reasoning**: Celebrations after a goal are pivotal moments in football highlights, making this frame highly engaging. A score of 87 aligns well with its content.
+
+7. **Frame 146 (Rating: 84)**  
+   - **Content**: A close-up of Iker Casillas, Real Madrid’s legendary goalkeeper.  
+   - **Reasoning**: Casillas is a prominent football figure, and his appearance adds significant interest. This frame is slightly less exciting than a goal moment, hence a rating of 84.
+
+8. **Frame 147 (Rating: 81)**  
+   - **Content**: Another shot of Casillas but in a less dynamic pose.  
+   - **Reasoning**: While still interesting due to the presence of a key player, this frame is less engaging compared to Frame 146, leading to a slightly lower score of 81.
+
+9. **Frame 148 (Rating: 72)**  
+   - **Content**: A wide midfield gameplay shot with no notable action.  
+   - **Reasoning**: Midfield action has less excitement compared to goal attempts or star player close-ups. The rating of 72 reflects its moderate appeal.
+
+10. **Frame 149 (Rating: 73)**  
+    - **Content**: A similar midfield gameplay shot but with a slight progression towards an attack.  
+    - **Reasoning**: Slightly more engaging than Frame 148 due to visible movement towards the attack, warranting a slightly higher score of 73.
+
+--- 
+
+### Conclusion
+The ratings are assigned based on the relative interest level of each frame, with fixed ratings serving as reference points. Frames featuring star players, goals, and celebrations receive higher ratings, while static or less dynamic frames are rated lower.
+
+###################################################
+###################################################
+
+30 ['./dataset/youtube/video_31529/tmp/4.png', './dataset/youtube/video_31529/tmp/17.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/57.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/frames/150.png', './dataset/youtube/video_31529/frames/151.png', './dataset/youtube/video_31529/frames/152.png', './dataset/youtube/video_31529/frames/153.png', './dataset/youtube/video_31529/frames/154.png']
+```json
+[
+    {"frame": 4, "rating": 85},
+    {"frame": 17, "rating": 62},
+    {"frame": 24, "rating": 95},
+    {"frame": 57, "rating": 92},
+    {"frame": 63, "rating": 30},
+    {"frame": 150, "rating": 75},
+    {"frame": 151, "rating": 78},
+    {"frame": 152, "rating": 80},
+    {"frame": 153, "rating": 83},
+    {"frame": 154, "rating": 88}
+]
+```
+
+### Analysis of Each Frame and Ratings:
+
+1. **Frame 4 (Rating: 85)**  
+   - **Content:** The Real Madrid team is posing with a trophy, celebrating their victory.  
+   - **Reasoning:** The scene is highly engaging for fans due to the display of success and camaraderie. The fixed rating reflects the emotional and celebratory significance.
+
+2. **Frame 17 (Rating: 62)**  
+   - **Content:** Real Madrid's coach is seen in a casual moment, engaging with someone.  
+   - **Reasoning:** While the moment is personal and candid, it is less action-packed and thus holds moderate interest. The fixed rating is appropriate.
+
+3. **Frame 24 (Rating: 95)**  
+   - **Content:** Close-up view of Ronaldo's jersey with his name and number prominently visible.  
+   - **Reasoning:** Ronaldo is an iconic figure, and showcasing his name resonates strongly with fans. The fixed high rating reflects his star power.
+
+4. **Frame 57 (Rating: 92)**  
+   - **Content:** A goal-scoring moment is captured, with the ball heading into the net.  
+   - **Reasoning:** Action-packed and thrilling for viewers, this frame highlights a pivotal moment in the match. The fixed rating aligns with its importance.
+
+5. **Frame 63 (Rating: 30)**  
+   - **Content:** A blurry, unclear frame with no discernible action or context.  
+   - **Reasoning:** The lack of clarity and action results in low engagement. The fixed rating reflects its low appeal.
+
+6. **Frame 150 (Rating: 75)**  
+   - **Content:** Players are seen in midfield, advancing with the ball.  
+   - **Reasoning:** This frame showcases gameplay but lacks the excitement of a goal or close-up action. A moderate score reflects its relevance.
+
+7. **Frame 151 (Rating: 78)**  
+   - **Content:** The ball is being passed forward, with players nearing the goal area.  
+   - **Reasoning:** The anticipation of a goal adds excitement, making it slightly more engaging than Frame 150.
+
+8. **Frame 152 (Rating: 80)**  
+   - **Content:** Players are closer to the goal, with increased action and intensity.  
+   - **Reasoning:** The ongoing attack creates tension and interest, warranting a higher score.
+
+9. **Frame 153 (Rating: 83)**  
+   - **Content:** The ball is about to be struck by a player, with defenders and the goalkeeper in position.  
+   - **Reasoning:** The moment before a potential goal is thrilling, increasing viewer engagement.
+
+10. **Frame 154 (Rating: 88)**  
+    - **Content:** A close-up moment of an imminent goal-scoring opportunity.  
+    - **Reasoning:** The culmination of the action builds to a peak, making this frame highly engaging and deserving of a higher score.
+
+###################################################
+###################################################
+
+31 ['./dataset/youtube/video_31529/tmp/18.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/27.png', './dataset/youtube/video_31529/tmp/57.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/frames/155.png', './dataset/youtube/video_31529/frames/156.png', './dataset/youtube/video_31529/frames/157.png', './dataset/youtube/video_31529/frames/158.png', './dataset/youtube/video_31529/frames/159.png']
+### Step 1: Keywords
+Based on the video title, categories, and tags, the relevant keywords that may attract viewers are:
+
+**Keywords:**  
+- Real Madrid  
+- Football/Soccer  
+- Goals  
+- Ronaldo  
+- Isco  
+- Teresa Herrera  
+- Deportivo  
+- Match Highlights  
+
+---
+
+### Step 2: JSON Ratings
+
+```json
+[
+    {"frame": 18, "rating": 58},
+    {"frame": 24, "rating": 95},
+    {"frame": 27, "rating": 68},
+    {"frame": 57, "rating": 92},
+    {"frame": 63, "rating": 30},
+    {"frame": 155, "rating": 85},
+    {"frame": 156, "rating": 90},
+    {"frame": 157, "rating": 88},
+    {"frame": 158, "rating": 75},
+    {"frame": 159, "rating": 72}
+]
+```
+
+---
+
+### Step 3: Analysis and Explanation of Ratings
+
+1. **Frame 18 (Rating: 58 - Fixed)**  
+   - **Content:** The frame shows a coach (likely Carlo Ancelotti of Real Madrid) sitting on the bench in discussion.  
+   - **Analysis:** While it provides a glimpse into the coaching dynamics, it lacks the excitement and action that viewers typically expect from match highlights.  
+
+2. **Frame 24 (Rating: 95 - Fixed)**  
+   - **Content:** Displays the back of a Real Madrid player with the name "Ronaldo" prominently visible.  
+   - **Analysis:** Ronaldo is one of football's most recognizable figures, and his presence significantly boosts viewer interest.  
+
+3. **Frame 27 (Rating: 68 - Fixed)**  
+   - **Content:** Features Isco, another Real Madrid player, in focus.  
+   - **Analysis:** Isco is a notable player, but his presence doesn't generate as much interest as Ronaldo.  
+
+4. **Frame 57 (Rating: 92 - Fixed)**  
+   - **Content:** Captures a goal-scoring moment with the ball entering the net.  
+   - **Analysis:** Goal highlights are a key attraction in football videos, and this frame captures the essence of the match's excitement.  
+
+5. **Frame 63 (Rating: 30 - Fixed)**  
+   - **Content:** Displays a blank green field with no action.  
+   - **Analysis:** This frame lacks any points of interest such as players, goals, or crowd reactions, making it the least engaging.  
+
+6. **Frame 155 (Rating: 85)**  
+   - **Content:** Shows an attacking moment with a Real Madrid player advancing toward the goal.  
+   - **Analysis:** Action moments with potential scoring opportunities are highly engaging, and this frame reflects the anticipation of such a moment.  
+
+7. **Frame 156 (Rating: 90)**  
+   - **Content:** Captures the follow-up of the attacking play, with the ball closer to the goal and heightened tension.  
+   - **Analysis:** This frame builds on the excitement of the previous frame, showing the culmination of the goal-scoring opportunity.  
+
+8. **Frame 157 (Rating: 88)**  
+   - **Content:** Displays the aftermath of a goal-scoring moment, with the ball in the net and players reacting.  
+   - **Analysis:** While it captures the excitement of a goal, it slightly lags behind the peak tension leading to the goal.  
+
+9. **Frame 158 (Rating: 75)**  
+   - **Content:** Shows players in a midfield play scenario, setting up an attack.  
+   - **Analysis:** Although it depicts gameplay, it lacks the immediate excitement of a goal or key player action.  
+
+10. **Frame 159 (Rating: 72)**  
+    - **Content:** Similar to Frame 158, it shows gameplay in progress.  
+    - **Analysis:** The frame is slightly less engaging than Frame 158 as it appears to be further removed from a decisive moment.  
+
+---
+
+### Summary
+
+The ratings reflect the relative interest levels of each frame, with fixed ratings serving as benchmarks. Frames with iconic players (e.g., Ronaldo) or high-intensity moments (e.g., goals) score higher, while static or less-action-packed frames score lower.
+
+###################################################
+###################################################
+
+32 ['./dataset/youtube/video_31529/tmp/12.png', './dataset/youtube/video_31529/tmp/18.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/129.png', './dataset/youtube/video_31529/frames/160.png', './dataset/youtube/video_31529/frames/161.png', './dataset/youtube/video_31529/frames/162.png', './dataset/youtube/video_31529/frames/163.png', './dataset/youtube/video_31529/frames/164.png']
+### Step 1: Summarize Keywords
+**Keywords**:  
+- Real Madrid  
+- Football  
+- Soccer  
+- Goals  
+- Ronaldo  
+- Match Highlights  
+- Teresa Herrera  
+- Deportivo  
+
+---
+
+### Step 2: JSON Ratings
+```json
+[
+    {"frame": 12, "rating": 80},
+    {"frame": 18, "rating": 58},
+    {"frame": 24, "rating": 95},
+    {"frame": 63, "rating": 30},
+    {"frame": 129, "rating": 91},
+    {"frame": 160, "rating": 50},
+    {"frame": 161, "rating": 55},
+    {"frame": 162, "rating": 60},
+    {"frame": 163, "rating": 65},
+    {"frame": 164, "rating": 70}
+]
+```
+
+---
+
+### Step 3: Analysis of Frames and Ratings  
+
+1. **Frame 12 (Rating: 80)**  
+   - Content: Players entering the field, Real Madrid players in focus with a large crowd in the background.  
+   - **Analysis**: This is a high-energy moment, showing the anticipation of the match. The fixed rating of 80 appropriately reflects its significance.  
+
+2. **Frame 18 (Rating: 58)**  
+   - Content: The coach of Real Madrid on the bench, showing a calm and thoughtful expression.  
+   - **Analysis**: This is a less dynamic frame compared to others. It gives context to the match but has average interest compared to action-packed moments.  
+
+3. **Frame 24 (Rating: 95)**  
+   - Content: Ronaldo's name and jersey number in focus, emphasizing his star presence.  
+   - **Analysis**: Ronaldo is a major attraction for viewers, and the fixed high rating of 95 correctly reflects this.  
+
+4. **Frame 63 (Rating: 30)**  
+   - Content: A plain green field with no visible players or action.  
+   - **Analysis**: This frame lacks any significant content and is appropriately rated low at 30.  
+
+5. **Frame 129 (Rating: 91)**  
+   - Content: A goal scene, with the ball entering the net and players in action.  
+   - **Analysis**: This is an exciting moment for viewers, emphasizing the thrill of scoring. The fixed high rating of 91 is justified.  
+
+6. **Frame 160 (Rating: 50)**  
+   - Content: A wide shot of players on the field, with some action starting to develop.  
+   - **Analysis**: While it shows gameplay, it lacks the intensity or significance of a goal or close-up action.  
+
+7. **Frame 161 (Rating: 55)**  
+   - Content: The gameplay progresses, with players in motion and potential for an attack.  
+   - **Analysis**: Slightly more engaging than Frame 160, as it hints at an imminent action.  
+
+8. **Frame 162 (Rating: 60)**  
+   - Content: A closer shot of an attacking play, with a player in a scoring position.  
+   - **Analysis**: The tension rises, making it more interesting than the previous frame.  
+
+9. **Frame 163 (Rating: 65)**  
+   - Content: A shot on goal, with the goalkeeper diving to make a save.  
+   - **Analysis**: High tension and action make this a more engaging frame.  
+
+10. **Frame 164 (Rating: 70)**  
+    - Content: A decisive moment with the ball approaching the goal and players reacting.  
+    - **Analysis**: The culmination of action with a scoring opportunity makes this frame compelling.  
+
+--- 
+
+### Summary  
+The ratings balance the fixed scores with the relative intensity and interest level of each frame. Key moments like goals, star players, and gameplay progression are prioritized for higher ratings.
+
+###################################################
+###################################################
+
+33 ['./dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/51.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/77.png', './dataset/youtube/video_31529/tmp/98.png', './dataset/youtube/video_31529/frames/165.png', './dataset/youtube/video_31529/frames/166.png', './dataset/youtube/video_31529/frames/167.png', './dataset/youtube/video_31529/frames/168.png', './dataset/youtube/video_31529/frames/169.png']
+### Keywords Analysis:
+Based on the video metadata, the following keywords are likely to attract viewers:
+- **Real Madrid, Ronaldo, Goals, Football, Soccer, Highlights, Deportivo, Teresa Herrera, Winning Moments.**
+
+### JSON Ratings:
+```json
+[
+    {"frame": 24, "rating": 95},
+    {"frame": 51, "rating": 72},
+    {"frame": 63, "rating": 30},
+    {"frame": 77, "rating": 83},
+    {"frame": 98, "rating": 84},
+    {"frame": 165, "rating": 70},
+    {"frame": 166, "rating": 74},
+    {"frame": 167, "rating": 68},
+    {"frame": 168, "rating": 50},
+    {"frame": 169, "rating": 40}
+]
+```
+
+---
+
+### Frame Analysis and Ratings Explanation:
+
+1. **Frame 24 (Rating: 95 - Fixed):**
+    - **Content:** The back of a famous football player (Ronaldo) with his jersey number 7 is visible.
+    - **Analysis:** This frame showcases a globally recognized player, which is very engaging for Real Madrid fans and football enthusiasts. The fixed high rating reflects this significance.
+
+2. **Frame 51 (Rating: 72 - Fixed):**
+    - **Content:** A wide view of the field with players chasing the ball.
+    - **Analysis:** While this shows active gameplay, it is not as close or dramatic as other frames. The fixed rating of 72 matches its content's moderate interest level.
+
+3. **Frame 63 (Rating: 30 - Fixed):**
+    - **Content:** A blurred and unrecognizable portion of the field.
+    - **Analysis:** This frame lacks any clear action or recognizable elements, making it the least interesting. The fixed low score is justified.
+
+4. **Frame 77 (Rating: 83 - Fixed):**
+    - **Content:** A goal-scoring moment or a close attempt with visible players near the net.
+    - **Analysis:** This frame captures one of the most exciting parts of the game—a goal or near-goal action. Its fixed score reflects its high engagement potential.
+
+5. **Frame 98 (Rating: 84 - Fixed):**
+    - **Content:** Players gathered near the goalpost, possibly after a goal or a missed chance.
+    - **Analysis:** The frame likely portrays a tense or celebratory moment, adding to its appeal. The fixed score aligns with its importance.
+
+6. **Frame 165 (Rating: 70):**
+    - **Content:** A goalkeeper saving or missing a shot.
+    - **Analysis:** This frame shows a critical moment involving the goalkeeper, which is interesting but not as dramatic as a goal-scoring scene. A slightly lower score than Frame 77 is reasonable.
+
+7. **Frame 166 (Rating: 74):**
+    - **Content:** A clearer view of the ball going into the net or just after a save.
+    - **Analysis:** This frame likely shows a climactic moment of action, slightly more interesting than Frame 165 due to clarity and context.
+
+8. **Frame 167 (Rating: 68):**
+    - **Content:** Players dispersing after the goalkeeper's action.
+    - **Analysis:** While it retains some context of the previous frames, the action is less immediate or engaging, resulting in a lower score.
+
+9. **Frame 168 (Rating: 50):**
+    - **Content:** A close-up of a player from Deportivo.
+    - **Analysis:** A focused shot on a single player is less engaging compared to gameplay or goal moments. Still, it holds some value due to player recognition.
+
+10. **Frame 169 (Rating: 40):**
+    - **Content:** Post-match or off-field interaction, with players casually standing or walking.
+    - **Analysis:** This frame lacks action or dramatic appeal, making it one of the least engaging moments.
+
+---
+
+### Summary:
+Frames with dramatic moments (e.g., goals, iconic players) received higher ratings, while less intense or unclear content scored lower. The fixed ratings served as benchmarks for distributing scores among the remaining frames.
+
+###################################################
+###################################################
+
+34 ['./dataset/youtube/video_31529/tmp/0.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/147.png', './dataset/youtube/video_31529/tmp/149.png', './dataset/youtube/video_31529/frames/170.png', './dataset/youtube/video_31529/frames/171.png', './dataset/youtube/video_31529/frames/172.png', './dataset/youtube/video_31529/frames/173.png', './dataset/youtube/video_31529/frames/174.png']
+### Keywords for Attracting Viewers:
+Based on the video information:
+- **Real Madrid**, **Deportivo**, **Football Highlights**, **Soccer**, **Goals**, **Teresa Herrera Trophy**, **Cristiano Ronaldo**, **Team Celebration**, **Iker Casillas**, **Kaká**, **Victory**, **Sportsmanship**.
+
+### JSON Output:
+```json
+[
+    {"frame": 0, "rating": 70},
+    {"frame": 24, "rating": 95},
+    {"frame": 63, "rating": 30},
+    {"frame": 147, "rating": 81},
+    {"frame": 149, "rating": 73},
+    {"frame": 170, "rating": 65},
+    {"frame": 171, "rating": 62},
+    {"frame": 173, "rating": 88},
+    {"frame": 174, "rating": 90}
+]
+```
+
+### Frame Analysis and Rating Explanation:
+
+1. **Frame 0 (Rating: 70):**
+   - **Content:** Team photo of Real Madrid players on the field.
+   - **Analysis:** Group photos of players are moderately engaging as they showcase team spirit and unity. However, the overlay effect slightly distracts from the image clarity.
+   - **Reason for Score:** The frame captures the team, which is appealing but not action-packed or highly memorable.
+
+2. **Frame 24 (Rating: 95):**
+   - **Content:** Cristiano Ronaldo with his iconic jersey number ("7").
+   - **Analysis:** Ronaldo is a globally recognized player, and his appearance significantly boosts interest, especially for fans of Real Madrid and football.
+   - **Reason for Score:** This frame highlights a superstar, making it one of the most captivating moments.
+
+3. **Frame 63 (Rating: 30):**
+   - **Content:** An empty or plain field with no actions or players visible.
+   - **Analysis:** This frame lacks any engaging elements, such as players, action, or context.
+   - **Reason for Score:** Minimal visual appeal or relevance to the video’s highlights.
+
+4. **Frame 147 (Rating: 81):**
+   - **Content:** Iker Casillas, wearing his goalkeeper jersey.
+   - **Analysis:** Casillas is a legendary Real Madrid player. Highlighting him adds significant interest, especially for fans of goalkeeping.
+   - **Reason for Score:** While it’s a strong frame, it’s slightly less impactful than Ronaldo’s frame.
+
+5. **Frame 149 (Rating: 73):**
+   - **Content:** A long shot of the game in progress.
+   - **Analysis:** Gameplay shots are interesting but less so when shot from a distance, as detailed actions aren’t visible.
+   - **Reason for Score:** The frame captures the essence of football but lacks close-up action.
+
+6. **Frame 170 (Rating: 65):**
+   - **Content:** Players from both teams interacting post-match.
+   - **Analysis:** It conveys sportsmanship but lacks dramatic or visually impactful moments.
+   - **Reason for Score:** Moderately interesting due to its emotional connection to the game.
+
+7. **Frame 171 (Rating: 62):**
+   - **Content:** Continuation of post-match interactions.
+   - **Analysis:** Similar to frame 170 but less engaging due to the specific player positions.
+   - **Reason for Score:** Slightly less impactful than the previous frame.
+
+8. **Frame 173 (Rating: 88):**
+   - **Content:** Players holding the Teresa Herrera Trophy (Kaká and Casillas).
+   - **Analysis:** Trophy moments are highly engaging and symbolize victory, which appeals to viewers emotionally.
+   - **Reason for Score:** Captures a triumphant moment but slightly less intense than Ronaldo’s frame.
+
+9. **Frame 174 (Rating: 90):**
+   - **Content:** Continuation of the trophy-lifting moment.
+   - **Analysis:** The focus on the trophy and players in this frame enhances its visual and emotional appeal.
+   - **Reason for Score:** A key celebratory moment, slightly better framed than 173 due to clearer focus.
+No json or wrong score length, repeat!!!!!!!!!!!!!!!!!!!!!!!!!!
+### Keywords Summary:
+Based on the video information, the following keywords stand out to attract viewers:
+- **Real Madrid**
+- **Deportivo**
+- **Football**
+- **Soccer**
+- **Goals**
+- **Teresa Herrera Trophy**
+- **Cristiano Ronaldo**
+- **Casillas**
+- **Victory**
+- **Trophy Presentation**
+
+These keywords emphasize the competitive match, prominent players, the trophy, and the team's victory. Based on these, the image content in each frame is analyzed for interestingness.
+
+### JSON Ratings:
+
+```json
+[
+    {"frame": 0, "rating": 70},
+    {"frame": 24, "rating": 95},
+    {"frame": 63, "rating": 30},
+    {"frame": 147, "rating": 81},
+    {"frame": 149, "rating": 73},
+    {"frame": 170, "rating": 60},
+    {"frame": 171, "rating": 62},
+    {"frame": 173, "rating": 85},
+    {"frame": 174, "rating": 87}
+]
+```
+
+### Analysis and Rating Explanation:
+
+1. **Frame 0 (Rating: 70)**:
+   - The frame shows the entire Real Madrid team posing for a photograph. This is significant for fans, especially as it highlights the team unity and their victory. However, the overlay effect reduces clarity and slightly impacts the overall appeal.
+
+2. **Frame 24 (Rating: 95)**:
+   - A close-up of Cristiano Ronaldo with his iconic jersey number "7" is shown. This is highly engaging as Ronaldo is a globally recognized figure in football, making this frame very appealing to fans.
+
+3. **Frame 63 (Rating: 30)**:
+   - The frame appears to show a blank or unclear view (likely a transition or accidental capture). It holds little to no visual interest for viewers.
+
+4. **Frame 147 (Rating: 81)**:
+   - The frame prominently features Iker Casillas, another legendary figure in football. As a celebrated goalkeeper, his presence adds significant interest, though not as much as Ronaldo due to the lack of action or emotional intensity in the frame.
+
+5. **Frame 149 (Rating: 73)**:
+   - The frame depicts a wide view of the field and ongoing gameplay. While this is relevant to the match, it lacks close-up action or specific highlights, making it moderately interesting.
+
+6. **Frame 170 (Rating: 60)**:
+   - This frame shows interactions between players, likely post-match. While it showcases sportsmanship, it is less engaging compared to action shots or key players.
+
+7. **Frame 171 (Rating: 62)**:
+   - Similar to Frame 170, this frame captures player interactions but offers slightly better framing and context.
+
+8. **Frame 173 (Rating: 85)**:
+   - This frame shows the trophy being lifted or handed over—a moment of celebration and significance. Fans appreciate such victorious moments, making it highly engaging.
+
+9. **Frame 174 (Rating: 87)**:
+   - Similar to Frame 173, this frame also focuses on the trophy presentation. It scores slightly higher due to better composition and clarity, making it a strong highlight of the video.
+
+### Summary:
+Frames featuring iconic players (24, 147), the trophy (173, 174), or the team (0) are rated higher due to their emotional and visual appeal. Frames with unclear or generic content (63, 170) are rated lower.
+No json or wrong score length, repeat!!!!!!!!!!!!!!!!!!!!!!!!!!
+### Keywords Summary:
+**Keywords to attract viewers**:
+- Real Madrid
+- Ronaldo
+- Casillas
+- Kaka
+- Teresa Herrera Trophy
+- Victory Celebration
+- Goals
+- Football Highlights
+- Soccer Match
+- Deportivo vs. Real Madrid
+
+---
+
+### JSON Output:
+
+```json
+[
+    {"frame": 0, "rating": 70},
+    {"frame": 24, "rating": 95},
+    {"frame": 63, "rating": 30},
+    {"frame": 147, "rating": 81},
+    {"frame": 149, "rating": 73},
+    {"frame": 170, "rating": 60},
+    {"frame": 171, "rating": 58},
+    {"frame": 173, "rating": 90},
+    {"frame": 174, "rating": 92}
+]
+```
+
+---
+
+### Analysis and Rating Explanation:
+
+1. **Frame 0**:
+   - **Content**: A team photo of Real Madrid players, likely before or after the match. The presence of players in Real Madrid jerseys is engaging but less dynamic compared to action shots or close-ups of star players.
+   - **Rating**: 70 (Moderately interesting; appeals to fans of the team and adds context to the game).
+
+2. **Frame 24**:
+   - **Content**: A close-up of Ronaldo's jersey with his iconic number 7. This frame highlights one of the most celebrated players in football history.
+   - **Rating**: 95 (Very high interest due to Ronaldo's star power and recognition).
+
+3. **Frame 63**:
+   - **Content**: A nondescript green field with no visible players or action. This frame lacks context or visual appeal.
+   - **Rating**: 30 (Low interest; doesn't add value to the highlights).
+
+4. **Frame 147**:
+   - **Content**: Iker Casillas, a legendary goalkeeper, is visible in the frame. His presence adds significant interest for fans familiar with football history.
+   - **Rating**: 81 (High interest due to star power and context).
+
+5. **Frame 149**:
+   - **Content**: A wide shot showing the match in progress. While dynamic, it doesn't focus on a specific player or moment.
+   - **Rating**: 73 (Moderately high interest; captures gameplay but lacks a specific highlight).
+
+6. **Frame 170**:
+   - **Content**: Deportivo players and staff are visible, but no significant moment or action is captured.
+   - **Rating**: 60 (Moderate interest; less relevant to Real Madrid fans).
+
+7. **Frame 171**:
+   - **Content**: Similar to frame 170, featuring Deportivo players and staff, with no significant action or focus.
+   - **Rating**: 58 (Slightly lower interest than frame 170 due to lack of variety).
+
+8. **Frame 173**:
+   - **Content**: Kaka and Casillas holding the Teresa Herrera Trophy, a clear moment of celebration and victory.
+   - **Rating**: 90 (Very interesting; trophy presentation and legendary players elevate the frame).
+
+9. **Frame 174**:
+   - **Content**: Similar to frame 173, but with better focus on Kaka and Casillas holding the trophy, making it even more visually appealing.
+   - **Rating**: 92 (Slightly higher than frame 173 due to improved focus on key players and celebration).
+
+---
+
+### Summary:
+Frames featuring star players (e.g., Ronaldo, Casillas, Kaka) or significant moments (e.g., trophy celebrations) score higher due to their emotional and iconic value. Frames that lack action or focus on less interesting subjects score lower.
+No json or wrong score length, repeat!!!!!!!!!!!!!!!!!!!!!!!!!!
+### Keywords Summary
+Based on the video information, the following keywords may attract viewers:
+- **Real Madrid**, **Deportivo**, **Teresa Herrera**
+- **Football**, **Soccer**, **Goals**, **Victory**
+- **Cristiano Ronaldo**, **Iker Casillas**, **Kaká**
+- **Trophy**, **Team Celebration**, **Match Highlights**
+
+### JSON Output
+```json
+[
+    {"frame": 0, "rating": 70},
+    {"frame": 24, "rating": 95},
+    {"frame": 63, "rating": 30},
+    {"frame": 147, "rating": 81},
+    {"frame": 149, "rating": 73},
+    {"frame": 170, "rating": 65},
+    {"frame": 171, "rating": 67},
+    {"frame": 173, "rating": 90},
+    {"frame": 174, "rating": 91}
+]
+```
+
+### Analysis and Ratings Explanation
+
+1. **Frame 0: (Rating: 70)**  
+   - **Content**: Team photo with players in Real Madrid jerseys, possibly taken after the match or during a pre-game setup.
+   - **Reason for Rating**: Team celebrations and group photos are appealing to fans but lack specific action or individual highlights. The trophy can be faintly seen, adding some interest.
+
+2. **Frame 24: (Rating: 95)**  
+   - **Content**: A close-up of Cristiano Ronaldo with his iconic jersey number "7".
+   - **Reason for Rating**: Ronaldo is a globally recognized superstar, and his presence in a frame significantly boosts its appeal. This close-up likely appeals to a wide audience.
+
+3. **Frame 63: (Rating: 30)**  
+   - **Content**: A blank green field with no visible action or players.
+   - **Reason for Rating**: This frame offers no engaging content, making it the least interesting in the sequence.
+
+4. **Frame 147: (Rating: 81)**  
+   - **Content**: A close-up of Iker Casillas, another iconic Real Madrid player.
+   - **Reason for Rating**: Casillas is a legendary goalkeeper, and his appearance in this frame would attract fans, though slightly less than Ronaldo’s appeal.
+
+5. **Frame 149: (Rating: 73)**  
+   - **Content**: A wide-angle view of the game in progress.
+   - **Reason for Rating**: Action shots of a match are always engaging but lack the personal connection of close-ups of star players. 
+
+6. **Frame 170: (Rating: 65)**  
+   - **Content**: Players from Deportivo and Real Madrid interacting, possibly post-match.
+   - **Reason for Rating**: While it shows some engagement between players, there is no clear highlight or significant context, slightly lowering its appeal.
+
+7. **Frame 171: (Rating: 67)**  
+   - **Content**: Similar to frame 170 but with slightly clearer details of player interactions.
+   - **Reason for Rating**: Slightly more clarity than frame 170, offering a marginally higher rating.
+
+8. **Frame 173: (Rating: 90)**  
+   - **Content**: Players holding the Teresa Herrera trophy.
+   - **Reason for Rating**: Trophy moments are iconic and represent the culmination of a match, making this frame very appealing to fans.
+
+9. **Frame 174: (Rating: 91)**  
+   - **Content**: A continuation of frame 173, with clearer focus on Kaká and Casillas holding the trophy.
+   - **Reason for Rating**: The addition of prominent players like Kaká, combined with the trophy moment, elevates the frame's appeal slightly above frame 173.
+No json or wrong score length, repeat!!!!!!!!!!!!!!!!!!!!!!!!!!
+### Keywords for Attracting Viewers:
+- Real Madrid
+- Cristiano Ronaldo
+- Iker Casillas
+- Trophy Celebration
+- Match Highlights
+- Victory
+- Teresa Herrera Trophy
+- Goals and Action
+- Team Spirit
+- Soccer Moments
+
+---
+
+### JSON Output:
+
+```json
+[
+    {"frame": 0, "rating": 70},
+    {"frame": 24, "rating": 95},
+    {"frame": 63, "rating": 30},
+    {"frame": 147, "rating": 81},
+    {"frame": 149, "rating": 73},
+    {"frame": 170, "rating": 60},
+    {"frame": 171, "rating": 65},
+    {"frame": 173, "rating": 90},
+    {"frame": 174, "rating": 92}
+]
+```
+
+---
+
+### Analysis and Ratings:
+
+1. **Frame 0**  
+   - **Content:** Team group photo with a trophy in focus.  
+   - **Analysis:** Highlights the team spirit and victory celebration, appealing to fans of Real Madrid. However, the frame is slightly cluttered.  
+   - **Rating:** 70 (Good representation of team victory, but not the most visually striking).
+
+2. **Frame 24**  
+   - **Content:** Close-up of Cristiano Ronaldo with his jersey name visible.  
+   - **Analysis:** Ronaldo is a key attraction for Real Madrid fans and football enthusiasts worldwide. This frame is highly engaging due to its focus on a global icon.  
+   - **Rating:** 95 (One of the most captivating frames).
+
+3. **Frame 63**  
+   - **Content:** A blank green field with no significant action.  
+   - **Analysis:** Lacks any engaging elements or storytelling.  
+   - **Rating:** 30 (Minimal visual interest).
+
+4. **Frame 147**  
+   - **Content:** Iker Casillas, the legendary goalkeeper, captured in action.  
+   - **Analysis:** Casillas is a fan favorite, and this frame is appealing due to his prominent presence.  
+   - **Rating:** 81 (Strong player presence, but not as dynamic as Ronaldo’s frame).
+
+5. **Frame 149**  
+   - **Content:** Wide shot of the match in progress.  
+   - **Analysis:** Provides context for the game, showing gameplay action. While it’s interesting, it doesn’t focus on specific players or decisive moments.  
+   - **Rating:** 73 (Decent action shot but lacks a standout moment).
+
+6. **Frame 170**  
+   - **Content:** Players interacting post-match, with Deportivo players also visible.  
+   - **Analysis:** Captures sportsmanship, but it’s less focused and lacks a clear emotional appeal.  
+   - **Rating:** 60 (Good context but less engaging).
+
+7. **Frame 171**  
+   - **Content:** A continuation of player interactions with more clarity.  
+   - **Analysis:** Slightly better framing than the previous frame with improved focus.  
+   - **Rating:** 65 (Marginally better than Frame 170).
+
+8. **Frame 173**  
+   - **Content:** Players holding the Teresa Herrera Trophy.  
+   - **Analysis:** Trophy celebrations are iconic and central to the theme of victory, making this frame highly engaging.  
+   - **Rating:** 90 (Strong portrayal of success).
+
+9. **Frame 174**  
+   - **Content:** A close-up continuation of the trophy moment, with better focus on the players and the trophy.  
+   - **Analysis:** Builds on Frame 173 with a clearer and more concentrated view of the celebratory moment.  
+   - **Rating:** 92 (Even more captivating due to clarity and focus).
+
+--- 
+
+### Summary:
+The most engaging frames are those featuring star players like Cristiano Ronaldo or key moments like trophy celebrations. Frames with minimal action or unclear focus, such as the blank field (Frame 63), score the lowest.
+No json or wrong score length, repeat!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+###################################################
+###################################################
+
+35 ['./dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/27.png', './dataset/youtube/video_31529/tmp/32.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/69.png', './dataset/youtube/video_31529/frames/175.png', './dataset/youtube/video_31529/frames/176.png', './dataset/youtube/video_31529/frames/177.png', './dataset/youtube/video_31529/frames/178.png', './dataset/youtube/video_31529/frames/179.png']
+### Step 1: Keywords Summary
+Based on the video title, categories, and tags, relevant keywords include:  
+**"Real Madrid," "Deportivo," "football," "soccer," "Ronaldo," "goals," "match action," "trophy," "celebration," "Teresa Herrera."**  
+
+These keywords suggest that viewers are likely to be interested in moments involving:  
+- Star players like Ronaldo.  
+- Match highlights or goals.  
+- Trophy presentations and celebrations.
+
+---
+
+### Step 2: JSON Ratings
+
+```json
+[
+    {"frame": 24, "rating": 95},
+    {"frame": 27, "rating": 68},
+    {"frame": 32, "rating": 64},
+    {"frame": 63, "rating": 30},
+    {"frame": 69, "rating": 74},
+    {"frame": 175, "rating": 85},
+    {"frame": 176, "rating": 85},
+    {"frame": 177, "rating": 90},
+    {"frame": 178, "rating": 90},
+    {"frame": 179, "rating": 90}
+]
+```
+
+---
+
+### Step 3: Frame-by-Frame Analysis and Ratings Explanation
+
+#### Frame 24
+- **Content:** Ronaldo is prominently featured, with his jersey and iconic number "7" visible.  
+- **Reason for High Rating:** Ronaldo is a star player, highly recognizable and a key attraction. This is a fixed rating of **95**.  
+
+#### Frame 27
+- **Content:** Isco is featured, another well-known player, but not as iconic as Ronaldo.  
+- **Reason for Rating:** The frame is interesting but relatively less impactful than Ronaldo's frame. Fixed rating of **68**.
+
+#### Frame 32
+- **Content:** Carvajal appears with other players in the background.  
+- **Reason for Rating:** While Carvajal is a known player, this frame lacks action or significant context, reducing its excitement. Fixed rating of **64**.  
+
+#### Frame 63
+- **Content:** Plain green field with no visible players or action.  
+- **Reason for Rating:** This frame is the least interesting due to the absence of any engaging content. Fixed rating of **30**.
+
+#### Frame 69
+- **Content:** Match action on the field, with multiple players in motion.  
+- **Reason for Rating:** Action-filled frames are more engaging, especially for sports viewers. This frame is rated **74**, higher than static frames but lower than player-focused frames.  
+
+#### Frame 175
+- **Content:** Players holding the trophy, with a few individuals in focus.  
+- **Reason for Rating:** Trophy moments are significant, adding excitement and engagement. Rated **85**, slightly below group trophy poses.  
+
+#### Frame 176
+- **Content:** Similar to Frame 175, with minor variations in focus.  
+- **Reason for Rating:** Same context and value as Frame 175. Rated **85**.  
+
+#### Frames 177, 178, and 179
+- **Content:** Group photo with the team and trophy.  
+- **Reason for Rating:** Group trophy celebrations are iconic and highly engaging, symbolizing victory. These frames are equally rated **90**, reflecting their shared importance.  
+
+--- 
+
+### Summary
+- Star players like Ronaldo and moments involving trophies or match action receive high ratings.  
+- Static or less engaging frames, like a plain field, receive lower ratings.  
+- Fixed ratings help anchor the relative scale for other frames.  
+
+###################################################
+###################################################
+
+36 ['./dataset/youtube/video_31529/tmp/4.png', './dataset/youtube/video_31529/tmp/24.png', './dataset/youtube/video_31529/tmp/51.png', './dataset/youtube/video_31529/tmp/63.png', './dataset/youtube/video_31529/tmp/74.png', './dataset/youtube/video_31529/frames/180.png', './dataset/youtube/video_31529/frames/181.png', './dataset/youtube/video_31529/frames/182.png', './dataset/youtube/video_31529/frames/183.png', './dataset/youtube/video_31529/frames/184.png']
+### Keywords for Attracting Viewers:
+- Real Madrid
+- Ronaldo
+- Victory
+- Trophy Celebration
+- Goals
+- Soccer/Football Match
+- Teresa Herrera
+- Deportivo vs. Real Madrid
+- Highlights
+- Star Players
+
+---
+
+### JSON Rating Output:
+
+```json
+[
+    {"frame": 4, "rating": 85},
+    {"frame": 24, "rating": 95},
+    {"frame": 51, "rating": 72},
+    {"frame": 63, "rating": 30},
+    {"frame": 74, "rating": 87},
+    {"frame": 180, "rating": 85},
+    {"frame": 181, "rating": 80},
+    {"frame": 182, "rating": 85},
+    {"frame": 183, "rating": 85},
+    {"frame": 184, "rating": 85}
+]
+```
+
+---
+
+### Frame Analysis and Rating Explanation:
+
+1. **Frame 4 (Rating: 85)**:
+    - **Content**: The Real Madrid team is celebrating their victory with the trophy. This is a highly engaging moment as it showcases the victory and the team spirit.
+    - **Reason for Rating**: Fixed rating of 85 reflects the celebratory and iconic nature of this team moment.
+
+2. **Frame 24 (Rating: 95)**:
+    - **Content**: Ronaldo's jersey is prominently displayed, focusing on one of the most popular and marketable players in football history.
+    - **Reason for Rating**: Fixed rating of 95 highlights the magnetism of Ronaldo, a global football icon, which draws significant viewer interest.
+
+3. **Frame 51 (Rating: 72)**:
+    - **Content**: A dynamic in-game moment with players running towards the ball, suggesting an attacking move.
+    - **Reason for Rating**: Fixed rating of 72 reflects the moderate interest in gameplay action, though it lacks a decisive moment or a clear highlight.
+
+4. **Frame 63 (Rating: 30)**:
+    - **Content**: The frame shows a blurred and unclear view, likely of the field or grass.
+    - **Reason for Rating**: Fixed rating of 30 reflects the lack of engaging content or any notable subject.
+
+5. **Frame 74 (Rating: 87)**:
+    - **Content**: A shot showing intense action near the goal, with multiple players involved as the ball is struck.
+    - **Reason for Rating**: Fixed rating of 87 emphasizes the high interest in decisive moments like goal attempts.
+
+6. **Frame 180 (Rating: 85)**:
+    - **Content**: Another team photo with the trophy. The content is similar to Frame 4.
+    - **Reason for Rating**: Matches the fixed rating of 85 since the context and content are equally celebratory and engaging.
+
+7. **Frame 181 (Rating: 80)**:
+    - **Content**: A team celebration photo being interrupted by a shirtless individual entering the frame.
+    - **Reason for Rating**: Slightly lower rating (80) than other team photos due to the interruption, which makes the frame less polished but still engaging.
+
+8. **Frame 182 (Rating: 85)**:
+    - **Content**: A polished team photo with the trophy, similar to Frame 4 and Frame 180.
+    - **Reason for Rating**: Fixed rating of 85 reflects the iconic and celebratory nature of the moment.
+
+9. **Frame 183 (Rating: 85)**:
+    - **Content**: Another team photo with the trophy, nearly identical to Frames 4, 180, and 182.
+    - **Reason for Rating**: Fixed rating of 85 maintains consistency with similar celebratory frames.
+
+10. **Frame 184 (Rating: 85)**:
+    - **Content**: Yet another team photo with the trophy, essentially identical to prior frames.
+    - **Reason for Rating**: Fixed rating of 85 aligns with the consistency of similar celebratory frames.
+
+###################################################
+###################################################
+
+LLM score: [70. 90. 90. 90. 85. 75. 75. 70. 70. 65. 65. 65. 80. 78. 78. 80. 60. 62.
+ 58. 55. 55. 60. 60. 60. 95. 70. 65. 68. 60. 63. 65. 62. 64. 70. 80. 58.
+ 60. 70. 75. 80. 85. 80. 80. 75. 70. 85. 80. 80. 75. 75. 70. 72. 75. 78.
+ 90. 85. 90. 92. 80. 75. 70. 92. 90. 30. 85. 80. 90. 78. 76. 74. 85. 88.
+ 90. 92. 87. 90. 87. 83. 82. 80. 78. 80. 85. 88. 90. 88. 88. 90. 90. 80.
+ 88. 90. 92. 92. 85. 90. 89. 85. 84. 83. 80. 80. 80. 80. 75. 85. 82. 88.
+ 90. 92. 90. 85. 50. 55. 53. 50. 40. 45. 60. 65. 50. 55. 60. 70. 80. 85.
+ 88. 90. 92. 91. 60. 60. 60. 89. 92. 90. 70. 75. 75. 65. 70. 70. 85. 85.
+ 85. 87. 84. 81. 72. 73. 75. 78. 80. 83. 88. 85. 90. 88. 75. 72. 50. 55.
+ 60. 65. 70. 70. 74. 68. 50. 40. 73. 60. 65. 90. 92. 85. 85. 90. 90. 90.
+ 85. 80. 85. 85. 85.] 
+GT score: [0.71418281 0.71418281 0.70518025 0.70518025 0.66127676 0.66127676
+ 0.60585435 0.60585435 0.56296288 0.56296288 0.54232119 0.54232119
+ 0.52401553 0.52423334 0.52423334 0.51252469 0.51252469 0.43343097
+ 0.43343097 0.42895454 0.42895454 0.43901626 0.43901626 0.44223189
+ 0.44223189 0.45691961 0.45151737 0.45151737 0.40715936 0.40715936
+ 0.44831169 0.44831169 0.4583054  0.4583054  0.47025971 0.47025971
+ 0.4840686  0.48315069 0.48315069 0.43017497 0.43017497 0.43576541
+ 0.43576541 0.45041792 0.45041792 0.46898503 0.46898503 0.47501664
+ 0.47501664 0.50316043 0.47749581 0.47749581 0.48957709 0.48957709
+ 0.49583319 0.49583319 0.48877498 0.48877498 0.48924901 0.48924901
+ 0.4416331  0.4416331  0.34820971 0.29366659 0.29366659 0.26335312
+ 0.26335312 0.24448525 0.24448525 0.24037929 0.24037929 0.22534064
+ 0.22534064 0.23520014 0.25171888 0.25171888 0.26315303 0.26315303
+ 0.29294626 0.29294626 0.32391183 0.32391183 0.35026533 0.35026533
+ 0.39266532 0.39266532 0.42394376 0.48868748 0.48868748 0.59291086
+ 0.59291086 0.76322261 0.76322261 0.92485138 0.92485138 1.
+ 1.         0.92105085 0.92105085 0.78255812 0.67902779 0.67902779
+ 0.65292535 0.65292535 0.63977391 0.63977391 0.63533551 0.63533551
+ 0.67640245 0.67640245 0.68491498 0.6184114  0.6184114  0.48224787
+ 0.48224787 0.33237086 0.33237086 0.23304613 0.23304613 0.18452718
+ 0.18452718 0.14982126 0.14982126 0.13855525 0.14113793 0.14113793
+ 0.15490558 0.15490558 0.16415528 0.16415528 0.16639042 0.16639042
+ 0.17330967 0.17330967 0.18258005 0.18258005 0.1774582  0.16115014
+ 0.16115014 0.16604788 0.16604788 0.17694005 0.17694005 0.19033373
+ 0.19033373 0.21676702 0.21676702 0.25472041 0.28690012 0.28690012
+ 0.35471223 0.35471223 0.45423257 0.45423257 0.54212493 0.54212493
+ 0.58676738 0.58676738 0.57698199 0.57698199 0.53479921 0.46209834
+ 0.46209834 0.40590699 0.40590699 0.37358108 0.37358108 0.33335525
+ 0.33335525 0.27550342 0.27550342 0.22810335 0.22810335 0.15030211
+ 0.10290682 0.10290682 0.07262093 0.07262093 0.04222136 0.04222136
+ 0.01634564 0.01634564 0.00211295 0.00211295 0.        ]
+ALL PLCC
+
+    (PLCC): 0.08235753693874545, p-value: 0.26507092527589815, Index PLCC: 0.05297350982593492, p-value: 0.4739066981082199
+    (SRCC): 0.04303273206692664, p-value: 0.5608288557851255, Index SRCC: 0.04303273206692664, p-value: 0.5608288557851255
+    
+下面的modified
+原始差 ['0', 20.0, 0.0, 0.0, -5.0, -10.0, 0.0, -5.0, 0.0, -5.0, 0.0, 0.0, 15.0, -2.0, 0.0, 2.0, -20.0, 2.0, -4.0, -3.0, 0.0, 5.0, 0.0, 0.0, 35.0, -25.0, -5.0, 3.0, -8.0, 3.0, 2.0, -3.0, 2.0, 6.0, 10.0, -22.0, 2.0, 10.0, 5.0, 5.0, 5.0, -5.0, 0.0, -5.0, -5.0, 15.0, -5.0, 0.0, -5.0, 0.0, -5.0, 2.0, 3.0, 3.0, 12.0, -5.0, 5.0, 2.0, -12.0, -5.0, -5.0, 22.0, -2.0, -60.0, 55.0, -5.0, 10.0, -12.0, -2.0, -2.0, 11.0, 3.0, 2.0, 2.0, -5.0, 3.0, -3.0, -4.0, -1.0, -2.0, -2.0, 2.0, 5.0, 3.0, 2.0, -2.0, 0.0, 2.0, 0.0, -10.0, 8.0, 2.0, 2.0, 0.0, -7.0, 5.0, -1.0, -4.0, -1.0, -1.0, -3.0, 0.0, 0.0, 0.0, -5.0, 10.0, -3.0, 6.0, 2.0, 2.0, -2.0, -5.0, -35.0, 5.0, -2.0, -3.0, -10.0, 5.0, 15.0, 5.0, -15.0, 5.0, 5.0, 10.0, 10.0, 5.0, 3.0, 2.0, 2.0, -1.0, -31.0, 0.0, 0.0, 29.0, 3.0, -2.0, -20.0, 5.0, 0.0, -10.0, 5.0, 0.0, 15.0, 0.0, 0.0, 2.0, -3.0, -3.0, -9.0, 1.0, 2.0, 3.0, 2.0, 3.0, 5.0, -3.0, 5.0, -2.0, -13.0, -3.0, -22.0, 5.0, 5.0, 5.0, 5.0, 0.0, 4.0, -6.0, -18.0, -10.0, 33.0, -13.0, 5.0, 25.0, 2.0, -7.0, 0.0, 5.0, 0.0, 0.0, -5.0, -5.0, 5.0, 0.0, 0.0]
+处理后差 ['0', 20.0, 0.0, 0.0, -5.0, -10.0, 0.0, -5.0, 0.0, -5.0, 0.0, 0.0, 15.0, -2.0, 0.0, 2.0, -20.0, 2.0, -4.0, -3.0, 0.0, 5.0, 0.0, 0.0, 33, -25.0, -5.0, 3.0, -8.0, 3.0, 2.0, -3.0, 2.0, 6.0, 10.0, -22.0, 2.0, 10.0, 5.0, 5.0, 5.0, -5.0, 0.0, -5.0, -5.0, 15.0, -5.0, 0.0, -5.0, 0.0, -5.0, 2.0, 3.0, 3.0, 12.0, -5.0, 5.0, 2.0, -12.0, -5.0, -5.0, 22.0, -2.0, -33, 33, -5.0, 10.0, -12.0, -2.0, -2.0, 11.0, 3.0, 2.0, 2.0, -5.0, 3.0, -3.0, -4.0, -1.0, -2.0, -2.0, 2.0, 5.0, 3.0, 2.0, -2.0, 0.0, 2.0, 0.0, -10.0, 8.0, 2.0, 2.0, 0.0, -7.0, 5.0, -1.0, -4.0, -1.0, -1.0, -3.0, 0.0, 0.0, 0.0, -5.0, 10.0, -3.0, 6.0, 2.0, 2.0, -2.0, -5.0, -33, 5.0, -2.0, -3.0, -10.0, 5.0, 15.0, 5.0, -15.0, 5.0, 5.0, 10.0, 10.0, 5.0, 3.0, 2.0, 2.0, -1.0, -31.0, 0.0, 0.0, 29.0, 3.0, -2.0, -20.0, 5.0, 0.0, -10.0, 5.0, 0.0, 15.0, 0.0, 0.0, 2.0, -3.0, -3.0, -9.0, 1.0, 2.0, 3.0, 2.0, 3.0, 5.0, -3.0, 5.0, -2.0, -13.0, -3.0, -22.0, 5.0, 5.0, 5.0, 5.0, 0.0, 4.0, -6.0, -18.0, -10.0, 33.0, -13.0, 5.0, 25.0, 2.0, -7.0, 0.0, 5.0, 0.0, 0.0, -5.0, -5.0, 5.0, 0.0, 0.0]
+LLM score: [ 70.   1.   1.   1.  -4. -14. -14. -19. -19. -24. -24. -24.  -9. -11.
+ -11.  -9. -29. -27. -31. -34. -34. -29. -29. -29.   1. -24. -29. -26.
+ -34. -31. -29. -32. -30. -24. -14. -36. -34. -24. -19. -14.  -9. -14.
+ -14. -19. -24.  -9. -14. -14. -19. -19. -24. -22. -19. -16.  -4.  -9.
+  -4.  -2. -14. -19. -24.  -2.  -4. -37.  -4.  -9.   1. -11. -13. -15.
+  -4.  -1.   1.   1.  -4.  -1.  -4.  -8.  -9. -11. -13. -11.  -6.  -3.
+  -1.  -3.  -3.  -1.  -1. -11.  -3.  -1.   1.   1.  -6.  -1.  -2.  -6.
+  -7.  -8. -11. -11. -11. -11. -16.  -6.  -9.  -3.  -1.   1.  -1.  -6.
+ -39. -34. -36. -39. -49. -44. -29. -24. -39. -34. -29. -19.  -9.  -4.
+  -1.   1.   1.   0. -31. -31. -31.  -2.   1.  -1. -21. -16. -16. -26.
+ -21. -21.  -6.  -6.  -6.  -4.  -7. -10. -19. -18. -16. -13. -11.  -8.
+  -3.  -6.  -1.  -3. -16. -19. -41. -36. -31. -26. -21. -21. -17. -23.
+ -41. -51. -18. -31. -26.  -1.   1.  -6.  -6.  -1.  -1.  -1.  -6. -11.
+  -6.  -6.  -6.] 
+GT score: [0.71418281 0.71418281 0.70518025 0.70518025 0.66127676 0.66127676
+ 0.60585435 0.60585435 0.56296288 0.56296288 0.54232119 0.54232119
+ 0.52401553 0.52423334 0.52423334 0.51252469 0.51252469 0.43343097
+ 0.43343097 0.42895454 0.42895454 0.43901626 0.43901626 0.44223189
+ 0.44223189 0.45691961 0.45151737 0.45151737 0.40715936 0.40715936
+ 0.44831169 0.44831169 0.4583054  0.4583054  0.47025971 0.47025971
+ 0.4840686  0.48315069 0.48315069 0.43017497 0.43017497 0.43576541
+ 0.43576541 0.45041792 0.45041792 0.46898503 0.46898503 0.47501664
+ 0.47501664 0.50316043 0.47749581 0.47749581 0.48957709 0.48957709
+ 0.49583319 0.49583319 0.48877498 0.48877498 0.48924901 0.48924901
+ 0.4416331  0.4416331  0.34820971 0.29366659 0.29366659 0.26335312
+ 0.26335312 0.24448525 0.24448525 0.24037929 0.24037929 0.22534064
+ 0.22534064 0.23520014 0.25171888 0.25171888 0.26315303 0.26315303
+ 0.29294626 0.29294626 0.32391183 0.32391183 0.35026533 0.35026533
+ 0.39266532 0.39266532 0.42394376 0.48868748 0.48868748 0.59291086
+ 0.59291086 0.76322261 0.76322261 0.92485138 0.92485138 1.
+ 1.         0.92105085 0.92105085 0.78255812 0.67902779 0.67902779
+ 0.65292535 0.65292535 0.63977391 0.63977391 0.63533551 0.63533551
+ 0.67640245 0.67640245 0.68491498 0.6184114  0.6184114  0.48224787
+ 0.48224787 0.33237086 0.33237086 0.23304613 0.23304613 0.18452718
+ 0.18452718 0.14982126 0.14982126 0.13855525 0.14113793 0.14113793
+ 0.15490558 0.15490558 0.16415528 0.16415528 0.16639042 0.16639042
+ 0.17330967 0.17330967 0.18258005 0.18258005 0.1774582  0.16115014
+ 0.16115014 0.16604788 0.16604788 0.17694005 0.17694005 0.19033373
+ 0.19033373 0.21676702 0.21676702 0.25472041 0.28690012 0.28690012
+ 0.35471223 0.35471223 0.45423257 0.45423257 0.54212493 0.54212493
+ 0.58676738 0.58676738 0.57698199 0.57698199 0.53479921 0.46209834
+ 0.46209834 0.40590699 0.40590699 0.37358108 0.37358108 0.33335525
+ 0.33335525 0.27550342 0.27550342 0.22810335 0.22810335 0.15030211
+ 0.10290682 0.10290682 0.07262093 0.07262093 0.04222136 0.04222136
+ 0.01634564 0.01634564 0.00211295 0.00211295 0.        ]
+ALL PLCC
+
+    (PLCC): 0.11032256571960476, p-value: 0.13492861459916228, Index PLCC: 0.05297350982593492, p-value: 0.4739066981082199
+    (SRCC): 0.044898752660544786, p-value: 0.5439464502181518, Index SRCC: 0.04303273206692664, p-value: 0.5608288557851255
+    
+Weight: [70. 90. 90. 90. 85. 75. 75. 70. 70. 65. 65. 65. 80. 78. 78. 80. 60. 62.
+ 58. 55. 55. 60. 60. 60. 95. 70. 65. 68. 60. 63. 65. 62. 64. 70. 80. 58.
+ 60. 70. 75. 80. 85. 80. 80. 75. 70. 85. 80. 80. 75. 75. 70. 72. 75. 78.
+ 90. 85. 90. 92. 80. 75. 70. 92. 90. 30. 85. 80. 90. 78. 76. 74. 85. 88.
+ 90. 92. 87. 90. 87. 83. 82. 80. 78. 80. 85. 88. 90. 88. 88. 90. 90. 80.
+ 88. 90. 92. 92. 85. 90. 89. 85. 84. 83. 80. 80. 80. 80. 75. 85. 82. 88.
+ 90. 92. 90. 85. 50. 55. 53. 50. 40. 45. 60. 65. 50. 55. 60. 70. 80. 85.
+ 88. 90. 92. 91. 60. 60. 60. 89. 92. 90. 70. 75. 75. 65. 70. 70. 85. 85.
+ 85. 87. 84. 81. 72. 73. 75. 78. 80. 83. 88. 85. 90. 88. 75. 72. 50. 55.
+ 60. 65. 70. 70. 74. 68. 50. 40. 73. 60. 65. 90. 92. 85. 85. 90. 90. 90.
+ 85. 80. 85. 85. 85.]
+从这里再绘制一次后处理的图片，和PLCC
+{'subscription': {'isActive': True, 'planType': 'yearly', 'id': 'U3Vic2NyaXB0aW9uOjA=', 'purchaseType': 'web', 'isComplimentary': False, 'expiresTime': 1769173621000000, 'willCancelAtPeriodEnd': False, 'isFreeTrial': False, 'purchaseRevocationReason': None}, 'messagePointInfo': {'messagePointResetTime': 1740182518000000, 'messagePointBalance': 517105, 'totalMessagePointAllotment': 1000000, 'id': 'TWVzc2FnZVBvaW50SW5mbzow'}}

@@ -1,0 +1,241 @@
+Skipping ProxyFetcher due to No module named 'ballyregan'.
+412019
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+Processing video video_115 (1/1)
+只有一项，而且个数不大于m
+412019
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+chat_break error
+411987
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+Time interval: 6.540932655334473, Score change: 32
+Keywords that may attract viewers based on the video information:
+- Maradona: Legendary Argentinian footballer
+- Punizione più bella di sempre: "The most beautiful free kick ever"
+
+Analysis and ratings for the provided frames:
+
+[
+    {"frame": 88, "rating": 90},
+    {"frame": 89, "rating": 85},
+    {"frame": 90, "rating": 95},
+    {"frame": 91, "rating": 92},
+    {"frame": 92, "rating": 80}
+]
+
+Frame 88: This frame shows Maradona with an intense, focused expression on his face, suggesting he is about to take an important free kick. The dark background and dramatic lighting create a sense of anticipation, which is fitting for the "most beautiful free kick ever" theme. Rating: 90
+
+Frame 89: Maradona is still preparing to take the free kick, with a determined look on his face. The frame captures the moment before the action, building up the tension and excitement. Rating: 85
+
+Frame 90: This is the key moment where Maradona strikes the ball. The image is sharp and captures the power and technique of the shot, which is likely to have resulted in a spectacular goal. This is the most climactic and visually appealing frame. Rating: 95
+
+Frame 91: Maradona has just struck the ball, and the frame captures the immediate aftermath. The body language and facial expression suggest a successful shot, adding to the sense of drama and achievement. Rating: 92
+
+Frame 92: This frame shows the aftermath of the free kick, with players and the goalkeeper reacting to the goal. While it is a less dramatic moment than the previous frames, it still provides context and a sense of the game's outcome. Rating: 80
+
+合法 [88, 89, 90, 91, 92] $$$ [90, 85, 95, 92, 80]
+[(88, 90), (89, 85), (90, 95), (91, 92), (92, 80)] [(90, 95), (91, 92), (88, 90), (89, 85), (92, 80)] [90, 91, 88, 89, 92]
+排序 [90, 91, 88, 89, 92]
+只有一项，而且个数不大于m
+411987
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+chat_break error
+411955
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+Time interval: 7.2773826122283936, Score change: 32
+Based on the video information, the keywords that may attract viewers are "Maradona", "La punizione più bella di sempre" (The most beautiful free kick ever), and "football" or "soccer". These keywords suggest that the video is likely to showcase a memorable free kick by the legendary Argentine footballer Diego Maradona.
+
+Here's the analysis and rating for each frame:
+
+[
+    {"frame": 93, "rating": 75},
+    {"frame": 94, "rating": 85},
+    {"frame": 95, "rating": 90},
+    {"frame": 96, "rating": 80},
+    {"frame": 97, "rating": 95}
+]
+
+Frame 93: This frame shows the ball being kicked, suggesting the setup for a free kick. The players are in position, creating anticipation for the upcoming event. Rating: 75
+
+Frame 94: The ball is now in the air, and the players are watching it closely, indicating the crucial moment of the free kick. The frame captures the tension and drama of the moment. Rating: 85
+
+Frame 95: This frame shows the ball just after it has been kicked, with the goalkeeper attempting to make a save. The players' reactions and the goalkeeper's dive add to the excitement and visual interest. Rating: 90
+
+Frame 96: The frame shows the aftermath of the free kick, with the players celebrating or reacting to the outcome. This provides context and helps the viewer understand the significance of the moment. Rating: 80
+
+Frame 97: This frame showcases the crowd's reaction to the free kick, suggesting it was a memorable and impactful event. The large crowd and their enthusiastic response heighten the sense of excitement and importance. Rating: 95
+
+Overall, the frames capture the key moments of the free kick, building up to the climactic outcome and the crowd's reaction. The visual storytelling and the emotional responses of the players and the crowd make these frames highly interesting and engaging for viewers.
+
+合法 [93, 94, 95, 96, 97] $$$ [75, 85, 90, 80, 95]
+[(93, 75), (94, 85), (95, 90), (96, 80), (97, 95)] [(97, 95), (95, 90), (94, 85), (96, 80), (93, 75)] [97, 95, 94, 96, 93]
+排序 [97, 95, 94, 96, 93]
+5 5 4 正常两组项
+411955
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+chat_break error
+411925
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+Time interval: 10.224273443222046, Score change: 30
+Here is the analysis of the 4 frames:
+
+```json
+[
+    {"frame": 90, "rating": 100},
+    {"frame": 91, "rating": 90},
+    {"frame": 97, "rating": 85},
+    {"frame": 95, "rating": 80}
+]
+```
+
+Analysis:
+
+1. Frame 90 (rating: 100):
+This frame captures a close-up shot of a person, likely the famous football player Maradona, with an intense and focused expression on his face. The dark background creates a dramatic and captivating atmosphere, suggesting a pivotal moment in the video. This frame is highly likely to capture the viewer's attention and pique their interest in the video's content.
+
+2. Frame 91 (rating: 90):
+This frame continues the close-up shot of Maradona, showcasing his determined expression and the intensity of the moment. The lighting and composition create a sense of tension and anticipation, further drawing the viewer into the video's narrative.
+
+3. Frame 97 (rating: 85):
+This frame depicts a large crowd gathered in a stadium, with Maradona's name visible in the background. The image conveys the excitement and energy of a live event, which could be a significant moment in Maradona's career or a memorable match. This frame is likely to appeal to viewers interested in sports and football culture.
+
+4. Frame 95 (rating: 80):
+This frame shows a close-up of what appears to be a piece of equipment or a goal, suggesting a focus on the technical aspects of the sport. While not as visually striking as the previous frames, this image could still be of interest to viewers who appreciate the finer details of football.
+
+Overall, the video seems to be highlighting Maradona's skills and career, focusing on key moments that showcase his talent and the excitement he generated among fans. The varied framing and subject matter in the selected frames suggest a well-crafted video that could appeal to a wide range of viewers, from sports enthusiasts to those interested in the cultural and personal aspects of Maradona's legacy.
+
+合法 [90, 91, 95, 97] $$$ [100, 90, 80, 85]
+[(90, 100), (91, 90), (95, 80), (97, 85)] [(90, 100), (91, 90), (97, 85), (95, 80)] [90, 91, 97, 95]
+排序 [90, 91, 97, 95]
+3 5 4 正常两组项
+411925
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+chat_break error
+411895
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+Time interval: 6.856854438781738, Score change: 30
+Based on the video information, some keywords that may attract viewers are:
+
+- Maradona: A legendary football player
+- "La punizione più bella di sempre": "The most beautiful free kick of all time"
+- Football/Soccer: The sport depicted in the video
+
+Frame-wise analysis and ratings:
+
+[
+    {"frame": 88, "rating": 80},
+    {"frame": 89, "rating": 85},
+    {"frame": 95, "rating": 90},
+    {"frame": 97, "rating": 95}
+]
+
+Frame 88: This frame shows a close-up shot of a person, likely Maradona, making a serious facial expression. The intensity and focus captured in this frame could pique the interest of viewers who are interested in the legendary footballer.
+Rating: 80
+
+Frame 89: This frame continues the close-up shot of the person, likely Maradona, with an even more intense and dramatic facial expression. The lighting and framing of the shot create a powerful and captivating image that would likely draw the attention of viewers.
+Rating: 85
+
+Frame 95: This frame shows a crowd at a football/soccer stadium, with the players and action on the field in the background. The large, enthusiastic crowd and the setting of a high-stakes match would likely generate interest and excitement among viewers.
+Rating: 90
+
+Frame 97: This frame depicts an action shot of a player, likely Maradona, taking a free kick. The dynamic and dramatic nature of this shot, combined with the iconic status of Maradona, would likely be the most appealing and interesting to viewers.
+Rating: 95
+
+合法 [88, 89, 95, 97] $$$ [80, 85, 90, 95]
+[(88, 80), (89, 85), (95, 90), (97, 95)] [(97, 95), (95, 90), (89, 85), (88, 80)] [97, 95, 89, 88]
+排序 [97, 95, 89, 88]
+3 3 4 正常两组项
+411895
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+chat_break error
+411865
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+Time interval: 6.352161884307861, Score change: 30
+Based on the video information, the keywords that may attract viewers are "Maradona" and "the most beautiful free kick ever". These keywords suggest that the video showcases an iconic free kick or goal scored by the legendary Argentinian footballer Maradona.
+
+Here is the analysis of the 4 frames with their respective ratings:
+
+[
+    {"frame": 88, "rating": 80},
+    {"frame": 89, "rating": 85},
+    {"frame": 94, "rating": 90},
+    {"frame": 96, "rating": 95}
+]
+
+Frame 88 (Rating: 80): This frame shows Maradona's intense facial expression as he prepares to take the free kick. The frame captures the anticipation and tension leading up to the shot.
+
+Frame 89 (Rating: 85): In this frame, Maradona is in the midst of taking the free kick. The image conveys the power and technique he is putting into the shot, which is a key moment in the sequence.
+
+Frame 94 (Rating: 90): This frame depicts the ball in mid-air, likely just after Maradona has struck it. The trajectory and movement of the ball suggest the potential for an impressive goal.
+
+Frame 96 (Rating: 95): This frame shows the aftermath of the free kick, with the ball likely already in the net. The crowd's reaction and the players' expressions suggest that Maradona has scored an incredible goal, making this the most interesting and climactic frame in the sequence.
+
+The increasing ratings from frame 88 to frame 96 reflect the progression of the free kick and the growing anticipation and excitement leading up to the goal. The final frame, with the potential for a memorable goal, is the most compelling and attention-grabbing.
+
+合法 [88, 89, 94, 96] $$$ [80, 85, 90, 95]
+[(88, 80), (89, 85), (94, 90), (96, 95)] [(96, 95), (94, 90), (89, 85), (88, 80)] [96, 94, 89, 88]
+排序 [96, 94, 89, 88]
+3 1 4 两组剩余项
+411865
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+chat_break error
+411835
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+Time interval: 6.108530521392822, Score change: 30
+Based on the video information provided, the keywords that may attract viewers are: "Maradona," "La punizione più bella di sempre" (The most beautiful free kick ever). These keywords suggest the video is likely showcasing a famous free kick by the legendary Argentinian footballer Diego Maradona.
+
+Analyzing the image content:
+
+[
+    {"frame": 88, "rating": 80},
+    {"frame": 89, "rating": 90},
+    {"frame": 92, "rating": 85},
+    {"frame": 93, "rating": 95}
+]
+
+Frame 88: This frame shows a close-up of a man, presumably Maradona, with an intense expression on his face. The dark background and focused shot create a sense of drama and anticipation, which is likely to intrigue viewers.
+Rating: 80
+
+Frame 89: This frame captures Maradona in a moment of action, suggesting the free kick is about to be taken. The intensity of his expression and the camera angle make this frame highly engaging for viewers.
+Rating: 90
+
+Frame 92: This frame shows a wider shot of the soccer field, with players positioned for the free kick. The dynamic composition, with the players in motion, adds to the excitement and sets the stage for the upcoming action.
+Rating: 85
+
+Frame 93: This frame captures the moment of the free kick, with the ball in the air and the players reacting. The tension and drama of this critical moment are palpable, making this frame the most visually compelling and potentially the most interesting for viewers.
+Rating: 95
+
+Overall, the video appears to be showcasing a famous and dramatic free kick by Maradona, which is likely to be of great interest to soccer enthusiasts and fans of the legendary player.
+
+合法 [88, 89, 92, 93] $$$ [80, 90, 85, 95]
+[(88, 80), (89, 90), (92, 85), (93, 95)] [(93, 95), (89, 90), (92, 85), (88, 80)] [93, 89, 92, 88]
+排序 [93, 89, 92, 88]
+[2 3 9 7 8 6 5 1 4 0]
+LLM score: [0.         0.22222222 1.         0.88888889 0.11111111 0.33333333
+ 0.44444444 0.66666667 0.55555556 0.77777778] 
+GT score: [0.77645553 0.8191608  0.89800085 0.89800085 0.95629862 1.
+ 0.95198462 0.92090996 0.92090996 0.93537399]
+ALL PLCC
+
+    (PLCC): 0.27759690538676896, p-value: 0.43742707746820936, Index PLCC: -0.07460470969529907, p-value: 0.8377075047183066
+    (SRCC): -0.042683720332337284, p-value: 0.9067992878615369, Index SRCC: -0.042683720332337284, p-value: 0.9067992878615369
+    
+下面的modified
+LLM score: [0.23736761 0.42087049 0.4559698  0.51820941 0.54976605 0.48138652
+ 0.42442501 0.55601329 0.49549726 0.40313972] 
+GT score: [0.77645553 0.8191608  0.89800085 0.89800085 0.95629862 1.
+ 0.95198462 0.92090996 0.92090996 0.93537399]
+ALL PLCC
+
+    (PLCC): 0.6720078298283603, p-value: 0.03330010376653747, Index PLCC: -0.07460470969529907, p-value: 0.8377075047183066
+    (SRCC): 0.3719581343246535, p-value: 0.28987658207732536, Index SRCC: -0.042683720332337284, p-value: 0.9067992878615369
+    
+Video:video_115 Video Title: Maradona - La punizione più bella di sempre
+Categories:['Film & Animation']
+Tags: ['Maradona']
+, ori plcc:0.27759690538676896, modify plcc:0.6720078298283603
+
+411835
+{'text': ['flannel', 'gpt4_o', 'emotive', 'gemini_2_flash', 'grok2', 'claude_3_igloo', 'gemini_1_5_pro', 'claude_3_5_firefly', 'gpt_o1', 'gpt_o1_pro', 'gpt4_o_latest', 'gpt_o3_mini', 'gemini_1_5_flash', 'gpt4_o_mini', 'flannel_reasoning', 'deepseekr1fw', 'perplexitysonar', 'perplexitysonarpro', 'perplexitysonarrsnpro', 'perplexitysonarreasoning', 'perplexitydeepresearch', 'claude_2_1_cedar', 'perplexityr11776', 'llama3170b', 'llama31405b', 'grokbeta', 'llama31nemotron', 'claude_2_1_bamboo', 'claude_3_haiku', 'llama318b', 'claude_3_5_sonnet_20240620', 'chinchilla', 'mixtral8x7bchat', 'gpt4_o_2024_08_06', 'claude_2_short', 'hermes370b', 'beaver'], 'image': ['fluxpro11ultra', 'imagen3', 'fluxpro11', 'playgroundv3', 'imagen3fast', 'ideogramv2', 'fluxpro', 'fluxschnell', 'fluxdev', 'ideogram', 'playgroundv25', 'ideogramv2aturbo', 'ideogramv2a', 'dalle3', 'recraftv3', 'stablediffusion3', 'stablediffusionxl', 'sd3turbo'], 'video': ['runway', 'dreammachine', 'pika']}
+Selected Video ['video_115']
+Total Video 1 Average PLCC: 0.27759690538676896 Average PLCC Modified: 0.6720078298283603
